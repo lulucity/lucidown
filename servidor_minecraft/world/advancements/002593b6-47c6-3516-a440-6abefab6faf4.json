@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/sakura_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-25 23:25:20 +0000"
+    },
+    "done": true
+  },
   "ec_es_plugin:recipes/combat/straw_gauntlet_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-25 23:16:31 +0000"
@@ -215,6 +221,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-25 23:25:20 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_large_bricks_slab": {
     "criteria": {
       "has_journal": "2025-06-25 21:46:57 +0000"
@@ -230,6 +242,12 @@
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-06-25 23:03:37 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_spear_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-25 23:30:39 +0000"
     },
     "done": true
   },
@@ -260,6 +278,12 @@
   "ars_nouveau:recipes/misc/manipulation_essence_to_andesite": {
     "criteria": {
       "has_journal": "2025-06-25 21:46:57 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-25 23:25:20 +0000"
     },
     "done": true
   },
@@ -365,6 +389,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-25 23:25:20 +0000"
+    },
+    "done": true
+  },
   "simplyswords:grant_book_on_first_join": {
     "criteria": {
       "tick": "2025-06-25 21:46:57 +0000"
@@ -398,6 +428,18 @@
   "ars_nouveau:recipes/building_blocks/stripped_green_archwood_wood": {
     "criteria": {
       "has_journal": "2025-06-25 21:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-06-25 23:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-25 23:25:20 +0000"
     },
     "done": true
   },
@@ -503,6 +545,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/stone_dancer_s_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-25 23:30:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-06-25 22:08:50 +0000"
@@ -539,9 +587,27 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/ebony_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-25 23:25:20 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_dagger_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-25 23:30:39 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
     "criteria": {
       "has_wheat": "2025-06-25 23:16:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-25 23:25:20 +0000"
     },
     "done": true
   },
@@ -653,6 +719,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-25 23:24:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-06-25 22:53:40 +0000"
@@ -674,9 +746,22 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-25 23:00:54 +0000",
+      "minecraft:spider": "2025-06-25 23:35:15 +0000",
       "minecraft:zombie": "2025-06-25 23:08:26 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-25 23:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-25 23:30:14 +0000"
+    },
+    "done": true
   },
   "ars_nouveau:recipes/misc/archwood_chest": {
     "criteria": {
@@ -744,6 +829,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-25 23:25:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-06-25 23:35:16 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-06-25 23:05:40 +0000"
@@ -798,6 +895,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-25 23:33:30 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/iron_gauntlet_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-25 23:05:40 +0000"
@@ -825,6 +928,12 @@
   "ars_nouveau:recipes/misc/sourceberry_to_purple": {
     "criteria": {
       "has_journal": "2025-06-25 21:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-06-25 23:35:16 +0000"
     },
     "done": true
   },
@@ -876,6 +985,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-25 23:30:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-06-25 23:16:31 +0000"
@@ -894,9 +1009,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-25 23:25:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2025-06-25 23:09:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-06-25 23:29:14 +0000"
     },
     "done": true
   },
@@ -993,6 +1120,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-25 23:08:03 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/zelkova_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-25 23:25:20 +0000"
     },
     "done": true
   },
@@ -1134,6 +1267,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/ironwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-25 23:25:20 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_fence_gate": {
     "criteria": {
       "has_iron": "2025-06-25 23:05:40 +0000"
@@ -1176,6 +1315,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/green_enchanted_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-25 23:25:20 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/spruce_plank_mace_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-25 22:49:44 +0000"
@@ -1197,6 +1342,12 @@
   "ars_nouveau:recipes/misc/gilded_sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-06-25 21:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-06-25 23:30:14 +0000"
     },
     "done": true
   },
@@ -1230,6 +1381,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-06-25 23:25:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-06-25 23:06:57 +0000"
@@ -1242,6 +1399,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-25 23:30:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-25 22:49:44 +0000"
@@ -1251,6 +1414,12 @@
   "ars_nouveau:recipes/misc/ritual_forestation": {
     "criteria": {
       "has_journal": "2025-06-25 21:46:57 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-25 23:25:20 +0000"
     },
     "done": true
   },
@@ -1440,6 +1609,12 @@
     },
     "done": true
   },
+  "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
+    "criteria": {
+      "apple": "2025-06-25 23:29:14 +0000"
+    },
+    "done": false
+  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_mosaic_slab": {
     "criteria": {
       "has_journal": "2025-06-25 21:46:57 +0000"
@@ -1449,6 +1624,12 @@
   "ars_nouveau:recipes/misc/ritual_awakening": {
     "criteria": {
       "has_journal": "2025-06-25 21:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-06-25 23:30:14 +0000"
     },
     "done": true
   },
@@ -1479,6 +1660,12 @@
   "ars_nouveau:recipes/misc/red_sbed": {
     "criteria": {
       "has_journal": "2025-06-25 21:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-25 23:30:14 +0000"
     },
     "done": true
   },
@@ -1527,6 +1714,12 @@
   "biomeswevegone:recipes/transportation/aspen_boat": {
     "criteria": {
       "in_water": "2025-06-25 22:50:21 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-25 23:25:20 +0000"
     },
     "done": true
   },
@@ -2040,6 +2233,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/stone_great_hammer_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-25 23:30:39 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/purple_archwood_wood": {
     "criteria": {
       "has_journal": "2025-06-25 21:46:57 +0000"
@@ -2061,6 +2260,12 @@
   "securitycraft:recipes/tools/universal_block_remover": {
     "criteria": {
       "has_iron": "2025-06-25 23:05:40 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_scythe_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-25 23:30:39 +0000"
     },
     "done": true
   },
@@ -2109,6 +2314,12 @@
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-06-25 22:53:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-25 23:21:36 +0000"
     },
     "done": true
   },
@@ -2166,6 +2377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-06-25 23:33:30 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/white_dacite": {
     "criteria": {
       "has_white_dacite_cobblestone": "2025-06-25 23:00:40 +0000"
@@ -2214,6 +2431,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/stone_claymore_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-25 23:30:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_dacite_cobblestone_wall_from_white_dacite_cobblestone_stonecutting": {
     "criteria": {
       "has_white_dacite_cobblestone": "2025-06-25 23:00:40 +0000"
@@ -2223,6 +2446,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-06-25 23:06:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-25 23:30:14 +0000"
     },
     "done": true
   },
@@ -2340,6 +2569,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/stone_sickle_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-25 23:30:39 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_large_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-06-25 21:46:57 +0000"
@@ -2376,6 +2611,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-06-25 23:35:16 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/iron_stick_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-25 23:05:40 +0000"
@@ -2394,6 +2635,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/cika_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-25 23:25:20 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/manipulation_essence_to_cascading_sapling": {
     "criteria": {
       "has_journal": "2025-06-25 21:46:57 +0000"
@@ -2409,6 +2656,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-06-25 23:09:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-06-25 23:33:30 +0000"
     },
     "done": true
   },
@@ -2556,6 +2809,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-06-25 23:35:16 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_small_bricks_slab": {
     "criteria": {
       "has_journal": "2025-06-25 21:46:57 +0000"
@@ -2608,7 +2867,8 @@
     "criteria": {
       "biomeswevegone:forgotten_forest": "2025-06-25 21:46:57 +0000",
       "biomeswevegone:aspen_boreal": "2025-06-25 23:12:25 +0000",
-      "biomeswevegone:skyrise_vale": "2025-06-25 21:48:57 +0000"
+      "biomeswevegone:skyrise_vale": "2025-06-25 21:48:57 +0000",
+      "biomeswevegone:overgrowth_woodlands": "2025-06-25 23:27:24 +0000"
     },
     "done": false
   },
@@ -2624,6 +2884,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-06-25 23:22:25 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_large_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-06-25 21:46:57 +0000"
@@ -2633,6 +2899,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_alternating_slab": {
     "criteria": {
       "has_journal": "2025-06-25 21:46:57 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_broad_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-25 23:30:39 +0000"
     },
     "done": true
   },
@@ -2675,6 +2947,18 @@
   "ars_nouveau:recipes/misc/fire_essence_to_magma_block": {
     "criteria": {
       "has_journal": "2025-06-25 21:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-25 23:25:20 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-25 23:25:20 +0000"
     },
     "done": true
   },
@@ -2774,6 +3058,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-06-25 23:35:50 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/deny_scroll": {
     "criteria": {
       "has_journal": "2025-06-25 21:46:57 +0000"
@@ -2819,6 +3109,12 @@
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2025-06-25 22:53:01 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/florus_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-25 23:25:20 +0000"
     },
     "done": true
   },
@@ -2906,6 +3202,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-25 23:25:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-25 23:25:20 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/manipulation_essence_to_grass_block": {
     "criteria": {
       "has_journal": "2025-06-25 21:46:57 +0000"
@@ -2921,6 +3229,12 @@
   "ars_nouveau:recipes/misc/greater_experience_gem": {
     "criteria": {
       "has_journal": "2025-06-25 21:46:57 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/baobab_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-25 23:25:20 +0000"
     },
     "done": true
   },
@@ -2966,6 +3280,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-25 23:30:14 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/basic_spell_turret": {
     "criteria": {
       "has_journal": "2025-06-25 21:46:57 +0000"
@@ -2996,9 +3316,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-25 23:30:14 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_harvest": {
     "criteria": {
       "has_journal": "2025-06-25 21:46:57 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_cutlass_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-25 23:30:39 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-25 23:25:20 +0000"
     },
     "done": true
   },
@@ -3077,6 +3415,12 @@
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_small_bricks_slab": {
     "criteria": {
       "has_journal": "2025-06-25 21:46:57 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/blue_enchanted_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-25 23:25:20 +0000"
     },
     "done": true
   },
@@ -3164,9 +3508,21 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/witch_hazel_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-25 23:25:20 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/stripped_red_archwood_wood": {
     "criteria": {
       "has_journal": "2025-06-25 21:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-25 23:25:20 +0000"
     },
     "done": true
   },
@@ -3215,6 +3571,12 @@
   "ars_nouveau:recipes/misc/smooth_sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-06-25 21:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-25 23:30:14 +0000"
     },
     "done": true
   },
@@ -3278,6 +3640,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/skyris_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-25 23:25:20 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/archwood_sconce": {
     "criteria": {
       "has_journal": "2025-06-25 21:46:57 +0000"
@@ -3326,6 +3694,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-25 23:25:20 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_small_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-06-25 21:46:57 +0000"
@@ -3341,6 +3715,12 @@
   "ars_nouveau:recipes/misc/water_essence_to_bucket": {
     "criteria": {
       "has_journal": "2025-06-25 21:46:57 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/white_mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-25 23:25:20 +0000"
     },
     "done": true
   },
@@ -3452,6 +3832,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-06-25 23:30:14 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/decorations/sourcestone_3": {
     "criteria": {
       "has_journal": "2025-06-25 21:46:57 +0000"
@@ -3470,6 +3856,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-06-25 23:33:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-06-25 22:53:49 +0000"
@@ -3479,6 +3871,12 @@
   "ars_nouveau:recipes/misc/sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-06-25 21:46:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-06-25 23:35:50 +0000"
     },
     "done": true
   },
@@ -3533,6 +3931,12 @@
   "securitycraft:recipes/misc/smart_module": {
     "criteria": {
       "has_iron": "2025-06-25 23:05:40 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/rainbow_eucalyptus_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-25 23:25:20 +0000"
     },
     "done": true
   },
@@ -3626,6 +4030,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-25 23:30:14 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/dark_oak_plank_dagger_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-25 22:57:48 +0000"
@@ -3644,6 +4054,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-06-25 23:35:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-06-25 23:21:36 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-06-25 21:46:57 +0000"
@@ -3659,6 +4081,24 @@
   "securitycraft:recipes/building_blocks/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2025-06-25 22:53:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-25 23:30:14 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_battle_staff_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-25 23:30:39 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_katana_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-25 23:30:39 +0000"
     },
     "done": true
   },
@@ -3769,6 +4209,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/stone_glaive_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-25 23:30:39 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/conjuration_essence_to_end_stone": {
     "criteria": {
       "has_journal": "2025-06-25 21:46:57 +0000"
@@ -3815,6 +4261,8 @@
     "criteria": {
       "cooked_porkchop": "2025-06-25 22:12:28 +0000",
       "sweet_berries": "2025-06-25 22:49:56 +0000",
+      "apple": "2025-06-25 23:29:18 +0000",
+      "potato": "2025-06-25 23:33:35 +0000",
       "bread": "2025-06-25 23:16:35 +0000"
     },
     "done": false
@@ -3879,6 +4327,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-06-25 23:35:16 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-25 23:25:20 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_flail_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-25 23:30:39 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_alternating_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-06-25 21:46:57 +0000"
@@ -3900,6 +4366,18 @@
   "securitycraft:recipes/misc/reinforced_spruce_fence": {
     "criteria": {
       "has_stick": "2025-06-25 22:53:33 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/aspen_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-25 23:25:20 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_mace_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-25 23:30:39 +0000"
     },
     "done": true
   },
@@ -3936,6 +4414,12 @@
   "expanded_combat:recipes/combat/oak_plank_dancer_s_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-25 23:01:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-25 23:30:14 +0000"
     },
     "done": true
   },
@@ -3978,6 +4462,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-06-25 22:03:09 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/holly_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-25 23:25:20 +0000"
     },
     "done": true
   },

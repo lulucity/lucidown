@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-06-25 23:29:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-06-25 22:51:37 +0000"
@@ -38,6 +44,12 @@
   "expanded_combat:recipes/combat/iron_cutlass_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-25 22:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-06-25 23:25:26 +0000"
     },
     "done": true
   },
@@ -188,6 +200,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_slab": {
     "criteria": {
       "has_journal": "2025-06-25 21:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-25 23:25:29 +0000"
     },
     "done": true
   },
@@ -374,6 +392,18 @@
   "ars_nouveau:recipes/building_blocks/stripped_green_archwood_wood": {
     "criteria": {
       "has_journal": "2025-06-25 21:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-06-25 23:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-06-25 23:29:54 +0000"
     },
     "done": true
   },
@@ -611,9 +641,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-25 23:24:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-06-25 22:53:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-06-25 23:35:57 +0000"
     },
     "done": true
   },
@@ -626,6 +668,24 @@
   "ars_nouveau:recipes/building_blocks/archwood_button": {
     "criteria": {
       "has_journal": "2025-06-25 21:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:drowned": "2025-06-25 23:24:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-25 23:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-25 23:25:38 +0000"
     },
     "done": true
   },
@@ -704,6 +764,12 @@
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2025-06-25 22:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-06-25 23:28:07 +0000"
     },
     "done": true
   },
@@ -797,6 +863,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-06-25 23:28:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-06-25 22:49:39 +0000"
@@ -839,9 +911,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-25 23:25:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-06-25 22:49:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-06-25 23:29:54 +0000"
     },
     "done": true
   },
@@ -938,6 +1022,12 @@
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
       "tick": "2025-06-25 21:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-06-25 23:35:57 +0000"
     },
     "done": true
   },
@@ -1073,6 +1163,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-06-25 23:33:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-06-25 22:49:56 +0000"
@@ -1115,9 +1211,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-25 23:34:57 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/gilded_sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-06-25 21:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-06-25 23:25:38 +0000"
     },
     "done": true
   },
@@ -1160,6 +1268,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-06-25 22:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-25 23:25:38 +0000"
     },
     "done": true
   },
@@ -1265,6 +1379,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-06-25 23:29:54 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/spruce_plank_glaive_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-25 22:53:40 +0000"
@@ -1289,6 +1409,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-25 23:33:17 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/archwood_planks": {
     "criteria": {
       "has_journal": "2025-06-25 21:51:20 +0000"
@@ -1304,6 +1430,12 @@
   "biomeswevegone:recipes/redstone/skyris_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-25 21:56:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+    "criteria": {
+      "walk_on_powder_snow_with_leather_boots": "2025-06-25 23:33:50 +0000"
     },
     "done": true
   },
@@ -1351,6 +1483,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-06-25 23:25:38 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/warp_scroll": {
     "criteria": {
       "has_journal": "2025-06-25 21:51:20 +0000"
@@ -1384,6 +1522,12 @@
   "ars_nouveau:recipes/misc/red_sbed": {
     "criteria": {
       "has_journal": "2025-06-25 21:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-25 23:25:38 +0000"
     },
     "done": true
   },
@@ -1462,6 +1606,12 @@
   "ars_nouveau:recipes/misc/mundane_belt": {
     "criteria": {
       "has_journal": "2025-06-25 21:51:20 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/leather_quiver_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-25 23:29:54 +0000"
     },
     "done": true
   },
@@ -1609,9 +1759,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-25 23:34:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-06-25 21:56:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-06-25 23:29:54 +0000"
     },
     "done": true
   },
@@ -1771,6 +1933,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2025-06-25 23:35:57 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_oak_fence_gate": {
     "criteria": {
       "has_stick": "2025-06-25 22:51:37 +0000"
@@ -1909,6 +2077,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-06-25 23:33:17 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_block_remover": {
     "criteria": {
       "has_iron": "2025-06-25 22:49:54 +0000"
@@ -1993,6 +2167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-06-25 23:29:54 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/holly_boat": {
     "criteria": {
       "in_water": "2025-06-25 22:49:16 +0000"
@@ -2014,6 +2194,24 @@
   "expanded_combat:recipes/combat/spruce_plank_claymore_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-25 22:53:40 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/leather_gauntlet_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-25 23:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-06-25 23:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-25 23:25:29 +0000"
     },
     "done": true
   },
@@ -2056,6 +2254,12 @@
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-06-25 23:08:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-25 23:25:38 +0000"
     },
     "done": true
   },
@@ -2176,6 +2380,12 @@
   "biomeswevegone:recipes/building_blocks/skyris_planks": {
     "criteria": {
       "has_log": "2025-06-25 21:56:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-06-25 23:28:07 +0000"
     },
     "done": true
   },
@@ -2383,6 +2593,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-06-25 23:28:07 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_small_bricks_slab": {
     "criteria": {
       "has_journal": "2025-06-25 21:51:20 +0000"
@@ -2452,6 +2668,12 @@
   "ars_nouveau:recipes/misc/potion_jar_empty": {
     "criteria": {
       "has_journal": "2025-06-25 21:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2025-06-25 23:35:57 +0000"
     },
     "done": true
   },
@@ -2548,6 +2770,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-06-25 22:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-06-25 23:24:39 +0000"
     },
     "done": true
   },
@@ -2707,6 +2935,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-25 23:25:38 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/basic_spell_turret": {
     "criteria": {
       "has_journal": "2025-06-25 21:51:20 +0000"
@@ -2728,6 +2962,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-06-25 22:49:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-25 23:25:38 +0000"
     },
     "done": true
   },
@@ -2845,6 +3085,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2025-06-25 23:26:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_cherry_fence": {
     "criteria": {
       "has_stick": "2025-06-25 22:51:37 +0000"
@@ -2914,6 +3160,12 @@
   "ars_nouveau:recipes/misc/smooth_sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-06-25 21:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-25 23:25:38 +0000"
     },
     "done": true
   },
@@ -3127,6 +3379,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-06-25 23:25:38 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/decorations/sourcestone_3": {
     "criteria": {
       "has_journal": "2025-06-25 21:51:20 +0000"
@@ -3160,6 +3418,12 @@
   "ars_nouveau:recipes/misc/sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-06-25 21:51:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-06-25 23:24:39 +0000"
     },
     "done": true
   },
@@ -3301,9 +3565,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2025-06-25 23:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-25 23:25:38 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_conjure_island_plains": {
     "criteria": {
       "has_journal": "2025-06-25 21:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-06-25 23:28:07 +0000"
     },
     "done": true
   },
@@ -3334,6 +3616,18 @@
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_cyan_dye": "2025-06-25 22:39:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-25 23:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-25 23:34:57 +0000"
     },
     "done": true
   },
@@ -3373,6 +3667,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:drowned": "2025-06-25 23:24:55 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/gilded_sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-06-25 21:51:20 +0000"
@@ -3381,6 +3681,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-06-25 23:33:50 +0000",
       "minecraft:taiga": "2025-06-25 22:53:09 +0000",
       "minecraft:beach": "2025-06-25 23:03:26 +0000",
       "minecraft:river": "2025-06-25 22:56:09 +0000",
@@ -3527,6 +3828,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-06-25 23:28:07 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_alternating_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-06-25 21:51:20 +0000"
@@ -3575,6 +3882,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-25 23:25:38 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/agronomic_sourcelink": {
     "criteria": {
       "has_journal": "2025-06-25 21:51:20 +0000"
@@ -3596,6 +3909,12 @@
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-06-25 21:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-06-25 23:33:17 +0000"
     },
     "done": true
   },
