@@ -407,6 +407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_cyan_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-25 22:39:31 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-06-25 21:51:20 +0000"
@@ -641,6 +647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_candle": {
+    "criteria": {
+      "has_cyan_dye": "2025-06-25 22:39:31 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/conjuration_essence_to_soul_sand": {
     "criteria": {
       "has_journal": "2025-06-25 21:51:20 +0000"
@@ -668,6 +680,12 @@
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_large_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-06-25 21:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye_from_bwg_2_dye_tag": {
+    "criteria": {
+      "has_2_dye_tag": "2025-06-25 22:39:27 +0000"
     },
     "done": true
   },
@@ -920,6 +938,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-06-25 21:56:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-06-25 22:30:46 +0000"
     },
     "done": true
   },
@@ -1280,6 +1304,12 @@
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_alternating_slab": {
     "criteria": {
       "has_journal": "2025-06-25 21:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-25 22:39:31 +0000"
     },
     "done": true
   },
@@ -1801,6 +1831,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_cyan_dye": "2025-06-25 22:39:31 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-06-25 21:51:20 +0000"
@@ -1842,6 +1878,12 @@
       "minecraft:meadow": "2025-06-25 21:54:08 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-25 22:39:31 +0000"
+    },
+    "done": true
   },
   "biomeswevegone:biomeswevegone/husbandry/root": {
     "criteria": {
@@ -1888,6 +1930,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-06-25 22:00:06 +0000",
+      "sweet_berries": "2025-06-25 22:34:50 +0000",
       "glow_berries": "2025-06-25 21:57:21 +0000"
     },
     "done": false
