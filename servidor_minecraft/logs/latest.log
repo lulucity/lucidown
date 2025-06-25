@@ -574,3 +574,141 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [25Jun2025 22:38:23.733] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-140, y=116, z=80} BlockPos{x=-165, y=111, z=115}
 [25Jun2025 22:38:23.774] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-140, y=116, z=80} BlockPos{x=-165, y=111, z=115}
 [25Jun2025 22:38:23.933] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-140, y=116, z=80} BlockPos{x=-165, y=111, z=115}
+[25Jun2025 22:47:48.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [estrems: Set the time to 1000]
+[25Jun2025 22:48:26.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [estrems: Set own game mode to Survival Mode]
+[25Jun2025 22:48:38.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pikachu1572 has made the advancement [Getting an Upgrade]
+[25Jun2025 22:49:44.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 has made the advancement [Johnny Appleseed]
+[25Jun2025 22:49:54.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 has made the advancement [Acquire Hardware]
+[25Jun2025 22:50:30.106] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pikachu1572 moved too quickly! 0.0,-10.764430442679874,0.05624632061460488
+[25Jun2025 22:50:47.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 has made the advancement [Isn't It Iron Pick]
+[25Jun2025 22:53:01.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems has made the advancement [Mine? Mine? Mine?]
+[25Jun2025 22:53:19.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 has made the advancement [Stone Age]
+[25Jun2025 22:53:40.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems has made the advancement [Stone Age]
+[25Jun2025 22:53:49.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 has made the advancement [Getting an Upgrade]
+[25Jun2025 22:53:49.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems has made the advancement [Getting an Upgrade]
+[25Jun2025 22:54:21.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pikachu1572 has made the advancement [Acquire Hardware]
+[25Jun2025 22:54:29.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pikachu1572 has made the advancement [Suit Up]
+[25Jun2025 22:55:40.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 has made the advancement [Monster Hunter]
+[25Jun2025 22:56:46.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 has made the advancement [Stone Age]
+[25Jun2025 22:57:21.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 has made the advancement [To Die For]
+[25Jun2025 22:58:25.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pikachu1572 has made the advancement [Monster Hunter]
+[25Jun2025 22:58:45.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pikachu1572 has made the advancement [Isn't It Iron Pick]
+[25Jun2025 23:00:54.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems has made the advancement [Monster Hunter]
+[25Jun2025 23:00:54.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 has made the advancement [Hunt and Gather]
+[25Jun2025 23:02:05.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 has made the advancement [Mine? Mine? Mine?]
+[25Jun2025 23:02:50.907] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5d1fd23f[id=<null>,name=Ryiumc,properties={},legacy=false] (/127.102.141.188:40727) lost connection: Disconnected
+[25Jun2025 23:03:26.533] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4e23727e[id=<null>,name=Ryiumc,properties={},legacy=false] (/127.102.141.188:60703) lost connection: Disconnected
+[25Jun2025 23:03:38.528] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: biomeswevegone:village/pumpkin_patch/chicken
+[25Jun2025 23:03:38.537] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: biomeswevegone:village/pumpkin_patch/chicken
+[25Jun2025 23:03:38.540] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: biomeswevegone:village/pumpkin_patch/chicken
+[25Jun2025 23:03:38.559] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: biomeswevegone:village/pumpkin_patch/chicken
+[25Jun2025 23:03:39.673] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/pumpkin_patch/streets
+[25Jun2025 23:03:40.987] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/pumpkin_patch/streets
+[25Jun2025 23:03:58.263] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@244edc87[id=<null>,name=Ryiumc,properties={},legacy=false] (/127.102.141.188:41145) lost connection: Disconnected
+[25Jun2025 23:04:39.158] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3d8b44b[id=<null>,name=Ryiumc,properties={},legacy=false] (/127.102.141.188:45175) lost connection: Disconnected
+[25Jun2025 23:04:42.110] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [lionfishapi:main_channel,alexsmobs:main_channel,playerrevive:main,carryon:carryonpackets,expanded_combat:main,mowziesmobs:net,creativecore:main,ic_air:main,citadel:main_channel,rpg_companions_tiny_dragons:rpg_companions_tiny_dragons,securitycraft:securitycraft,corgilib:network,azurelib:main,patchouli:main,caelus:main,uteamcore:network,azurelib:network_channel,uteamcore:network_forge,curios:main,usefulbackpacks:slot_mod,geckolib:main,waystones:network,cataclysm:main_channel] rejected their client side version number
+[25Jun2025 23:04:42.111] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[25Jun2025 23:04:42.116] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3b311a08[id=<null>,name=Ryiumc,properties={},legacy=false] (/127.102.141.188:36299) lost connection: Connection closed - mismatched mod channel list
+[25Jun2025 23:05:40.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems has made the advancement [Acquire Hardware]
+[25Jun2025 23:05:42.225] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=336, y=-10, z=-45}
+[25Jun2025 23:05:42.226] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=356, y=-12, z=-62}
+[25Jun2025 23:05:46.416] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=336, y=-10, z=-45}
+[25Jun2025 23:06:13.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems has made the advancement [Isn't It Iron Pick]
+[25Jun2025 23:06:57.170] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@72ad0e0f[id=<null>,name=Ryiumc,properties={},legacy=false] (/127.102.141.188:46361) lost connection: Disconnected
+[25Jun2025 23:07:14.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 was slain by Cachalot Whale
+[25Jun2025 23:07:29.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 was slain by Dragon
+[25Jun2025 23:08:36.870] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pikachu1572 moved too quickly! -3.950072666001944,-1.024424088213678,9.28560250996452
+[25Jun2025 23:08:53.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems has made the advancement [Not Today, Thank You]
+[25Jun2025 23:11:22.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 has made the advancement [Mine? Mine? Mine?]
+[25Jun2025 23:14:51.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 has made the advancement [To Die For]
+[25Jun2025 23:18:37.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pikachu1572 has made the advancement [Mine? Mine? Mine?]
+[25Jun2025 23:22:56.997] [Worker-Main-2/ERROR] [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager/]: Couldn't load structure mvs:houses/large_floating_island
+net.minecraft.ReportedException: Loading NBT data
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:480) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:43) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:26) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:474) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.NbtIo.m_128930_(NbtIo.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.NbtIo.m_128934_(NbtIo.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.NbtIo.m_128939_(NbtIo.java:35) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230377_(StructureTemplateManager.java:227) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230372_(StructureTemplateManager.java:217) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230427_(StructureTemplateManager.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230425_(StructureTemplateManager.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708) ~[?:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230407_(StructureTemplateManager.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230359_(StructureTemplateManager.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.m_227299_(SinglePoolElement.java:81) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.m_214015_(SinglePoolElement.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at com.finndog.mvs.world.structures.pieces.PieceLimitedJigsawManager.assembleJigsawStructure(PieceLimitedJigsawManager.java:106) ~[mvs-4.1.5-1.20.jar%23188!/:?]
+	at com.finndog.mvs.world.structures.GenericJigsawStructure.m_214086_(GenericJigsawStructure.java:213) ~[mvs-4.1.5-1.20.jar%23188!/:?]
+	at net.minecraft.world.level.levelgen.structure.Structure.m_262864_(Structure.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.level.levelgen.structure.Structure.m_226596_(Structure.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_223104_(ChunkGenerator.java:513) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_254811_(ChunkGenerator.java:466) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_255037_(ChunkGenerator.java:448) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_289181_(ChunkStatus.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_280308_(ChunkStatus.java:252) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$27(ChunkMap.java:643) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$29(ChunkMap.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.io.IOException: Invalid tag id: 16
+	at net.minecraft.nbt.TagType$1.m_197591_(TagType.java:58) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.TagType$1.m_7300_(TagType.java:63) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.TagType$1.m_7300_(TagType.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:474) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	... 45 more
+[25Jun2025 23:23:20.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pikachu1572 has made the advancement [Sweet Dreams]
+[25Jun2025 23:23:24.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pikachu1572> zzzzzzzzzzzz
+[25Jun2025 23:23:25.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pikachu1572> z
+[25Jun2025 23:23:26.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pikachu1572> z
+[25Jun2025 23:23:26.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pikachu1572> z
+[25Jun2025 23:23:27.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pikachu1572> z
+[25Jun2025 23:23:27.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pikachu1572> z
+[25Jun2025 23:23:27.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pikachu1572> z
+[25Jun2025 23:23:27.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pikachu1572> z
+[25Jun2025 23:23:28.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pikachu1572> z
+[25Jun2025 23:23:28.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pikachu1572> z
+[25Jun2025 23:23:28.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pikachu1572> z
+[25Jun2025 23:23:30.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pikachu1572> z
+[25Jun2025 23:23:30.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pikachu1572> z
+[25Jun2025 23:23:30.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pikachu1572> z
+[25Jun2025 23:23:30.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pikachu1572> z
+[25Jun2025 23:23:30.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pikachu1572> z
+[25Jun2025 23:23:31.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pikachu1572> z
+[25Jun2025 23:23:31.072] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pikachu1572 lost connection: Kicked for spamming
+[25Jun2025 23:23:31.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pikachu1572 left the game
+[25Jun2025 23:23:31.073] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Pikachu1572[fb101342-6e32-34d6-859f-bb2589f07fe1]
+[25Jun2025 23:23:31.074] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Pikachu1572
+[25Jun2025 23:23:31.123] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25Jun2025 23:23:45.340] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pikachu1572[/127.142.165.218:55807] logged in with entity id 49499 at (-766.5, 64.0, 66.5)
+[25Jun2025 23:23:45.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pikachu1572 joined the game
+[25Jun2025 23:23:45.362] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Pikachu1572 just logged in with id fb101342-6e32-34d6-859f-bb2589f07fe1
+[25Jun2025 23:23:45.363] [ForkJoinPool-3-worker-9/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Pikachu1572[fb101342-6e32-34d6-859f-bb2589f07fe1]
+[25Jun2025 23:23:45.365] [ForkJoinPool-3-worker-9/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player Pikachu1572[fb101342-6e32-34d6-859f-bb2589f07fe1]
+[25Jun2025 23:23:45.840] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Pikachu1572 (18)
+[25Jun2025 23:23:45.840] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Pikachu1572
+[25Jun2025 23:24:11.744] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/49677, l='ServerLevel[world]', x=1609.37, y=65.00, z=859.72] died, message: 'Villager suffocated in a wall'
+[25Jun2025 23:24:27.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 has made the advancement [Sweet Dreams]
+[25Jun2025 23:24:41.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems has made the advancement [Sweet Dreams]
+[25Jun2025 23:24:53.254] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/50172, l='ServerLevel[world]', x=1597.51, y=76.00, z=883.39] died, message: 'Villager was poked to death by a sweet berry bush'
+[25Jun2025 23:24:55.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 has made the advancement [Monster Hunter]
+[25Jun2025 23:25:39.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pikachu1572 has made the advancement [Crops of the Wild]
