@@ -431,3 +431,75 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [25Jun2025 21:54:59.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 left the game
 [25Jun2025 21:54:59.138] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client rotceh9889
 [25Jun2025 21:55:15.338] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7d71d124[id=<null>,name=rotceh9889,properties={},legacy=false] (/127.242.85.59:59579) lost connection: Disconnected
+[25Jun2025 21:55:39.288] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7b63392d[id=<null>,name=rotceh9889,properties={},legacy=false] (/127.242.85.59:37859) lost connection: Disconnected
+[25Jun2025 21:55:45.833] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3d4ddb54[id=<null>,name=rotceh9889,properties={},legacy=false] (/127.242.85.59:35139) lost connection: Disconnected
+[25Jun2025 21:56:08.834] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@461c5975[id=<null>,name=Mikel17pro,properties={},legacy=false] (/127.177.221.184:58723) lost connection: Disconnected
+[25Jun2025 21:56:18.741] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mikel17pro[/127.177.221.184:47525] logged in with entity id 2847 at (-164.5, 110.0, 131.5)
+[25Jun2025 21:56:18.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mikel17pro joined the game
+[25Jun2025 21:56:18.808] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Mikel17pro just logged in with id 590a4f1a-04a5-3c6e-91fd-df26399bf97d
+[25Jun2025 21:56:19.417] [ForkJoinPool-3-worker-5/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Mikel17pro downloaded
+[25Jun2025 21:56:19.486] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2d29c186[id=<null>,name=rotceh9889,properties={},legacy=false] (/127.242.85.59:54979) lost connection: Disconnected
+[25Jun2025 21:56:19.752] [ForkJoinPool-3-worker-5/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://crafatar.com/skins/56bcb2e7-df14-4dfb-866a-d16d31124e3f downloaded
+[25Jun2025 21:56:19.752] [ForkJoinPool-3-worker-5/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loaded skin for player Mikel17pro[590a4f1a-04a5-3c6e-91fd-df26399bf97d]
+[25Jun2025 21:56:19.753] [ForkJoinPool-3-worker-6/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Caching file world/skin_changer/skins/590a4f1a-04a5-3c6e-91fd-df26399bf97d
+[25Jun2025 21:56:19.776] [ForkJoinPool-3-worker-5/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Mikel17pro downloaded
+[25Jun2025 21:56:20.471] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mikel17pro (18)
+[25Jun2025 21:56:20.471] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mikel17pro
+[25Jun2025 21:56:29.826] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rotceh9889[/127.242.85.59:42829] logged in with entity id 2889 at (-149.1851266047082, 114.0, 117.40079240231734)
+[25Jun2025 21:56:29.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 joined the game
+[25Jun2025 21:56:29.923] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player rotceh9889 just logged in with id 8dca058e-0d7b-3303-89c7-a42b715ea559
+[25Jun2025 21:56:29.978] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of rotceh9889 (18)
+[25Jun2025 21:56:29.978] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to rotceh9889
+[25Jun2025 21:56:30.179] [ForkJoinPool-3-worker-5/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/rotceh9889
+[25Jun2025 21:56:30.277] [ForkJoinPool-3-worker-5/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/rotceh9889
+[25Jun2025 21:56:30.344] [ForkJoinPool-3-worker-5/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/rotceh9889
+[25Jun2025 21:57:17.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 fell from a high place
+[25Jun2025 21:57:25.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [estrems: Set the time to 1000]
+[25Jun2025 21:58:37.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 has made the advancement [Granny Smith?]
+[25Jun2025 22:00:53.586] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-141, y=123, z=82} BlockPos{x=-163, y=110, z=130}
+[25Jun2025 22:02:17.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [estrems: Teleported luciaypec8 to estrems]
+[25Jun2025 22:03:38.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [estrems: Set the weather to clear]
+[25Jun2025 22:03:50.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mikel17pro has made the advancement [Alex's Mobs]
+[25Jun2025 22:03:55.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 has made the advancement [Alex's Mobs]
+[25Jun2025 22:06:05.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 has made the advancement [Alex's Mobs]
+[25Jun2025 22:06:12.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems has made the advancement [Alex's Mobs]
+[25Jun2025 22:06:40.918] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-141, y=123, z=82} BlockPos{x=-159, y=111, z=121}
+[25Jun2025 22:06:54.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [estrems: Set the time to 1000]
+[25Jun2025 22:08:11.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [estrems: Killed rotceh9889]
+[25Jun2025 22:08:17.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 was killed
+[25Jun2025 22:08:17.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [estrems: Killed rotceh9889]
+[25Jun2025 22:08:22.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [estrems: Killed Mikel17pro]
+[25Jun2025 22:08:28.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mikel17pro was killed
+[25Jun2025 22:08:28.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [estrems: Killed Mikel17pro]
+[25Jun2025 22:08:38.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-167, y=111, z=146} BlockPos{x=-162, y=111, z=132}
+[25Jun2025 22:08:40.114] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-162, y=111, z=132}
+[25Jun2025 22:08:40.267] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-161, y=110, z=132}
+[25Jun2025 22:08:42.365] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-162, y=110, z=131}
+[25Jun2025 22:08:42.466] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-162, y=110, z=131}
+[25Jun2025 22:08:47.916] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-161, y=110, z=132}
+[25Jun2025 22:10:24.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [estrems: Set own game mode to Survival Mode]
+[25Jun2025 22:10:43.510] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-151, y=113, z=116}
+[25Jun2025 22:11:40.955] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-167, y=111, z=146} BlockPos{x=-154, y=112, z=112}
+[25Jun2025 22:11:41.105] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-167, y=111, z=146} BlockPos{x=-153, y=112, z=112}
+[25Jun2025 22:11:41.359] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-167, y=111, z=146} BlockPos{x=-152, y=111, z=111}
+[25Jun2025 22:11:41.406] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-167, y=111, z=146} BlockPos{x=-151, y=112, z=111}
+[25Jun2025 22:11:42.858] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-167, y=111, z=146} BlockPos{x=-151, y=112, z=111}
+[25Jun2025 22:11:48.454] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-167, y=111, z=146} BlockPos{x=-154, y=112, z=114}
+[25Jun2025 22:11:50.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [estrems: Set own game mode to Creative Mode]
+[25Jun2025 22:11:50.755] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-167, y=111, z=146} BlockPos{x=-154, y=112, z=114}
+[25Jun2025 22:11:51.389] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-167, y=111, z=146} BlockPos{x=-155, y=112, z=114}
+[25Jun2025 22:11:56.206] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-167, y=111, z=146} BlockPos{x=-153, y=112, z=112}
+[25Jun2025 22:11:56.256] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-167, y=111, z=146} BlockPos{x=-153, y=112, z=112}
+[25Jun2025 22:11:56.307] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-167, y=111, z=146} BlockPos{x=-151, y=112, z=112}
+[25Jun2025 22:11:56.459] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-167, y=111, z=146} BlockPos{x=-151, y=112, z=112}
+[25Jun2025 22:11:56.510] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-167, y=111, z=146} BlockPos{x=-151, y=112, z=112}
+[25Jun2025 22:11:56.562] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-167, y=111, z=146} BlockPos{x=-152, y=112, z=112}
+[25Jun2025 22:11:56.604] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-167, y=111, z=146} BlockPos{x=-152, y=112, z=112}
+[25Jun2025 22:11:56.654] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-167, y=111, z=146} BlockPos{x=-152, y=112, z=112}
+[25Jun2025 22:11:56.705] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-167, y=111, z=146} BlockPos{x=-152, y=112, z=112}
+[25Jun2025 22:13:40.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciaypec8: Set own game mode to Creative Mode]
+[25Jun2025 22:14:07.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [estrems: Set luciaypec8's game mode to Survival Mode]
+[25Jun2025 22:14:07.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciaypec8: Set estrems's game mode to Survival Mode]
+[25Jun2025 22:14:19.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 was killed
+[25Jun2025 22:14:19.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [estrems: Killed luciaypec8]
+[25Jun2025 22:14:22.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [estrems: Set own game mode to Creative Mode]
