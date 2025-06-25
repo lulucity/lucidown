@@ -1748,6 +1748,9 @@
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:forgotten_forest": "2025-06-25 22:49:07 +0000",
+      "biomeswevegone:ironwood_gour": "2025-06-25 23:39:11 +0000",
+      "biomeswevegone:prairie": "2025-06-25 23:38:01 +0000",
+      "biomeswevegone:basalt_barrera": "2025-06-25 23:42:19 +0000",
       "biomeswevegone:skyrise_vale": "2025-06-25 22:27:29 +0000",
       "biomeswevegone:allium_shrubland": "2025-06-25 23:35:58 +0000"
     },
@@ -4104,9 +4107,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-06-25 23:40:55 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/diamond_bow_conditional_120_smithing": {
     "criteria": {
       "has_item": "2025-06-25 23:31:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2025-06-25 23:46:12 +0000"
     },
     "done": true
   },
@@ -4119,6 +4134,12 @@
   "ec_es_plugin:recipes/combat/straw_gauntlet_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-25 23:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2025-06-25 23:46:12 +0000"
     },
     "done": true
   },
@@ -4158,6 +4179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-06-25 23:40:55 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/dark_oak_plank_glaive_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-25 23:24:39 +0000"
@@ -4194,6 +4221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-06-25 23:36:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-06-25 23:27:47 +0000"
@@ -4203,6 +4236,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-06-25 23:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-06-25 23:40:55 +0000"
     },
     "done": true
   },
@@ -4266,9 +4305,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-06-25 23:40:32 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/diamond_dancer_s_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-25 23:31:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-25 23:46:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-06-25 23:40:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-25 23:40:32 +0000"
     },
     "done": true
   },
@@ -4284,6 +4347,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/leather_quiver_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-25 23:40:55 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/dark_oak_plank_katana_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-25 23:24:39 +0000"
@@ -4296,9 +4365,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-06-25 23:36:39 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough": {
     "criteria": {
       "has_wheat": "2025-06-25 23:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-06-25 23:40:55 +0000"
     },
     "done": true
   },
@@ -4326,6 +4407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2025-06-25 23:46:12 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/diamond_arrow_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-25 23:31:50 +0000"
@@ -4350,15 +4437,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-06-25 23:40:32 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-06-25 23:31:50 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-06-25 23:36:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-06-25 23:40:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-06-25 23:31:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2025-06-25 23:46:07 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/leather_gauntlet_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-25 23:40:55 +0000"
     },
     "done": true
   },
@@ -4389,6 +4506,12 @@
   "expanded_combat:recipes/combat/dark_oak_plank_scythe_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-25 23:24:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-25 23:46:07 +0000"
     },
     "done": true
   },
@@ -4437,6 +4560,12 @@
   "expanded_combat:recipes/combat/dark_oak_plank_great_hammer_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-25 23:24:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_orange_dye": "2025-06-25 23:46:07 +0000"
     },
     "done": true
   },
@@ -4506,6 +4635,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-06-25 23:45:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-06-25 23:25:38 +0000"
@@ -4515,6 +4650,12 @@
   "expanded_combat:recipes/combat/dark_oak_plank_spear_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-25 23:24:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-25 23:46:07 +0000"
     },
     "done": true
   },
@@ -4563,6 +4704,12 @@
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-06-25 23:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-06-25 23:40:32 +0000"
     },
     "done": true
   },

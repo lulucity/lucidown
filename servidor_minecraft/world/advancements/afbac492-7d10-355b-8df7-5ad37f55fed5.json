@@ -673,6 +673,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:zombie": "2025-06-25 23:38:35 +0000",
       "minecraft:drowned": "2025-06-25 23:24:55 +0000"
     },
     "done": false
@@ -3683,10 +3684,13 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-06-25 23:33:50 +0000",
       "minecraft:taiga": "2025-06-25 22:53:09 +0000",
+      "minecraft:sunflower_plains": "2025-06-25 23:43:51 +0000",
       "minecraft:beach": "2025-06-25 23:03:26 +0000",
       "minecraft:river": "2025-06-25 22:56:09 +0000",
       "minecraft:stony_shore": "2025-06-25 22:59:46 +0000",
       "minecraft:cold_ocean": "2025-06-25 23:03:39 +0000",
+      "minecraft:flower_forest": "2025-06-25 23:44:06 +0000",
+      "minecraft:frozen_peaks": "2025-06-25 23:42:21 +0000",
       "minecraft:meadow": "2025-06-25 21:54:08 +0000",
       "minecraft:plains": "2025-06-25 23:06:02 +0000"
     },

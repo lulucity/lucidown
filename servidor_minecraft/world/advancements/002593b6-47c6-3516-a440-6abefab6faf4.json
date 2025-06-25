@@ -605,6 +605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-25 23:43:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-25 23:25:20 +0000"
@@ -745,8 +751,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-06-25 23:42:04 +0000",
       "minecraft:skeleton": "2025-06-25 23:00:54 +0000",
+      "minecraft:ravager": "2025-06-25 23:41:56 +0000",
+      "minecraft:vindicator": "2025-06-25 23:43:44 +0000",
       "minecraft:spider": "2025-06-25 23:35:15 +0000",
+      "minecraft:evoker": "2025-06-25 23:42:46 +0000",
       "minecraft:zombie": "2025-06-25 23:08:26 +0000"
     },
     "done": false
@@ -1093,6 +1103,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-25 23:43:10 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/wipe_spell_parchment": {
     "criteria": {
       "has_journal": "2025-06-25 21:46:57 +0000"
@@ -1156,6 +1172,12 @@
   "securitycraft:recipes/misc/security_camera": {
     "criteria": {
       "has_iron": "2025-06-25 23:05:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-25 23:43:10 +0000"
     },
     "done": true
   },
@@ -1720,6 +1742,12 @@
   "biomeswevegone:recipes/transportation/maple_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-25 23:25:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-25 23:43:10 +0000"
     },
     "done": true
   },
@@ -3736,6 +3764,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-25 23:43:10 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/zelkova_boat": {
     "criteria": {
       "in_water": "2025-06-25 22:50:21 +0000"
@@ -4276,6 +4310,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-25 23:08:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-25 23:43:10 +0000"
     },
     "done": true
   },

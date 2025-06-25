@@ -724,3 +724,8 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [25Jun2025 23:33:07.640] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/50185, l='ServerLevel[world]', x=1596.49, y=70.00, z=864.47] died, message: 'Villager was poked to death by a sweet berry bush'
 [25Jun2025 23:33:45.789] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/49968, l='ServerLevel[world]', x=1654.48, y=80.00, z=861.45] died, message: 'Villager was poked to death by a sweet berry bush'
 [25Jun2025 23:33:50.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 has made the advancement [Light as a Rabbit]
+[25Jun2025 23:39:07.212] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/49928, l='ServerLevel[world]', x=1596.61, y=70.00, z=864.55] died, message: 'Librarian was poked to death by a sweet berry bush'
+[25Jun2025 23:39:28.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 has made the advancement [Sweet Dreams]
+[25Jun2025 23:39:33.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotceh9889> wh
+[25Jun2025 23:43:00.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems was slain by Vex
+[25Jun2025 23:45:19.772] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points

@@ -9804,3 +9804,13 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [25Jun2025 23:33:50.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 has made the advancement [Light as a Rabbit]
 [25Jun2025 23:36:16.911] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25Jun2025 23:36:16.922] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jun2025 23:39:07.212] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/49928, l='ServerLevel[world]', x=1596.61, y=70.00, z=864.55] died, message: 'Librarian was poked to death by a sweet berry bush'
+[25Jun2025 23:39:28.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 has made the advancement [Sweet Dreams]
+[25Jun2025 23:39:33.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotceh9889> wh
+[25Jun2025 23:41:16.923] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jun2025 23:41:16.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jun2025 23:42:46.718] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_evoker_loot
+[25Jun2025 23:43:00.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems was slain by Vex
+[25Jun2025 23:45:19.772] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
+[25Jun2025 23:46:16.966] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jun2025 23:46:16.977] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
