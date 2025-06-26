@@ -6537,9 +6537,57 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/decorations/sakura_fence": {
+    "criteria": {
+      "has_planks": "2025-06-26 17:11:22 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/sakura_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-26 17:11:22 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/sakura_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-26 17:11:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-06-26 17:00:56 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/white_dacite": {
+    "criteria": {
+      "has_white_dacite_cobblestone": "2025-06-26 17:16:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_dacite_cobblestone_wall_from_white_dacite_cobblestone_stonecutting": {
+    "criteria": {
+      "has_white_dacite_cobblestone": "2025-06-26 17:16:12 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/sakura_crafting_table": {
+    "criteria": {
+      "has_sakura_planks": "2025-06-26 17:11:22 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/sakura_bookshelf": {
+    "criteria": {
+      "has_sakura_planks": "2025-06-26 17:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_dacite_cobblestone_stairs_from_white_dacite_cobblestone_stonecutting": {
+    "criteria": {
+      "has_white_dacite_cobblestone": "2025-06-26 17:16:12 +0000"
     },
     "done": true
   },
@@ -6567,9 +6615,27 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/sakura_planks": {
+    "criteria": {
+      "has_log": "2025-06-26 17:10:20 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/sakura_door": {
+    "criteria": {
+      "has_planks": "2025-06-26 17:11:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-26 17:00:56 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/sakura_sign": {
+    "criteria": {
+      "has_planks": "2025-06-26 17:11:22 +0000"
     },
     "done": true
   },
@@ -6579,9 +6645,27 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/redstone/sakura_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-26 17:11:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-26 17:00:56 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/sakura_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-26 17:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_dacite_cobblestone_slab_from_white_dacite_cobblestone_stonecutting": {
+    "criteria": {
+      "has_white_dacite_cobblestone": "2025-06-26 17:16:12 +0000"
     },
     "done": true
   },
@@ -6591,15 +6675,51 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/sakura_wood": {
+    "criteria": {
+      "has_log": "2025-06-26 17:10:20 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/sakura_slab": {
+    "criteria": {
+      "has_planks": "2025-06-26 17:11:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-26 17:00:56 +0000"
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/white_dacite_cobblestone_slab": {
+    "criteria": {
+      "has_white_dacite_cobblestone": "2025-06-26 17:16:12 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-06-26 17:01:32 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/sakura_button": {
+    "criteria": {
+      "has_planks": "2025-06-26 17:11:22 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/white_dacite_cobblestone_wall": {
+    "criteria": {
+      "has_white_dacite_cobblestone": "2025-06-26 17:16:12 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/white_dacite_cobblestone_stairs": {
+    "criteria": {
+      "has_white_dacite_cobblestone": "2025-06-26 17:16:12 +0000"
     },
     "done": true
   },

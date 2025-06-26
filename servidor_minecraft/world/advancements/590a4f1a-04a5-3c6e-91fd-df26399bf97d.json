@@ -1699,6 +1699,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:river": "2025-06-26 17:15:13 +0000",
+      "minecraft:forest": "2025-06-26 17:15:42 +0000",
       "minecraft:meadow": "2025-06-25 21:56:19 +0000"
     },
     "done": false
@@ -1711,6 +1713,7 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:forgotten_forest": "2025-06-26 17:14:56 +0000",
       "biomeswevegone:skyrise_vale": "2025-06-25 21:58:48 +0000"
     },
     "done": false
@@ -2483,6 +2486,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-06-26 17:26:24 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/leather_stick_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 16:51:00 +0000"
@@ -2549,6 +2558,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2025-06-26 17:26:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-06-26 16:50:24 +0000"
@@ -2564,6 +2579,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-06-26 16:52:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-06-26 17:26:24 +0000"
     },
     "done": true
   },
@@ -2609,6 +2630,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-06-26 17:26:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2025-06-26 17:00:28 +0000"
@@ -2624,6 +2651,12 @@
   "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
     "criteria": {
       "has_cobblestone": "2025-06-26 16:52:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-06-26 17:28:16 +0000"
     },
     "done": true
   },
@@ -2645,9 +2678,21 @@
     },
     "done": true
   },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_pearl": "2025-06-26 17:28:42 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/spruce_plank_flail_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 16:50:24 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/rainbow_eucalyptus_boat": {
+    "criteria": {
+      "in_water": "2025-06-26 17:26:24 +0000"
     },
     "done": true
   },
@@ -2723,9 +2768,33 @@
     },
     "done": true
   },
+  "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
+    "criteria": {
+      "apple": "2025-06-26 17:28:16 +0000"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2025-06-26 17:26:24 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/baobab_boat": {
+    "criteria": {
+      "in_water": "2025-06-26 17:26:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-06-26 16:51:00 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/aspen_boat": {
+    "criteria": {
+      "in_water": "2025-06-26 17:26:24 +0000"
     },
     "done": true
   },
@@ -2741,6 +2810,24 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/skyris_boat": {
+    "criteria": {
+      "in_water": "2025-06-26 17:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-06-26 17:26:24 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2025-06-26 17:26:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-06-26 16:51:00 +0000"
@@ -2750,6 +2837,18 @@
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2025-06-26 16:54:35 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-06-26 17:26:24 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/white_mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-06-26 17:26:24 +0000"
     },
     "done": true
   },
@@ -2777,6 +2876,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/cypress_boat": {
+    "criteria": {
+      "in_water": "2025-06-26 17:26:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_birch_fence": {
     "criteria": {
       "has_stick": "2025-06-26 16:51:00 +0000"
@@ -2801,6 +2906,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/cika_boat": {
+    "criteria": {
+      "in_water": "2025-06-26 17:26:24 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/spruce_plank_cutlass_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 16:50:24 +0000"
@@ -2810,6 +2921,12 @@
   "securitycraft:recipes/redstone/reinforced_oak_fence_gate": {
     "criteria": {
       "has_stick": "2025-06-26 16:51:00 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/ebony_boat": {
+    "criteria": {
+      "in_water": "2025-06-26 17:26:24 +0000"
     },
     "done": true
   },
@@ -2828,6 +2945,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-06-26 16:52:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-06-26 17:26:24 +0000"
     },
     "done": true
   },
@@ -2864,6 +2987,12 @@
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2025-06-26 16:54:35 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/holly_boat": {
+    "criteria": {
+      "in_water": "2025-06-26 17:26:24 +0000"
     },
     "done": true
   },
@@ -2921,9 +3050,27 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2025-06-26 17:26:24 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/sakura_boat": {
+    "criteria": {
+      "in_water": "2025-06-26 17:26:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-26 17:05:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-06-26 17:19:05 +0000"
     },
     "done": true
   },
@@ -2945,6 +3092,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/florus_boat": {
+    "criteria": {
+      "in_water": "2025-06-26 17:26:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2025-06-26 17:00:28 +0000"
@@ -2957,9 +3110,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-06-26 17:26:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
     "criteria": {
       "has_stick": "2025-06-26 16:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-06-26 17:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-06-26 17:26:24 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/sakura_planks": {
+    "criteria": {
+      "has_log": "2025-06-26 17:10:26 +0000"
     },
     "done": true
   },
@@ -2993,15 +3170,39 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/blue_enchanted_boat": {
+    "criteria": {
+      "in_water": "2025-06-26 17:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-06-26 17:26:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-26 17:00:28 +0000"
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/witch_hazel_boat": {
+    "criteria": {
+      "in_water": "2025-06-26 17:26:24 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/spruce_plank_katana_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 16:50:24 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2025-06-26 17:26:24 +0000"
     },
     "done": true
   },
@@ -3029,15 +3230,39 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-06-26 17:26:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-26 17:00:28 +0000"
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/zelkova_boat": {
+    "criteria": {
+      "in_water": "2025-06-26 17:26:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-06-26 16:51:00 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/sakura_wood": {
+    "criteria": {
+      "has_log": "2025-06-26 17:10:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/green_enchanted_boat": {
+    "criteria": {
+      "in_water": "2025-06-26 17:26:24 +0000"
     },
     "done": true
   },
@@ -3056,6 +3281,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-26 16:50:24 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/ironwood_boat": {
+    "criteria": {
+      "in_water": "2025-06-26 17:26:24 +0000"
     },
     "done": true
   },
@@ -3164,6 +3395,12 @@
   "securitycraft:recipes/misc/reinforced_spruce_fence": {
     "criteria": {
       "has_stick": "2025-06-26 16:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-06-26 17:26:24 +0000"
     },
     "done": true
   },
