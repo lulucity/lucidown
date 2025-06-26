@@ -606,3 +606,17 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [26Jun2025 02:47:16.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 left the game
 [26Jun2025 02:47:16.570] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client luciaypec8
 [26Jun2025 02:47:18.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pikachu1572 moved wrongly!
+[26Jun2025 02:49:59.189] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: luciaypec8[/127.31.76.185:57639] logged in with entity id 116309 at (-1893.99278991723, 72.5625, 507.76249998807907)
+[26Jun2025 02:49:59.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 joined the game
+[26Jun2025 02:49:59.203] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player luciaypec8 just logged in with id afbac492-7d10-355b-8df7-5ad37f55fed5
+[26Jun2025 02:49:59.448] [ForkJoinPool-3-worker-7/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/luciaypec8
+[26Jun2025 02:49:59.530] [ForkJoinPool-3-worker-7/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/luciaypec8
+[26Jun2025 02:49:59.604] [ForkJoinPool-3-worker-7/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/luciaypec8
+[26Jun2025 02:50:00.207] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of luciaypec8 (18)
+[26Jun2025 02:50:00.207] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to luciaypec8
+[26Jun2025 02:51:39.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 was slain by Zombie
+[26Jun2025 02:52:37.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 was slain by Umvuthana
+[26Jun2025 02:56:25.388] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pikachu1572 lost connection: Disconnected
+[26Jun2025 02:56:25.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pikachu1572 left the game
+[26Jun2025 02:56:25.388] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Pikachu1572[fb101342-6e32-34d6-859f-bb2589f07fe1]
+[26Jun2025 02:56:25.388] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Pikachu1572
