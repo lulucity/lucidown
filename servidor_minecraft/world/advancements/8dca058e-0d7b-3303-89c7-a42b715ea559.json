@@ -1711,6 +1711,9 @@
       "biomeswevegone:maple_taiga": "2025-06-25 22:54:02 +0000",
       "biomeswevegone:frosted_taiga": "2025-06-25 23:10:50 +0000",
       "biomeswevegone:orchard": "2025-06-26 00:32:23 +0000",
+      "biomeswevegone:prairie": "2025-06-26 01:17:13 +0000",
+      "biomeswevegone:basalt_barrera": "2025-06-26 01:25:46 +0000",
+      "biomeswevegone:aspen_boreal": "2025-06-26 01:05:00 +0000",
       "biomeswevegone:dacite_ridges": "2025-06-25 22:59:43 +0000",
       "biomeswevegone:skyrise_vale": "2025-06-25 21:58:23 +0000",
       "biomeswevegone:allium_shrubland": "2025-06-26 00:23:42 +0000",
@@ -2697,6 +2700,7 @@
       "minecraft:cold_ocean": "2025-06-25 23:03:20 +0000",
       "minecraft:forest": "2025-06-25 23:03:18 +0000",
       "minecraft:frozen_ocean": "2025-06-25 23:58:23 +0000",
+      "minecraft:ocean": "2025-06-26 01:25:58 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-25 23:56:17 +0000",
       "minecraft:snowy_beach": "2025-06-25 23:58:37 +0000",
       "minecraft:meadow": "2025-06-25 21:54:08 +0000",
@@ -3461,6 +3465,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-06-25 23:06:19 +0000",
       "minecraft:spider": "2025-06-25 22:55:40 +0000",
+      "minecraft:enderman": "2025-06-26 01:27:29 +0000",
       "minecraft:zombie": "2025-06-25 22:58:35 +0000"
     },
     "done": false
@@ -4815,6 +4820,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-26 00:46:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-06-26 00:41:55 +0000"
@@ -4824,6 +4835,12 @@
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2025-06-26 00:39:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-26 01:12:11 +0000"
     },
     "done": true
   },
@@ -4851,6 +4868,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-06-26 01:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-06-26 01:11:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-26 01:10:44 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/diamond_bow_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 00:35:35 +0000"
@@ -4872,6 +4907,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-06-26 00:43:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-26 01:12:11 +0000"
     },
     "done": true
   },
@@ -4905,9 +4946,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-06-26 01:10:34 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/diamond_spear_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 00:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-06-26 01:00:21 +0000"
     },
     "done": true
   },
@@ -4920,6 +4973,12 @@
   "expanded_combat:recipes/combat/diamond_dancer_s_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 00:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-06-26 01:00:21 +0000"
     },
     "done": true
   },
@@ -4941,9 +5000,33 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-26 01:11:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-26 01:04:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-06-26 00:43:04 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_ghast_tear": "2025-06-26 01:08:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-26 01:12:11 +0000"
     },
     "done": true
   },
@@ -4977,6 +5060,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-06-26 00:58:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-06-26 00:35:35 +0000"
@@ -4998,6 +5087,12 @@
   "expanded_combat:recipes/combat/diamond_dagger_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 00:35:35 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-06-26 01:11:25 +0000"
     },
     "done": true
   },
@@ -5031,6 +5126,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-06-26 00:43:19 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/diamond_broad_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 00:35:35 +0000"
@@ -5049,9 +5150,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-26 01:04:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/creeper_banner_pattern": {
     "criteria": {
       "has_creeper_head": "2025-06-26 00:36:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-06-26 00:46:05 +0000"
     },
     "done": true
   },
@@ -5073,9 +5186,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-26 01:11:32 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/diamond_katana_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 00:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-26 01:11:31 +0000"
     },
     "done": true
   },
@@ -5094,6 +5219,12 @@
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-06-26 00:39:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-26 01:11:32 +0000"
     },
     "done": true
   },

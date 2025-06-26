@@ -1123,8 +1123,15 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:cika_woods": "2025-06-26 00:58:55 +0000",
+      "biomeswevegone:temperate_grove": "2025-06-26 00:59:57 +0000",
       "biomeswevegone:forgotten_forest": "2025-06-25 21:46:57 +0000",
+      "biomeswevegone:coconino_meadow": "2025-06-26 00:44:21 +0000",
+      "biomeswevegone:orchard": "2025-06-26 01:09:09 +0000",
+      "biomeswevegone:basalt_barrera": "2025-06-26 01:18:52 +0000",
       "biomeswevegone:aspen_boreal": "2025-06-25 23:12:25 +0000",
+      "biomeswevegone:dacite_ridges": "2025-06-26 00:57:19 +0000",
+      "biomeswevegone:dacite_shore": "2025-06-26 00:58:59 +0000",
       "biomeswevegone:skyrise_vale": "2025-06-25 21:48:57 +0000",
       "biomeswevegone:allium_shrubland": "2025-06-26 00:38:58 +0000",
       "biomeswevegone:pumpkin_valley": "2025-06-26 00:39:36 +0000",
@@ -1716,6 +1723,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-06-26 01:06:08 +0000",
       "minecraft:taiga": "2025-06-25 22:49:20 +0000",
       "minecraft:birch_forest": "2025-06-26 00:25:28 +0000",
       "minecraft:beach": "2025-06-26 00:30:21 +0000",
@@ -1724,7 +1732,10 @@
       "minecraft:cold_ocean": "2025-06-25 21:49:08 +0000",
       "minecraft:forest": "2025-06-25 21:49:03 +0000",
       "minecraft:ocean": "2025-06-26 00:30:34 +0000",
-      "minecraft:meadow": "2025-06-25 21:49:43 +0000"
+      "minecraft:old_growth_spruce_taiga": "2025-06-26 01:00:13 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-26 01:00:01 +0000",
+      "minecraft:meadow": "2025-06-25 21:49:43 +0000",
+      "minecraft:plains": "2025-06-26 00:48:53 +0000"
     },
     "done": false
   },
@@ -4878,6 +4889,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-26 01:10:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_crimson_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-26 01:10:53 +0000"
+    },
+    "done": true
+  },
   "usefulbackpacks:recipes/backpack_medium": {
     "criteria": {
       "has_small_backpack": "2025-06-26 00:34:04 +0000"
@@ -4896,6 +4919,48 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-26 01:10:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_dark_oak_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-26 01:10:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_mangrove_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-26 01:10:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-26 01:10:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_cherry_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-26 01:10:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_dark_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-26 01:10:53 +0000"
+    },
+    "done": true
+  },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_pearl": "2025-06-26 00:51:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2025-06-26 00:39:35 +0000"
@@ -4905,6 +4970,18 @@
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2025-06-26 00:32:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_jungle_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-26 01:10:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_acacia_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-26 01:10:53 +0000"
     },
     "done": true
   },
@@ -4920,15 +4997,57 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-26 01:10:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-26 01:10:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-06-26 00:47:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-26 01:10:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_spruce_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-26 01:10:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-06-26 00:32:31 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_birch_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-26 01:10:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2025-06-26 00:39:35 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_mangrove_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-26 01:10:53 +0000"
     },
     "done": true
   },
@@ -4950,9 +5069,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-06-26 01:24:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-06-26 00:40:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_bamboo_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-26 01:10:53 +0000"
     },
     "done": true
   },
@@ -4974,6 +5105,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_bamboo_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-26 01:10:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-06-26 00:39:43 +0000"
@@ -4983,6 +5120,36 @@
   "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
     "criteria": {
       "has_any_ingredient": "2025-06-26 00:39:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_cherry_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-26 01:10:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_warped_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-26 01:10:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-06-26 00:47:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-26 01:10:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-26 01:10:53 +0000"
     },
     "done": true
   },
