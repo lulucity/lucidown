@@ -3147,6 +3147,7 @@
       "minecraft:skeleton": "2025-06-25 23:00:07 +0000",
       "minecraft:vindicator": "2025-06-26 00:16:42 +0000",
       "minecraft:spider": "2025-06-25 23:21:19 +0000",
+      "minecraft:phantom": "2025-06-26 20:14:22 +0000",
       "minecraft:husk": "2025-06-26 00:32:58 +0000",
       "minecraft:cave_spider": "2025-06-25 23:04:57 +0000",
       "minecraft:enderman": "2025-06-25 23:06:08 +0000",
@@ -6614,9 +6615,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-26 20:54:51 +0000"
+    },
+    "done": true
+  },
   "celestisynth:recipes/combat/lunar_stone_chestplate": {
     "criteria": {
       "has_item": "2025-06-26 19:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-06-26 20:30:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-06-26 20:28:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-26 20:54:51 +0000"
     },
     "done": true
   },
@@ -6626,9 +6651,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-06-26 20:28:20 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-06-26 20:31:31 +0000"
+    },
+    "done": true
+  },
   "celestisynth:recipes/combat/lunar_stone_boots": {
     "criteria": {
       "has_item": "2025-06-26 19:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-06-26 20:30:06 +0000"
     },
     "done": true
   },

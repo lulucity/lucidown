@@ -2932,6 +2932,7 @@
       "minecraft:spider": "2025-06-25 23:35:15 +0000",
       "minecraft:evoker": "2025-06-25 23:42:46 +0000",
       "minecraft:husk": "2025-06-26 13:13:36 +0000",
+      "minecraft:cave_spider": "2025-06-26 20:11:39 +0000",
       "minecraft:enderman": "2025-06-26 00:37:58 +0000",
       "minecraft:zombie": "2025-06-25 23:08:26 +0000"
     },
@@ -5968,9 +5969,135 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-06-26 20:36:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-26 20:37:12 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/skyris_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-26 20:42:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-26 20:41:12 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/skyris_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-26 20:42:21 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/leather_stick_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 19:49:22 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/skyris_sign": {
+    "criteria": {
+      "has_planks": "2025-06-26 20:42:21 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/skyris_bookshelf": {
+    "criteria": {
+      "has_skyris_planks": "2025-06-26 20:42:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-26 20:36:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-06-26 20:36:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-26 20:36:36 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/skyris_button": {
+    "criteria": {
+      "has_planks": "2025-06-26 20:42:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-06-26 20:36:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-06-26 20:36:36 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/skyris_door": {
+    "criteria": {
+      "has_planks": "2025-06-26 20:42:21 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/skyris_slab": {
+    "criteria": {
+      "has_planks": "2025-06-26 20:42:21 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/skyris_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-26 20:42:21 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/skyris_wood": {
+    "criteria": {
+      "has_log": "2025-06-26 20:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-06-26 20:36:36 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/skyris_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-26 20:42:21 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/skyris_fence": {
+    "criteria": {
+      "has_planks": "2025-06-26 20:42:21 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/skyris_planks": {
+    "criteria": {
+      "has_log": "2025-06-26 20:29:12 +0000"
     },
     "done": true
   },
@@ -5979,6 +6106,72 @@
       "abondoned_prairie_house": "2025-06-26 19:47:19 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-06-26 20:36:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-06-26 20:36:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-26 20:37:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-26 20:37:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-26 20:36:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-26 20:36:36 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/skyris_crafting_table": {
+    "criteria": {
+      "has_skyris_planks": "2025-06-26 20:42:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-26 20:36:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-26 20:36:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-06-26 20:41:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-26 20:36:36 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
