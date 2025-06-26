@@ -514,3 +514,53 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [26Jun2025 17:25:19.933] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/15801, l='ServerLevel[world]', x=1596.57, y=70.00, z=864.42] died, message: 'Nitwit was poked to death by a sweet berry bush'
 [26Jun2025 17:32:13.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotceh9889 moved wrongly!
 [26Jun2025 17:32:39.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 burned to death
+[26Jun2025 17:34:11.411] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 lost connection: Timed out
+[26Jun2025 17:34:11.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 left the game
+[26Jun2025 17:34:11.412] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Ruben17[38de0807-4de7-3327-9c3b-72f51d8c540b]
+[26Jun2025 17:34:11.412] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ruben17
+[26Jun2025 17:34:37.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotceh9889 moved wrongly!
+[26Jun2025 17:34:41.322] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ruben17[/127.242.85.59:58375] logged in with entity id 25797 at (-203.87040778459428, 68.0, -532.0491707529781)
+[26Jun2025 17:34:41.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 joined the game
+[26Jun2025 17:34:41.389] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Ruben17 just logged in with id 38de0807-4de7-3327-9c3b-72f51d8c540b
+[26Jun2025 17:34:41.390] [ForkJoinPool-3-worker-6/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ruben17[38de0807-4de7-3327-9c3b-72f51d8c540b]
+[26Jun2025 17:34:41.441] [ForkJoinPool-3-worker-6/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ruben17 downloaded
+[26Jun2025 17:34:41.482] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ruben17 (18)
+[26Jun2025 17:34:41.483] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ruben17
+[26Jun2025 17:37:20.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 was slain by luciaypec8
+[26Jun2025 17:47:18.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotceh9889 moved wrongly!
+[26Jun2025 17:49:43.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 has made the advancement [Ice Bucket Challenge]
+[26Jun2025 17:51:21.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mikel17pro has made the advancement [Diamonds!]
+[26Jun2025 17:53:22.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Mikel17pro) moved wrongly! 0.2830789614180276
+[26Jun2025 17:53:22.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved wrongly! 0.3080456039198225
+[26Jun2025 17:53:22.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Mikel17pro) moved wrongly! 0.46149324087656396
+[26Jun2025 17:53:22.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved wrongly! 0.4770554888344236
+[26Jun2025 17:53:23.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved wrongly! 0.2623459345331298
+[26Jun2025 17:53:23.050] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved wrongly! 0.47675847773859914
+[26Jun2025 17:53:23.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved wrongly! 0.4171512098869812
+[26Jun2025 17:53:23.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Mikel17pro) moved wrongly! 0.2661975210277774
+[26Jun2025 17:53:23.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved wrongly! 0.29468740477466326
+[26Jun2025 17:53:23.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Mikel17pro) moved wrongly! 0.27997188342732215
+[26Jun2025 17:53:23.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Mikel17pro) moved wrongly! 0.2848873009629074
+[26Jun2025 17:53:23.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved wrongly! 0.4171512098869812
+[26Jun2025 17:53:23.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Mikel17pro) moved wrongly! 0.6197495993883422
+[26Jun2025 17:53:23.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Mikel17pro) moved wrongly! 0.3058247089790598
+[26Jun2025 17:53:24.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved wrongly! 0.6749859178991926
+[26Jun2025 17:53:24.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Mikel17pro) moved wrongly! 0.5532285831622801
+[26Jun2025 17:53:25.348] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved wrongly! 0.2745200350449295
+[26Jun2025 17:53:25.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved wrongly! 0.5978673870273781
+[26Jun2025 17:53:26.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved wrongly! 0.860958006872437
+[26Jun2025 17:53:26.090] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved wrongly! 0.6891062439214863
+[26Jun2025 17:54:15.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mikel17pro moved wrongly!
+[26Jun2025 17:54:31.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
+[26Jun2025 17:54:39.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
+[26Jun2025 17:54:41.146] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
+[26Jun2025 17:54:44.248] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
+[26Jun2025 17:54:46.349] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
+[26Jun2025 17:56:49.944] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mikel17pro moved wrongly!
+[26Jun2025 17:56:57.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
+[26Jun2025 17:57:56.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Ruben17) moved wrongly! 0.269527855643652
+[26Jun2025 17:58:14.850] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mikel17pro moved wrongly!
+[26Jun2025 17:58:19.502] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
+[26Jun2025 18:01:19.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of luciaypec8) moved wrongly! 0.2638194965131788
+[26Jun2025 18:01:19.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of luciaypec8) moved wrongly! 0.41929022710701247
+[26Jun2025 18:01:48.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mikel17pro has made the advancement [Sweet Dreams]

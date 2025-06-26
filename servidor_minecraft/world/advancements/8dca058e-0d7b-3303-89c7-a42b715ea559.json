@@ -1707,14 +1707,18 @@
     "criteria": {
       "biomeswevegone:cika_woods": "2025-06-26 11:57:59 +0000",
       "biomeswevegone:sakura_grove": "2025-06-26 14:26:20 +0000",
+      "biomeswevegone:enchanted_tangle": "2025-06-26 17:51:07 +0000",
       "biomeswevegone:temperate_grove": "2025-06-26 11:57:05 +0000",
       "biomeswevegone:zelkova_forest": "2025-06-26 12:27:41 +0000",
       "biomeswevegone:forgotten_forest": "2025-06-25 21:50:05 +0000",
+      "biomeswevegone:firecracker_chaparral": "2025-06-26 17:31:51 +0000",
       "biomeswevegone:coconino_meadow": "2025-06-25 23:13:58 +0000",
+      "biomeswevegone:lush_stacks": "2025-06-26 17:48:37 +0000",
       "biomeswevegone:black_forest": "2025-06-25 23:47:14 +0000",
       "biomeswevegone:maple_taiga": "2025-06-25 22:54:02 +0000",
       "biomeswevegone:frosted_taiga": "2025-06-25 23:10:50 +0000",
       "biomeswevegone:orchard": "2025-06-26 00:32:23 +0000",
+      "biomeswevegone:amaranth_grassland": "2025-06-26 17:48:18 +0000",
       "biomeswevegone:weeping_witch_forest": "2025-06-26 12:02:09 +0000",
       "biomeswevegone:prairie": "2025-06-26 01:17:13 +0000",
       "biomeswevegone:basalt_barrera": "2025-06-26 01:25:46 +0000",
@@ -1722,8 +1726,10 @@
       "biomeswevegone:dacite_ridges": "2025-06-25 22:59:43 +0000",
       "biomeswevegone:dacite_shore": "2025-06-26 13:07:43 +0000",
       "biomeswevegone:skyrise_vale": "2025-06-25 21:58:23 +0000",
+      "biomeswevegone:dead_sea": "2025-06-26 17:51:35 +0000",
       "biomeswevegone:allium_shrubland": "2025-06-26 00:23:42 +0000",
       "biomeswevegone:pumpkin_valley": "2025-06-25 23:20:48 +0000",
+      "biomeswevegone:baobab_savanna": "2025-06-26 17:46:15 +0000",
       "biomeswevegone:overgrowth_woodlands": "2025-06-25 21:50:42 +0000",
       "biomeswevegone:coniferous_forest": "2025-06-26 12:27:37 +0000",
       "biomeswevegone:bayou": "2025-06-26 12:28:42 +0000"
@@ -2702,28 +2708,38 @@
       "minecraft:old_growth_pine_taiga": "2025-06-26 12:42:32 +0000",
       "minecraft:taiga": "2025-06-25 22:53:27 +0000",
       "minecraft:deep_ocean": "2025-06-26 01:43:24 +0000",
+      "minecraft:frozen_river": "2025-06-26 18:01:03 +0000",
       "minecraft:cherry_grove": "2025-06-25 23:32:05 +0000",
       "minecraft:sunflower_plains": "2025-06-26 14:14:42 +0000",
       "minecraft:birch_forest": "2025-06-26 11:41:15 +0000",
       "minecraft:windswept_hills": "2025-06-26 12:13:51 +0000",
+      "minecraft:wooded_badlands": "2025-06-26 17:51:26 +0000",
+      "minecraft:savanna_plateau": "2025-06-26 17:31:56 +0000",
       "minecraft:beach": "2025-06-25 23:05:55 +0000",
       "minecraft:dark_forest": "2025-06-26 12:04:58 +0000",
+      "minecraft:sparse_jungle": "2025-06-26 17:55:54 +0000",
       "minecraft:river": "2025-06-25 23:00:30 +0000",
+      "minecraft:lukewarm_ocean": "2025-06-26 17:46:08 +0000",
       "minecraft:stony_shore": "2025-06-25 23:01:46 +0000",
       "minecraft:snowy_taiga": "2025-06-25 23:10:21 +0000",
       "minecraft:swamp": "2025-06-26 12:05:02 +0000",
       "minecraft:cold_ocean": "2025-06-25 23:03:20 +0000",
       "minecraft:forest": "2025-06-25 23:03:18 +0000",
       "minecraft:lush_caves": "2025-06-26 12:11:39 +0000",
+      "minecraft:deep_cold_ocean": "2025-06-26 17:29:44 +0000",
       "minecraft:frozen_ocean": "2025-06-25 23:58:23 +0000",
       "minecraft:windswept_forest": "2025-06-26 12:24:24 +0000",
       "minecraft:ocean": "2025-06-26 01:25:58 +0000",
+      "minecraft:jungle": "2025-06-26 17:57:00 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-25 23:56:17 +0000",
       "minecraft:snowy_beach": "2025-06-25 23:58:37 +0000",
+      "minecraft:warm_ocean": "2025-06-26 17:51:59 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-06-26 17:50:38 +0000",
       "minecraft:frozen_peaks": "2025-06-26 13:47:52 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-26 12:42:55 +0000",
       "minecraft:meadow": "2025-06-25 21:54:08 +0000",
       "minecraft:windswept_gravelly_hills": "2025-06-26 12:18:17 +0000",
+      "minecraft:savanna": "2025-06-26 17:41:57 +0000",
       "minecraft:plains": "2025-06-25 23:45:27 +0000"
     },
     "done": false
@@ -2780,6 +2796,7 @@
     "criteria": {
       "cooked_porkchop": "2025-06-25 22:01:30 +0000",
       "cooked_mutton": "2025-06-25 23:31:36 +0000",
+      "cooked_beef": "2025-06-26 17:42:30 +0000",
       "beef": "2025-06-25 22:00:04 +0000",
       "apple": "2025-06-25 23:15:22 +0000",
       "pumpkin_pie": "2025-06-25 23:46:25 +0000",
@@ -6537,6 +6554,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-26 17:54:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-06-26 17:54:42 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/decorations/sakura_fence": {
     "criteria": {
       "has_planks": "2025-06-26 17:11:22 +0000"
@@ -6576,6 +6605,12 @@
   "biomeswevegone:recipes/decorations/sakura_crafting_table": {
     "criteria": {
       "has_sakura_planks": "2025-06-26 17:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-06-26 17:32:34 +0000"
     },
     "done": true
   },
