@@ -1699,8 +1699,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-06-26 19:18:33 +0000",
+      "minecraft:beach": "2025-06-26 19:16:20 +0000",
       "minecraft:river": "2025-06-26 17:15:13 +0000",
+      "minecraft:cold_ocean": "2025-06-26 19:24:57 +0000",
       "minecraft:forest": "2025-06-26 17:15:42 +0000",
+      "minecraft:ocean": "2025-06-26 19:16:24 +0000",
       "minecraft:meadow": "2025-06-25 21:56:19 +0000"
     },
     "done": false
@@ -1717,8 +1721,10 @@
       "biomeswevegone:forgotten_forest": "2025-06-26 17:14:56 +0000",
       "biomeswevegone:maple_taiga": "2025-06-26 17:56:09 +0000",
       "biomeswevegone:prairie": "2025-06-26 17:58:00 +0000",
+      "biomeswevegone:basalt_barrera": "2025-06-26 19:16:45 +0000",
       "biomeswevegone:skyrise_vale": "2025-06-25 21:58:48 +0000",
-      "biomeswevegone:allium_shrubland": "2025-06-26 17:56:20 +0000"
+      "biomeswevegone:allium_shrubland": "2025-06-26 17:56:20 +0000",
+      "biomeswevegone:pumpkin_valley": "2025-06-26 19:16:57 +0000"
     },
     "done": false
   },
@@ -1767,6 +1773,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-06-25 22:01:19 +0000",
+      "cooked_mutton": "2025-06-26 18:53:51 +0000",
       "apple": "2025-06-26 18:21:28 +0000",
       "bread": "2025-06-26 18:10:44 +0000"
     },
@@ -2510,15 +2517,33 @@
     },
     "done": true
   },
+  "ec_es_plugin:recipes/combat/steel_ninja_gauntlet_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 19:02:30 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/motion_activated_light": {
     "criteria": {
       "has_stick": "2025-06-26 16:51:00 +0000"
     },
     "done": true
   },
+  "ec_es_plugin:recipes/combat/steel_glaive_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 19:02:30 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_jungle_fence_gate": {
     "criteria": {
       "has_stick": "2025-06-26 16:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-06-26 19:14:06 +0000"
     },
     "done": true
   },
@@ -2543,6 +2568,12 @@
   "expanded_combat:recipes/combat/gold_great_hammer_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 18:40:48 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_great_hammer_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 19:02:30 +0000"
     },
     "done": true
   },
@@ -2660,6 +2691,12 @@
     },
     "done": true
   },
+  "ec_es_plugin:recipes/combat/steel_sickle_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 19:02:30 +0000"
+    },
+    "done": true
+  },
   "usefulbackpacks:recipes/backpack_medium": {
     "criteria": {
       "has_small_backpack": "2025-06-26 18:42:17 +0000"
@@ -2735,6 +2772,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-06-26 16:50:24 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_arrow_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 19:02:30 +0000"
     },
     "done": true
   },
@@ -2864,6 +2907,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2025-06-26 17:00:28 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_sword": {
+    "criteria": {
+      "has_items": "2025-06-26 19:02:30 +0000"
     },
     "done": true
   },
@@ -3059,6 +3108,12 @@
     },
     "done": true
   },
+  "ec_es_plugin:recipes/combat/steel_quiver_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 19:02:30 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/diamond_scythe_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 17:51:21 +0000"
@@ -3089,6 +3144,12 @@
     },
     "done": true
   },
+  "ec_es_plugin:recipes/combat/steel_bow_conditional_shaped_skip": {
+    "criteria": {
+      "has_item": "2025-06-26 19:02:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-06-26 17:31:56 +0000"
@@ -3116,6 +3177,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2025-06-26 18:23:25 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_bow_conditional_120_smithing": {
+    "criteria": {
+      "has_item": "2025-06-26 19:02:30 +0000"
     },
     "done": true
   },
@@ -3365,9 +3432,21 @@
     },
     "done": true
   },
+  "ec_es_plugin:recipes/combat/steel_mace_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 19:02:30 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2025-06-26 17:26:24 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_crossbow_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 19:02:30 +0000"
     },
     "done": true
   },
@@ -3515,6 +3594,12 @@
     },
     "done": true
   },
+  "ec_es_plugin:recipes/combat/steel_dancer_s_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 19:02:30 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/diamond_arrow_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 17:51:21 +0000"
@@ -3644,6 +3729,12 @@
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-06-26 17:48:58 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_claymore_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 19:02:30 +0000"
     },
     "done": true
   },
@@ -3791,6 +3882,12 @@
     },
     "done": true
   },
+  "ec_es_plugin:recipes/combat/steel_dagger_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 19:02:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-06-26 18:40:48 +0000"
@@ -3806,6 +3903,12 @@
   "expanded_combat:recipes/combat/oak_plank_katana_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 17:32:25 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_flail_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 19:02:30 +0000"
     },
     "done": true
   },
@@ -4013,6 +4116,12 @@
     },
     "done": true
   },
+  "ec_es_plugin:recipes/combat/steel_scythe_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 19:02:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-06-26 17:26:24 +0000"
@@ -4124,6 +4233,12 @@
   "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
     "criteria": {
       "has_stick": "2025-06-26 16:51:00 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_katana_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 19:02:30 +0000"
     },
     "done": true
   },
@@ -4274,6 +4389,18 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-26 18:11:51 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_broad_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 19:02:30 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_gauntlet_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 19:02:30 +0000"
     },
     "done": true
   },
@@ -4607,6 +4734,12 @@
     },
     "done": true
   },
+  "ec_es_plugin:recipes/combat/steel_spear_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 19:02:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-06-26 16:50:24 +0000"
@@ -4646,6 +4779,18 @@
   "expanded_combat:recipes/combat/half_gold_bow_conditional_120_smithing": {
     "criteria": {
       "has_item": "2025-06-26 18:40:48 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_battle_staff_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 19:02:30 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_cutlass_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 19:02:30 +0000"
     },
     "done": true
   },

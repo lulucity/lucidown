@@ -2487,6 +2487,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-06-26 11:51:26 +0000",
       "minecraft:spider": "2025-06-26 13:16:02 +0000",
+      "minecraft:creeper": "2025-06-26 18:44:50 +0000",
       "minecraft:cave_spider": "2025-06-26 12:18:53 +0000",
       "minecraft:enderman": "2025-06-26 13:16:50 +0000",
       "minecraft:zombie": "2025-06-26 11:51:05 +0000",
@@ -2540,6 +2541,7 @@
       "biomeswevegone:maple_taiga": "2025-06-26 13:27:44 +0000",
       "biomeswevegone:frosted_taiga": "2025-06-26 14:33:15 +0000",
       "biomeswevegone:prairie": "2025-06-26 17:56:02 +0000",
+      "biomeswevegone:basalt_barrera": "2025-06-26 19:16:49 +0000",
       "biomeswevegone:dacite_ridges": "2025-06-26 13:25:31 +0000",
       "biomeswevegone:dacite_shore": "2025-06-26 14:43:43 +0000",
       "biomeswevegone:skyrise_vale": "2025-06-26 12:00:18 +0000",
@@ -3205,6 +3207,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-06-26 18:45:41 +0000",
       "cooked_mutton": "2025-06-26 12:06:42 +0000",
       "cooked_beef": "2025-06-26 12:05:39 +0000",
       "bread": "2025-06-26 12:46:06 +0000"
@@ -5422,9 +5425,39 @@
     },
     "done": true
   },
+  "ec_es_plugin:recipes/combat/steel_ninja_gauntlet_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 19:04:53 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_glaive_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 19:04:53 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_great_hammer_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 19:04:53 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_sickle_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 19:04:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2025-06-26 18:21:09 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_arrow_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 19:04:53 +0000"
     },
     "done": true
   },
@@ -5452,9 +5485,27 @@
     },
     "done": true
   },
+  "ec_es_plugin:recipes/combat/steel_quiver_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 19:04:53 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_bow_conditional_shaped_skip": {
+    "criteria": {
+      "has_item": "2025-06-26 19:04:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2025-06-26 18:21:09 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_bow_conditional_120_smithing": {
+    "criteria": {
+      "has_item": "2025-06-26 19:04:53 +0000"
     },
     "done": true
   },
@@ -5476,9 +5527,33 @@
     },
     "done": true
   },
+  "ec_es_plugin:recipes/combat/steel_mace_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 19:04:53 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_crossbow_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 19:04:53 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_dancer_s_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 19:04:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-06-26 18:22:54 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_claymore_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 19:04:53 +0000"
     },
     "done": true
   },
@@ -5494,9 +5569,33 @@
     },
     "done": true
   },
+  "ec_es_plugin:recipes/combat/steel_dagger_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 19:04:53 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_flail_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 19:04:53 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_scythe_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 19:04:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-26 18:21:09 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_katana_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 19:04:53 +0000"
     },
     "done": true
   },
@@ -5515,6 +5614,18 @@
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-26 18:21:09 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_broad_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 19:04:53 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_gauntlet_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 19:04:53 +0000"
     },
     "done": true
   },
@@ -5539,6 +5650,24 @@
   "securitycraft:recipes/tools/universal_owner_changer": {
     "criteria": {
       "has_name_tag": "2025-06-26 18:20:05 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_spear_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 19:04:53 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_battle_staff_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 19:04:53 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_cutlass_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 19:04:53 +0000"
     },
     "done": true
   },
