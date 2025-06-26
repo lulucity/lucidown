@@ -2717,6 +2717,7 @@
       "minecraft:savanna_plateau": "2025-06-26 17:31:56 +0000",
       "minecraft:beach": "2025-06-25 23:05:55 +0000",
       "minecraft:dark_forest": "2025-06-26 12:04:58 +0000",
+      "minecraft:mangrove_swamp": "2025-06-26 18:42:35 +0000",
       "minecraft:sparse_jungle": "2025-06-26 17:55:54 +0000",
       "minecraft:river": "2025-06-25 23:00:30 +0000",
       "minecraft:lukewarm_ocean": "2025-06-26 17:46:08 +0000",
@@ -6512,9 +6513,21 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/redstone/holly_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-26 18:24:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-06-26 17:03:07 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/holly_sign": {
+    "criteria": {
+      "has_planks": "2025-06-26 18:24:29 +0000"
     },
     "done": true
   },
@@ -6566,15 +6579,33 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/holly_slab": {
+    "criteria": {
+      "has_planks": "2025-06-26 18:24:29 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/decorations/sakura_fence": {
     "criteria": {
       "has_planks": "2025-06-26 17:11:22 +0000"
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/holly_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-26 18:24:29 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/sakura_stairs": {
     "criteria": {
       "has_planks": "2025-06-26 17:11:22 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/holly_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-26 18:24:29 +0000"
     },
     "done": true
   },
@@ -6644,6 +6675,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/redstone/holly_button": {
+    "criteria": {
+      "has_planks": "2025-06-26 18:24:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-06-26 17:03:07 +0000"
@@ -6671,6 +6708,12 @@
   "biomeswevegone:recipes/decorations/sakura_sign": {
     "criteria": {
       "has_planks": "2025-06-26 17:11:22 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/holly_crafting_table": {
+    "criteria": {
+      "has_holly_planks": "2025-06-26 18:24:29 +0000"
     },
     "done": true
   },
@@ -6716,6 +6759,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/redstone/holly_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-26 18:24:29 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/sakura_slab": {
     "criteria": {
       "has_planks": "2025-06-26 17:11:22 +0000"
@@ -6728,6 +6777,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/redstone/holly_door": {
+    "criteria": {
+      "has_planks": "2025-06-26 18:24:29 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/white_dacite_cobblestone_slab": {
     "criteria": {
       "has_white_dacite_cobblestone": "2025-06-26 17:16:12 +0000"
@@ -6737,6 +6792,12 @@
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-06-26 17:01:32 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/holly_fence": {
+    "criteria": {
+      "has_planks": "2025-06-26 18:24:29 +0000"
     },
     "done": true
   },
@@ -6755,6 +6816,12 @@
   "biomeswevegone:recipes/building_blocks/white_dacite_cobblestone_stairs": {
     "criteria": {
       "has_white_dacite_cobblestone": "2025-06-26 17:16:12 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/holly_bookshelf": {
+    "criteria": {
+      "has_holly_planks": "2025-06-26 18:24:29 +0000"
     },
     "done": true
   },

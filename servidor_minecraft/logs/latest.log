@@ -585,3 +585,83 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [26Jun2025 18:14:30.146] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Ruben17[38de0807-4de7-3327-9c3b-72f51d8c540b]
 [26Jun2025 18:14:30.146] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ruben17
 [26Jun2025 18:15:05.286] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@af48188[id=<null>,name=Ruben17,properties={},legacy=false] (/127.242.85.59:42459) lost connection: Disconnected
+[26Jun2025 18:15:16.205] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ruben17[/127.242.85.59:44053] logged in with entity id 63061 at (-154.00752649750694, -4.464159374955445, -1091.5016063974413)
+[26Jun2025 18:15:16.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 joined the game
+[26Jun2025 18:15:16.266] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Ruben17 just logged in with id 38de0807-4de7-3327-9c3b-72f51d8c540b
+[26Jun2025 18:15:16.271] [ForkJoinPool-3-worker-7/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ruben17[38de0807-4de7-3327-9c3b-72f51d8c540b]
+[26Jun2025 18:15:16.329] [ForkJoinPool-3-worker-7/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ruben17 downloaded
+[26Jun2025 18:15:16.390] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ruben17 (18)
+[26Jun2025 18:15:16.390] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ruben17
+[26Jun2025 18:22:07.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 suffocated in a wall
+[26Jun2025 18:23:35.511] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[26Jun2025 18:23:35.511] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[26Jun2025 18:23:38.945] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of luciaypec8) moved wrongly! 0.3793447835109873
+[26Jun2025 18:23:38.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of luciaypec8) moved wrongly! 0.701491514699228
+[26Jun2025 18:23:38.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of luciaypec8) moved wrongly! 1.0309247180207421
+[26Jun2025 18:23:39.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of luciaypec8) moved wrongly! 1.3271226193937764
+[26Jun2025 18:23:39.021] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of luciaypec8) moved wrongly! 1.669015689576554
+[26Jun2025 18:23:40.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 has made the advancement [Tools of the Trade]
+[26Jun2025 18:29:48.074] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=29, y=-47, z=-11}
+[26Jun2025 18:30:07.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 drowned
+[26Jun2025 18:31:15.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotceh9889 moved wrongly!
+[26Jun2025 18:32:42.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotceh9889 moved wrongly!
+[26Jun2025 18:34:12.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 suffocated in a wall
+[26Jun2025 18:35:43.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved too quickly! -7.966095132021849,-5.535840625044557,-2.9864923500451823
+[26Jun2025 18:37:19.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luciaypec8 moved wrongly!
+[26Jun2025 18:37:25.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 fell from a high place
+[26Jun2025 18:38:44.494] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luciaypec8 moved wrongly!
+[26Jun2025 18:40:14.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciaypec8: Teleported rotceh9889 to luciaypec8]
+[26Jun2025 18:42:26.897] [Worker-Main-1/ERROR] [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager/]: Couldn't load structure mvs:houses/large_floating_island
+net.minecraft.ReportedException: Loading NBT data
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:480) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:43) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:26) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:474) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.NbtIo.m_128930_(NbtIo.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.NbtIo.m_128934_(NbtIo.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.NbtIo.m_128939_(NbtIo.java:35) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230377_(StructureTemplateManager.java:227) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230372_(StructureTemplateManager.java:217) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230427_(StructureTemplateManager.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230425_(StructureTemplateManager.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708) ~[?:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230407_(StructureTemplateManager.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230359_(StructureTemplateManager.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.m_227299_(SinglePoolElement.java:81) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.m_214015_(SinglePoolElement.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at com.finndog.mvs.world.structures.pieces.PieceLimitedJigsawManager.assembleJigsawStructure(PieceLimitedJigsawManager.java:106) ~[mvs-4.1.5-1.20.jar%23188!/:?]
+	at com.finndog.mvs.world.structures.GenericJigsawStructure.m_214086_(GenericJigsawStructure.java:213) ~[mvs-4.1.5-1.20.jar%23188!/:?]
+	at net.minecraft.world.level.levelgen.structure.Structure.m_262864_(Structure.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.level.levelgen.structure.Structure.m_226596_(Structure.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_223104_(ChunkGenerator.java:513) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_254811_(ChunkGenerator.java:466) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_255037_(ChunkGenerator.java:448) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_289181_(ChunkStatus.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_280308_(ChunkStatus.java:252) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$27(ChunkMap.java:643) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$29(ChunkMap.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.io.IOException: Invalid tag id: 16
+	at net.minecraft.nbt.TagType$1.m_197591_(TagType.java:58) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.TagType$1.m_7300_(TagType.java:63) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.TagType$1.m_7300_(TagType.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:474) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	... 45 more

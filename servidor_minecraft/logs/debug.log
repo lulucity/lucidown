@@ -10071,3 +10071,742 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [26Jun2025 18:15:10.643] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
 [26Jun2025 18:15:10.694] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
 [26Jun2025 18:15:10.740] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry irons_spellbooks:schools' to 'fml:handshake' sequence 6
+[26Jun2025 18:15:10.782] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[26Jun2025 18:15:10.782] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:10.782] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:10.790] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 7
+[26Jun2025 18:15:10.841] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 8
+[26Jun2025 18:15:10.894] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 9
+[26Jun2025 18:15:10.942] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[26Jun2025 18:15:10.943] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:10.943] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:10.945] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry celestisynth:cs_visuals' to 'fml:handshake' sequence 10
+[26Jun2025 18:15:10.995] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 11
+[26Jun2025 18:15:11.032] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[26Jun2025 18:15:11.032] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:11.032] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:11.032] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[26Jun2025 18:15:11.032] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:11.032] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:11.032] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[26Jun2025 18:15:11.032] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:11.032] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:11.044] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 12
+[26Jun2025 18:15:11.094] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 13
+[26Jun2025 18:15:11.142] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 14
+[26Jun2025 18:15:11.144] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[26Jun2025 18:15:11.144] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:11.144] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:11.145] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[26Jun2025 18:15:11.145] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:11.145] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:11.145] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[26Jun2025 18:15:11.145] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:11.145] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:11.185] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[26Jun2025 18:15:11.185] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:11.185] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:11.185] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[26Jun2025 18:15:11.185] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:11.185] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:11.194] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 15
+[26Jun2025 18:15:11.237] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[26Jun2025 18:15:11.237] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:11.237] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:11.237] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[26Jun2025 18:15:11.237] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:11.237] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:11.240] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 16
+[26Jun2025 18:15:11.294] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry irons_spellbooks:spells' to 'fml:handshake' sequence 17
+[26Jun2025 18:15:11.342] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[26Jun2025 18:15:11.342] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:11.342] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:11.342] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[26Jun2025 18:15:11.342] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:11.342] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:11.348] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 18
+[26Jun2025 18:15:11.391] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 19
+[26Jun2025 18:15:11.440] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[26Jun2025 18:15:11.441] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:11.441] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:11.442] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry celestisynth:cs_player_animations' to 'fml:handshake' sequence 20
+[26Jun2025 18:15:11.492] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 21
+[26Jun2025 18:15:11.543] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 22
+[26Jun2025 18:15:11.543] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[26Jun2025 18:15:11.543] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:11.543] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:11.584] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[26Jun2025 18:15:11.584] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:11.584] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:11.584] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[26Jun2025 18:15:11.584] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:11.584] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:11.592] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 23
+[26Jun2025 18:15:11.644] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 24
+[26Jun2025 18:15:11.645] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[26Jun2025 18:15:11.645] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:11.645] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:11.645] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[26Jun2025 18:15:11.645] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:11.645] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:11.691] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_slowfall.toml' to 'fml:handshake' sequence 25
+[26Jun2025 18:15:11.742] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_blink.toml' to 'fml:handshake' sequence 26
+[26Jun2025 18:15:11.748] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[26Jun2025 18:15:11.748] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:11.748] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:11.797] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_linger.toml' to 'fml:handshake' sequence 27
+[26Jun2025 18:15:11.847] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_intangible.toml' to 'fml:handshake' sequence 28
+[26Jun2025 18:15:11.890] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_touch.toml' to 'fml:handshake' sequence 29
+[26Jun2025 18:15:11.942] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/burst.toml' to 'fml:handshake' sequence 30
+[26Jun2025 18:15:11.994] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_summon_vex.toml' to 'fml:handshake' sequence 31
+[26Jun2025 18:15:12.044] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_summon_undead.toml' to 'fml:handshake' sequence 32
+[26Jun2025 18:15:12.095] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_dampen.toml' to 'fml:handshake' sequence 33
+[26Jun2025 18:15:12.145] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 34
+[26Jun2025 18:15:12.192] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_cut.toml' to 'fml:handshake' sequence 35
+[26Jun2025 18:15:12.247] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_accelerate.toml' to 'fml:handshake' sequence 36
+[26Jun2025 18:15:12.292] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_evaporate.toml' to 'fml:handshake' sequence 37
+[26Jun2025 18:15:12.346] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config irons_spellbooks-server.toml' to 'fml:handshake' sequence 38
+[26Jun2025 18:15:12.394] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_duration_down.toml' to 'fml:handshake' sequence 39
+[26Jun2025 18:15:12.442] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_summon_wolves.toml' to 'fml:handshake' sequence 40
+[26Jun2025 18:15:12.495] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_grow.toml' to 'fml:handshake' sequence 41
+[26Jun2025 18:15:12.544] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_animate_block.toml' to 'fml:handshake' sequence 42
+[26Jun2025 18:15:12.592] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_extract.toml' to 'fml:handshake' sequence 43
+[26Jun2025 18:15:12.642] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_fangs.toml' to 'fml:handshake' sequence 44
+[26Jun2025 18:15:12.693] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_ender_inventory.toml' to 'fml:handshake' sequence 45
+[26Jun2025 18:15:12.740] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_split.toml' to 'fml:handshake' sequence 46
+[26Jun2025 18:15:12.791] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 47
+[26Jun2025 18:15:12.840] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/reset.toml' to 'fml:handshake' sequence 48
+[26Jun2025 18:15:12.869] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[26Jun2025 18:15:12.869] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:12.869] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:12.869] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[26Jun2025 18:15:12.869] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:12.869] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:12.871] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[26Jun2025 18:15:12.871] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:12.871] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:12.871] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[26Jun2025 18:15:12.871] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:12.871] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:12.871] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[26Jun2025 18:15:12.871] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:12.871] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:12.871] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[26Jun2025 18:15:12.871] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:12.871] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:12.871] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[26Jun2025 18:15:12.871] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:12.871] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:12.871] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[26Jun2025 18:15:12.871] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:12.871] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:12.871] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[26Jun2025 18:15:12.871] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:12.871] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:12.871] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[26Jun2025 18:15:12.871] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:12.871] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:12.871] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 34
+[26Jun2025 18:15:12.871] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 34 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:12.871] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:12.871] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 35
+[26Jun2025 18:15:12.871] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 35 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:12.871] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:12.871] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 36
+[26Jun2025 18:15:12.871] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 36 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:12.871] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:12.871] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 37
+[26Jun2025 18:15:12.871] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 37 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:12.871] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:12.872] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 38
+[26Jun2025 18:15:12.872] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 38 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:12.872] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:12.872] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 39
+[26Jun2025 18:15:12.872] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 39 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:12.872] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:12.872] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 40
+[26Jun2025 18:15:12.872] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 40 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:12.872] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:12.872] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 41
+[26Jun2025 18:15:12.872] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 41 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:12.872] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:12.872] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 42
+[26Jun2025 18:15:12.872] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 42 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:12.872] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:12.872] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 43
+[26Jun2025 18:15:12.872] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 43 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:12.872] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:12.872] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 44
+[26Jun2025 18:15:12.872] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 44 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:12.872] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:12.872] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 45
+[26Jun2025 18:15:12.872] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 45 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:12.872] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:12.872] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 46
+[26Jun2025 18:15:12.872] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 46 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:12.873] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:12.873] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 47
+[26Jun2025 18:15:12.873] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 47 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:12.873] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:12.889] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_amplify.toml' to 'fml:handshake' sequence 49
+[26Jun2025 18:15:12.901] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 48
+[26Jun2025 18:15:12.901] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 48 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:12.901] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:12.942] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 49
+[26Jun2025 18:15:12.942] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 49 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:12.942] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:12.945] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_aoe.toml' to 'fml:handshake' sequence 50
+[26Jun2025 18:15:12.977] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 50
+[26Jun2025 18:15:12.977] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 50 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:12.977] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:12.991] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_hex.toml' to 'fml:handshake' sequence 51
+[26Jun2025 18:15:13.023] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 51
+[26Jun2025 18:15:13.023] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 51 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:13.023] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:13.042] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_sensitive.toml' to 'fml:handshake' sequence 52
+[26Jun2025 18:15:13.076] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 52
+[26Jun2025 18:15:13.076] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 52 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:13.076] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:13.090] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_lightning.toml' to 'fml:handshake' sequence 53
+[26Jun2025 18:15:13.123] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 53
+[26Jun2025 18:15:13.123] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 53 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:13.123] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:13.141] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_leap.toml' to 'fml:handshake' sequence 54
+[26Jun2025 18:15:13.173] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 54
+[26Jun2025 18:15:13.173] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 54 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:13.173] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:13.190] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_delay.toml' to 'fml:handshake' sequence 55
+[26Jun2025 18:15:13.224] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 55
+[26Jun2025 18:15:13.224] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 55 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:13.224] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:13.239] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_pierce.toml' to 'fml:handshake' sequence 56
+[26Jun2025 18:15:13.271] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 56
+[26Jun2025 18:15:13.271] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 56 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:13.271] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:13.293] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_flare.toml' to 'fml:handshake' sequence 57
+[26Jun2025 18:15:13.325] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 57
+[26Jun2025 18:15:13.325] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 57 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:13.325] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:13.339] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config journeymap-server.toml' to 'fml:handshake' sequence 58
+[26Jun2025 18:15:13.372] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 58
+[26Jun2025 18:15:13.372] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 58 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:13.372] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:13.393] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_pull.toml' to 'fml:handshake' sequence 59
+[26Jun2025 18:15:13.426] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 59
+[26Jun2025 18:15:13.426] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 59 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:13.426] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:13.445] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_freeze.toml' to 'fml:handshake' sequence 60
+[26Jun2025 18:15:13.478] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 60
+[26Jun2025 18:15:13.478] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 60 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:13.478] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:13.496] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_toss.toml' to 'fml:handshake' sequence 61
+[26Jun2025 18:15:13.528] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 61
+[26Jun2025 18:15:13.529] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 61 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:13.531] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:13.547] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_infuse.toml' to 'fml:handshake' sequence 62
+[26Jun2025 18:15:13.580] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 62
+[26Jun2025 18:15:13.580] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 62 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:13.580] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:13.595] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_gravity.toml' to 'fml:handshake' sequence 63
+[26Jun2025 18:15:13.628] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 63
+[26Jun2025 18:15:13.628] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 63 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:13.628] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:13.641] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_summon_steed.toml' to 'fml:handshake' sequence 64
+[26Jun2025 18:15:13.674] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 64
+[26Jun2025 18:15:13.674] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 64 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:13.674] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:13.692] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_phantom_block.toml' to 'fml:handshake' sequence 65
+[26Jun2025 18:15:13.724] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 65
+[26Jun2025 18:15:13.724] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 65 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:13.724] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:13.736] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_launch.toml' to 'fml:handshake' sequence 66
+[26Jun2025 18:15:13.768] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 66
+[26Jun2025 18:15:13.768] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 66 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:13.768] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:13.788] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_smelt.toml' to 'fml:handshake' sequence 67
+[26Jun2025 18:15:13.824] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 67
+[26Jun2025 18:15:13.824] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 67 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:13.824] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:13.844] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_crush.toml' to 'fml:handshake' sequence 68
+[26Jun2025 18:15:13.876] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 68
+[26Jun2025 18:15:13.876] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 68 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:13.876] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:13.892] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_ignite.toml' to 'fml:handshake' sequence 69
+[26Jun2025 18:15:13.924] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 69
+[26Jun2025 18:15:13.924] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 69 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:13.924] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:13.940] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_dispel.toml' to 'fml:handshake' sequence 70
+[26Jun2025 18:15:13.972] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 70
+[26Jun2025 18:15:13.972] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 70 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:13.972] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:13.988] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_firework.toml' to 'fml:handshake' sequence 71
+[26Jun2025 18:15:14.020] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 71
+[26Jun2025 18:15:14.020] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 71 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:14.020] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:14.044] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_randomize.toml' to 'fml:handshake' sequence 72
+[26Jun2025 18:15:14.087] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_harm.toml' to 'fml:handshake' sequence 73
+[26Jun2025 18:15:14.091] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 72
+[26Jun2025 18:15:14.091] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 72 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:14.091] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:14.133] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 73
+[26Jun2025 18:15:14.133] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 73 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:14.133] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:14.142] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_light.toml' to 'fml:handshake' sequence 74
+[26Jun2025 18:15:14.174] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 74
+[26Jun2025 18:15:14.174] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 74 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:14.174] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:14.194] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_wall.toml' to 'fml:handshake' sequence 75
+[26Jun2025 18:15:14.228] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 75
+[26Jun2025 18:15:14.228] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 75 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:14.228] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:14.242] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_orbit.toml' to 'fml:handshake' sequence 76
+[26Jun2025 18:15:14.274] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 76
+[26Jun2025 18:15:14.274] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 76 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:14.274] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:14.292] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_explosion.toml' to 'fml:handshake' sequence 77
+[26Jun2025 18:15:14.325] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 77
+[26Jun2025 18:15:14.325] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 77 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:14.325] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:14.343] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_fell.toml' to 'fml:handshake' sequence 78
+[26Jun2025 18:15:14.381] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 78
+[26Jun2025 18:15:14.381] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 78 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:14.382] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:14.413] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_rune.toml' to 'fml:handshake' sequence 79
+[26Jun2025 18:15:14.443] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_craft.toml' to 'fml:handshake' sequence 80
+[26Jun2025 18:15:14.447] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 79
+[26Jun2025 18:15:14.447] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 79 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:14.447] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:14.488] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 80
+[26Jun2025 18:15:14.488] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 80 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:14.488] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:14.492] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/wololo.toml' to 'fml:handshake' sequence 81
+[26Jun2025 18:15:14.526] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 81
+[26Jun2025 18:15:14.526] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 81 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:14.526] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:14.553] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau-server.toml' to 'fml:handshake' sequence 82
+[26Jun2025 18:15:14.587] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 82
+[26Jun2025 18:15:14.587] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 82 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:14.587] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:14.594] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_conjure_water.toml' to 'fml:handshake' sequence 83
+[26Jun2025 18:15:14.629] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 83
+[26Jun2025 18:15:14.629] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 83 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:14.629] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:14.643] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_extend_time.toml' to 'fml:handshake' sequence 84
+[26Jun2025 18:15:14.675] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 84
+[26Jun2025 18:15:14.676] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 84 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:14.676] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:14.692] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_interact.toml' to 'fml:handshake' sequence 85
+[26Jun2025 18:15:14.725] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 85
+[26Jun2025 18:15:14.725] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 85 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:14.725] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:14.739] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_cold_snap.toml' to 'fml:handshake' sequence 86
+[26Jun2025 18:15:14.773] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 86
+[26Jun2025 18:15:14.773] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 86 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:14.773] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:14.793] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_self.toml' to 'fml:handshake' sequence 87
+[26Jun2025 18:15:14.825] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 87
+[26Jun2025 18:15:14.825] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 87 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:14.825] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:14.842] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_invisibility.toml' to 'fml:handshake' sequence 88
+[26Jun2025 18:15:14.878] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 88
+[26Jun2025 18:15:14.878] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 88 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:14.878] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:14.889] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_heal.toml' to 'fml:handshake' sequence 89
+[26Jun2025 18:15:14.923] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 89
+[26Jun2025 18:15:14.923] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 89 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:14.923] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:14.941] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_fortune.toml' to 'fml:handshake' sequence 90
+[26Jun2025 18:15:14.973] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 90
+[26Jun2025 18:15:14.973] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 90 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:14.973] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:14.989] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_pickup.toml' to 'fml:handshake' sequence 91
+[26Jun2025 18:15:15.022] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 91
+[26Jun2025 18:15:15.022] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 91 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:15.022] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:15.039] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 92
+[26Jun2025 18:15:15.071] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 92
+[26Jun2025 18:15:15.071] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 92 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:15.071] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:15.090] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_glide.toml' to 'fml:handshake' sequence 93
+[26Jun2025 18:15:15.124] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 93
+[26Jun2025 18:15:15.124] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 93 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:15.124] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:15.154] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/rewind.toml' to 'fml:handshake' sequence 94
+[26Jun2025 18:15:15.187] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 94
+[26Jun2025 18:15:15.187] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 94 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:15.187] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:15.189] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_projectile.toml' to 'fml:handshake' sequence 95
+[26Jun2025 18:15:15.221] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 95
+[26Jun2025 18:15:15.221] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 95 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:15.221] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:15.236] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_gust.toml' to 'fml:handshake' sequence 96
+[26Jun2025 18:15:15.269] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 96
+[26Jun2025 18:15:15.269] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 96 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:15.269] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:15.288] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_harvest.toml' to 'fml:handshake' sequence 97
+[26Jun2025 18:15:15.324] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 97
+[26Jun2025 18:15:15.324] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 97 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:15.324] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:15.339] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_decelerate.toml' to 'fml:handshake' sequence 98
+[26Jun2025 18:15:15.372] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 98
+[26Jun2025 18:15:15.372] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 98 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:15.372] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:15.389] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_snare.toml' to 'fml:handshake' sequence 99
+[26Jun2025 18:15:15.422] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 99
+[26Jun2025 18:15:15.422] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 99 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:15.422] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:15.439] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_wither.toml' to 'fml:handshake' sequence 100
+[26Jun2025 18:15:15.472] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 100
+[26Jun2025 18:15:15.472] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 100 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:15.472] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:15.491] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_underfoot.toml' to 'fml:handshake' sequence 101
+[26Jun2025 18:15:15.525] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 101
+[26Jun2025 18:15:15.525] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 101 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:15.525] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:15.538] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_name.toml' to 'fml:handshake' sequence 102
+[26Jun2025 18:15:15.570] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 102
+[26Jun2025 18:15:15.570] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 102 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:15.570] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:15.593] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_redstone_signal.toml' to 'fml:handshake' sequence 103
+[26Jun2025 18:15:15.626] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 103
+[26Jun2025 18:15:15.626] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 103 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:15.626] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:15.644] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_rotate.toml' to 'fml:handshake' sequence 104
+[26Jun2025 18:15:15.675] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 104
+[26Jun2025 18:15:15.675] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 104 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:15.675] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:15.692] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_break.toml' to 'fml:handshake' sequence 105
+[26Jun2025 18:15:15.724] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 105
+[26Jun2025 18:15:15.724] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 105 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:15.724] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:15.741] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_place_block.toml' to 'fml:handshake' sequence 106
+[26Jun2025 18:15:15.773] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 106
+[26Jun2025 18:15:15.773] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 106 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:15.774] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:15.788] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_exchange.toml' to 'fml:handshake' sequence 107
+[26Jun2025 18:15:15.825] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 107
+[26Jun2025 18:15:15.826] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 107 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:15.826] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:15.841] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 108
+[26Jun2025 18:15:15.874] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 108
+[26Jun2025 18:15:15.875] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 108 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:15.875] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:15.892] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config gravestone-server.toml' to 'fml:handshake' sequence 109
+[26Jun2025 18:15:15.924] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 109
+[26Jun2025 18:15:15.924] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 109 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:15.924] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:15.943] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_bounce.toml' to 'fml:handshake' sequence 110
+[26Jun2025 18:15:15.976] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 110
+[26Jun2025 18:15:15.976] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 110 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:15.976] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:15.990] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_summon_decoy.toml' to 'fml:handshake' sequence 111
+[26Jun2025 18:15:16.024] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 111
+[26Jun2025 18:15:16.024] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 111 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:16.028] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:16.049] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_sense_magic.toml' to 'fml:handshake' sequence 112
+[26Jun2025 18:15:16.082] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 112
+[26Jun2025 18:15:16.082] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 112 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:16.082] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:16.088] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ars_nouveau/glyph_wind_shear.toml' to 'fml:handshake' sequence 113
+[26Jun2025 18:15:16.121] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 113
+[26Jun2025 18:15:16.121] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 113 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Jun2025 18:15:16.121] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Jun2025 18:15:16.136] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[26Jun2025 18:15:16.205] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ruben17[/127.242.85.59:44053] logged in with entity id 63061 at (-154.00752649750694, -4.464159374955445, -1091.5016063974413)
+[26Jun2025 18:15:16.206] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@649053cd into net.minecraft.network.Connection@ede376a
+[26Jun2025 18:15:16.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 joined the game
+[26Jun2025 18:15:16.266] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Ruben17 just logged in with id 38de0807-4de7-3327-9c3b-72f51d8c540b
+[26Jun2025 18:15:16.271] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of Ruben17: {disabled=false, disconnected=true, uuid=38de0807-4de7-3327-9c3b-72f51d8c540b, name=Ruben17, group=null}
+[26Jun2025 18:15:16.271] [ForkJoinPool-3-worker-7/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ruben17[38de0807-4de7-3327-9c3b-72f51d8c540b]
+[26Jun2025 18:15:16.272] [ForkJoinPool-3-worker-7/DEBUG] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/Ruben17
+[26Jun2025 18:15:16.329] [ForkJoinPool-3-worker-7/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ruben17 downloaded
+[26Jun2025 18:15:16.330] [ForkJoinPool-3-worker-7/DEBUG] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://crafatar.com/capes/a2028595-f959-423e-9f8d-58742532159a
+[26Jun2025 18:15:16.366] [Netty Epoll Server IO #5/DEBUG] [emotecraft/]: [emotes server] Received data from: 38de0807-4de7-3327-9c3b-72f51d8c540b data: NetData{purpose=CONFIG, threshold=8.0, stopEmoteID=null, emoteData=null, startingAt=0, player=null}
+[26Jun2025 18:15:16.390] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ruben17 (18)
+[26Jun2025 18:15:16.390] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Ruben17
+[26Jun2025 18:15:16.390] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Ruben17
+[26Jun2025 18:15:16.390] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Ruben17
+[26Jun2025 18:15:16.390] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ruben17
+[26Jun2025 18:18:55.059] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jun2025 18:18:55.070] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jun2025 18:20:00.467] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[26Jun2025 18:22:07.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 suffocated in a wall
+[26Jun2025 18:23:35.511] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[26Jun2025 18:23:35.511] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[26Jun2025 18:23:35.731] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[26Jun2025 18:23:38.945] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of luciaypec8) moved wrongly! 0.3793447835109873
+[26Jun2025 18:23:38.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of luciaypec8) moved wrongly! 0.701491514699228
+[26Jun2025 18:23:38.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of luciaypec8) moved wrongly! 1.0309247180207421
+[26Jun2025 18:23:39.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of luciaypec8) moved wrongly! 1.3271226193937764
+[26Jun2025 18:23:39.021] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of luciaypec8) moved wrongly! 1.669015689576554
+[26Jun2025 18:23:40.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 has made the advancement [Tools of the Trade]
+[26Jun2025 18:23:55.089] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jun2025 18:23:55.103] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jun2025 18:24:01.256] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1552, y=105, z=2768}
+[26Jun2025 18:24:01.260] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1515, y=93, z=2745}
+[26Jun2025 18:24:01.401] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1552, y=105, z=2768}
+[26Jun2025 18:24:01.403] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1515, y=93, z=2745}
+[26Jun2025 18:24:01.407] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1552, y=105, z=2768}
+[26Jun2025 18:24:01.410] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1515, y=93, z=2745}
+[26Jun2025 18:24:01.553] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1552, y=105, z=2768}
+[26Jun2025 18:25:18.706] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1552, y=105, z=2768}
+[26Jun2025 18:25:18.708] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1515, y=93, z=2745}
+[26Jun2025 18:25:18.713] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1552, y=105, z=2768}
+[26Jun2025 18:25:18.717] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1520, y=100, z=2765}
+[26Jun2025 18:25:18.717] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1515, y=93, z=2745}
+[26Jun2025 18:25:18.720] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1532, y=86, z=2754}
+[26Jun2025 18:25:18.720] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1538, y=86, z=2761}
+[26Jun2025 18:25:18.721] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1525, y=86, z=2767}
+[26Jun2025 18:25:18.882] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1552, y=105, z=2768}
+[26Jun2025 18:25:18.886] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1515, y=93, z=2745}
+[26Jun2025 18:25:18.888] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1532, y=86, z=2754}
+[26Jun2025 18:25:18.888] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1538, y=86, z=2761}
+[26Jun2025 18:25:18.889] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1539, y=86, z=2767}
+[26Jun2025 18:25:18.984] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1552, y=105, z=2768}
+[26Jun2025 18:25:23.523] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[26Jun2025 18:28:55.073] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jun2025 18:28:55.089] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jun2025 18:29:48.074] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=29, y=-47, z=-11}
+[26Jun2025 18:30:07.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 drowned
+[26Jun2025 18:31:15.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotceh9889 moved wrongly!
+[26Jun2025 18:32:42.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotceh9889 moved wrongly!
+[26Jun2025 18:33:55.055] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jun2025 18:33:55.066] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jun2025 18:34:12.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 suffocated in a wall
+[26Jun2025 18:35:43.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved too quickly! -7.966095132021849,-5.535840625044557,-2.9864923500451823
+[26Jun2025 18:37:19.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luciaypec8 moved wrongly!
+[26Jun2025 18:37:25.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 fell from a high place
+[26Jun2025 18:38:44.494] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luciaypec8 moved wrongly!
+[26Jun2025 18:38:55.053] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jun2025 18:38:55.065] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jun2025 18:40:14.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luciaypec8: Teleported rotceh9889 to luciaypec8]
+[26Jun2025 18:42:09.082] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2516, y=-22, z=2402}
+[26Jun2025 18:42:11.587] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2547, y=-22, z=2421}
+[26Jun2025 18:42:11.668] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2547, y=-22, z=2421}
+[26Jun2025 18:42:11.668] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2539, y=-22, z=2420}
+[26Jun2025 18:42:11.682] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2516, y=-22, z=2402}
+[26Jun2025 18:42:11.682] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2514, y=-22, z=2395}
+[26Jun2025 18:42:17.414] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2539, y=-22, z=2420}
+[26Jun2025 18:42:17.414] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2534, y=-22, z=2413}
+[26Jun2025 18:42:17.415] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2516, y=-22, z=2402}
+[26Jun2025 18:42:17.415] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2540, y=-22, z=2404}
+[26Jun2025 18:42:17.416] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2528, y=-22, z=2415}
+[26Jun2025 18:42:17.428] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2530, y=-22, z=2386}
+[26Jun2025 18:42:17.429] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2539, y=-22, z=2387}
+[26Jun2025 18:42:17.429] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2516, y=-22, z=2402}
+[26Jun2025 18:42:17.440] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2547, y=-36, z=2377}
+[26Jun2025 18:42:17.441] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2530, y=-22, z=2386}
+[26Jun2025 18:42:17.441] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2529, y=-22, z=2381}
+[26Jun2025 18:42:17.817] [Server thread/DEBUG] [info.u_team.u_team_core.UCoreReference/]: Loaded service info.u_team.useful_backpacks.config.ForgeCommonConfig$Impl@5e900f23 for class class info.u_team.useful_backpacks.config.CommonConfig
+[26Jun2025 18:42:21.105] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2548, y=-22, z=2433}
+[26Jun2025 18:42:21.105] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2547, y=-22, z=2421}
+[26Jun2025 18:42:21.105] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2565, y=-29, z=2434}
+[26Jun2025 18:42:21.161] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2565, y=-22, z=2426}
+[26Jun2025 18:42:21.161] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2548, y=-22, z=2433}
+[26Jun2025 18:42:21.161] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2547, y=-22, z=2421}
+[26Jun2025 18:42:21.162] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2555, y=-22, z=2428}
+[26Jun2025 18:42:21.176] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2562, y=-22, z=2409}
+[26Jun2025 18:42:21.177] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2540, y=-22, z=2404}
+[26Jun2025 18:42:21.189] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2548, y=-22, z=2363}
+[26Jun2025 18:42:21.189] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2530, y=-22, z=2386}
+[26Jun2025 18:42:21.189] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2560, y=-22, z=2389}
+[26Jun2025 18:42:21.189] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2562, y=-22, z=2409}
+[26Jun2025 18:42:21.424] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2555, y=-22, z=2376}
+[26Jun2025 18:42:21.424] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2548, y=-22, z=2363}
+[26Jun2025 18:42:21.425] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2547, y=-36, z=2377}
+[26Jun2025 18:42:21.425] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2530, y=-22, z=2386}
+[26Jun2025 18:42:21.426] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2560, y=-22, z=2389}
+[26Jun2025 18:42:21.432] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2555, y=-22, z=2376}
+[26Jun2025 18:42:21.433] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2548, y=-22, z=2363}
+[26Jun2025 18:42:22.718] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2555, y=-22, z=2376}
+[26Jun2025 18:42:22.730] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2555, y=-22, z=2376}
+[26Jun2025 18:42:22.730] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2569, y=-22, z=2391}
+[26Jun2025 18:42:22.731] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2560, y=-22, z=2389}
+[26Jun2025 18:42:22.731] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2570, y=-22, z=2379}
+[26Jun2025 18:42:22.782] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2569, y=-22, z=2391}
+[26Jun2025 18:42:22.782] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2573, y=-22, z=2392}
+[26Jun2025 18:42:22.783] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2560, y=-22, z=2389}
+[26Jun2025 18:42:22.783] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2563, y=-22, z=2392}
+[26Jun2025 18:42:22.783] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2570, y=-22, z=2379}
+[26Jun2025 18:42:22.783] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2572, y=-22, z=2407}
+[26Jun2025 18:42:22.783] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2568, y=-22, z=2399}
+[26Jun2025 18:42:22.784] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2562, y=-22, z=2409}
+[26Jun2025 18:42:22.825] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2573, y=-22, z=2392}
+[26Jun2025 18:42:22.825] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2563, y=-22, z=2392}
+[26Jun2025 18:42:22.826] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2566, y=-22, z=2410}
+[26Jun2025 18:42:22.826] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2572, y=-22, z=2407}
+[26Jun2025 18:42:22.826] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2568, y=-22, z=2399}
+[26Jun2025 18:42:22.826] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2562, y=-22, z=2409}
+[26Jun2025 18:42:22.827] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2574, y=-29, z=2415}
+[26Jun2025 18:42:22.827] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2571, y=-29, z=2414}
+[26Jun2025 18:42:23.024] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2573, y=-22, z=2392}
+[26Jun2025 18:42:23.025] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2566, y=-22, z=2410}
+[26Jun2025 18:42:23.025] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2565, y=-22, z=2426}
+[26Jun2025 18:42:23.026] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2548, y=-22, z=2433}
+[26Jun2025 18:42:23.026] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2555, y=-22, z=2428}
+[26Jun2025 18:42:23.026] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2574, y=-29, z=2415}
+[26Jun2025 18:42:23.027] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2573, y=-29, z=2432}
+[26Jun2025 18:42:23.163] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2566, y=-22, z=2410}
+[26Jun2025 18:42:23.163] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2548, y=-22, z=2433}
+[26Jun2025 18:42:23.164] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2565, y=-29, z=2434}
+[26Jun2025 18:42:23.165] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2566, y=-29, z=2433}
+[26Jun2025 18:42:23.165] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2574, y=-29, z=2415}
+[26Jun2025 18:42:23.165] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2573, y=-29, z=2432}
+[26Jun2025 18:42:24.312] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2573, y=-22, z=2392}
+[26Jun2025 18:42:24.312] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2574, y=-29, z=2415}
+[26Jun2025 18:42:24.313] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2579, y=-29, z=2422}
+[26Jun2025 18:42:24.324] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2573, y=-22, z=2392}
+[26Jun2025 18:42:24.325] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2574, y=-29, z=2415}
+[26Jun2025 18:42:24.325] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2571, y=-29, z=2414}
+[26Jun2025 18:42:24.502] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2566, y=-29, z=2433}
+[26Jun2025 18:42:24.502] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2574, y=-29, z=2415}
+[26Jun2025 18:42:24.503] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2579, y=-29, z=2422}
+[26Jun2025 18:42:24.515] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2576, y=-22, z=2384}
+[26Jun2025 18:42:24.518] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2600, y=-22, z=2385}
+[26Jun2025 18:42:24.519] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2573, y=-22, z=2392}
+[26Jun2025 18:42:24.619] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2576, y=-22, z=2384}
+[26Jun2025 18:42:24.632] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2576, y=-22, z=2384}
+[26Jun2025 18:42:24.804] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2576, y=-22, z=2384}
+[26Jun2025 18:42:24.821] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2576, y=-22, z=2384}
+[26Jun2025 18:42:26.869] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[26Jun2025 18:42:26.869] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[26Jun2025 18:42:26.869] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[26Jun2025 18:42:26.869] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[26Jun2025 18:42:26.869] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cpu_capacity
+[26Jun2025 18:42:26.870] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[26Jun2025 18:42:26.870] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[26Jun2025 18:42:26.870] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[26Jun2025 18:42:26.870] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[26Jun2025 18:42:26.870] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cpu_capacity
+[26Jun2025 18:42:26.870] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[26Jun2025 18:42:26.870] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[26Jun2025 18:42:26.870] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[26Jun2025 18:42:26.870] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[26Jun2025 18:42:26.870] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cpu_capacity
+[26Jun2025 18:42:26.871] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[26Jun2025 18:42:26.871] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[26Jun2025 18:42:26.871] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[26Jun2025 18:42:26.871] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[26Jun2025 18:42:26.871] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cpu_capacity
+[26Jun2025 18:42:26.871] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+[26Jun2025 18:42:26.880] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/self/auxv
+[26Jun2025 18:42:26.881] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@6a950a3b
+[26Jun2025 18:42:26.881] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528
+[26Jun2025 18:42:26.893] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[26Jun2025 18:42:26.894] [Worker-Main-1/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[26Jun2025 18:42:26.897] [Worker-Main-1/ERROR] [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager/]: Couldn't load structure mvs:houses/large_floating_island
+net.minecraft.ReportedException: Loading NBT data
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:480) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:43) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:26) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:474) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.NbtIo.m_128930_(NbtIo.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.NbtIo.m_128934_(NbtIo.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.NbtIo.m_128939_(NbtIo.java:35) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230377_(StructureTemplateManager.java:227) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230372_(StructureTemplateManager.java:217) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230427_(StructureTemplateManager.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230425_(StructureTemplateManager.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708) ~[?:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230407_(StructureTemplateManager.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230359_(StructureTemplateManager.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.m_227299_(SinglePoolElement.java:81) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.m_214015_(SinglePoolElement.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at com.finndog.mvs.world.structures.pieces.PieceLimitedJigsawManager.assembleJigsawStructure(PieceLimitedJigsawManager.java:106) ~[mvs-4.1.5-1.20.jar%23188!/:?]
+	at com.finndog.mvs.world.structures.GenericJigsawStructure.m_214086_(GenericJigsawStructure.java:213) ~[mvs-4.1.5-1.20.jar%23188!/:?]
+	at net.minecraft.world.level.levelgen.structure.Structure.m_262864_(Structure.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.level.levelgen.structure.Structure.m_226596_(Structure.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_223104_(ChunkGenerator.java:513) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_254811_(ChunkGenerator.java:466) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_255037_(ChunkGenerator.java:448) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_289181_(ChunkStatus.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_280308_(ChunkStatus.java:252) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$27(ChunkMap.java:643) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$29(ChunkMap.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.io.IOException: Invalid tag id: 16
+	at net.minecraft.nbt.TagType$1.m_197591_(TagType.java:58) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.TagType$1.m_7300_(TagType.java:63) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.TagType$1.m_7300_(TagType.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:474) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?]
+	... 45 more
+[26Jun2025 18:42:29.178] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2614, y=-22, z=2400}
+[26Jun2025 18:42:29.361] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2576, y=-22, z=2384}
+[26Jun2025 18:42:29.365] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2625, y=-9, z=2370}
+[26Jun2025 18:42:29.365] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2600, y=-22, z=2385}
+[26Jun2025 18:42:29.366] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2601, y=-22, z=2399}
+[26Jun2025 18:42:29.367] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2603, y=-22, z=2390}
+[26Jun2025 18:42:29.377] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2576, y=-22, z=2384}
+[26Jun2025 18:42:29.381] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2605, y=-22, z=2362}
+[26Jun2025 18:42:29.381] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2612, y=-9, z=2363}
+[26Jun2025 18:42:29.392] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2576, y=-22, z=2384}
+[26Jun2025 18:42:29.397] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2625, y=-9, z=2370}
+[26Jun2025 18:42:29.398] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2605, y=-22, z=2362}
+[26Jun2025 18:42:30.297] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2576, y=-22, z=2384}
+[26Jun2025 18:42:30.529] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2616, y=-29, z=2408}
+[26Jun2025 18:42:30.530] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2614, y=-22, z=2400}
+[26Jun2025 18:42:30.531] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2631, y=-29, z=2409}
+[26Jun2025 18:42:30.644] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2631, y=-29, z=2409}
+[26Jun2025 18:42:30.718] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2625, y=-9, z=2370}
+[26Jun2025 18:42:30.719] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2601, y=-22, z=2399}
+[26Jun2025 18:42:30.719] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2616, y=-29, z=2408}
+[26Jun2025 18:42:30.721] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2603, y=-22, z=2390}
+[26Jun2025 18:42:30.945] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2605, y=-22, z=2362}
+[26Jun2025 18:42:30.946] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2613, y=-9, z=2352}
+[26Jun2025 18:42:30.946] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2635, y=-22, z=2364}
+[26Jun2025 18:42:30.946] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2618, y=-23, z=2353}
+[26Jun2025 18:42:30.947] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2612, y=-9, z=2363}
+[26Jun2025 18:42:30.965] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2625, y=-9, z=2370}
+[26Jun2025 18:42:30.966] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2605, y=-22, z=2362}
+[26Jun2025 18:42:30.966] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2613, y=-9, z=2352}
+[26Jun2025 18:42:30.966] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2635, y=-22, z=2364}
+[26Jun2025 18:42:32.717] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2631, y=-29, z=2409}
+[26Jun2025 18:42:32.726] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2616, y=-29, z=2408}
+[26Jun2025 18:42:32.727] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2631, y=-29, z=2409}
+[26Jun2025 18:42:32.802] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2625, y=-9, z=2370}
+[26Jun2025 18:42:32.802] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2636, y=-9, z=2383}
+[26Jun2025 18:42:32.804] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2616, y=-29, z=2408}
+[26Jun2025 18:42:32.814] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2625, y=-9, z=2370}
+[26Jun2025 18:42:32.814] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2643, y=-9, z=2378}
+[26Jun2025 18:42:32.815] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2635, y=-22, z=2364}
+[26Jun2025 18:42:32.815] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2636, y=-9, z=2383}
+[26Jun2025 18:42:32.816] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2626, y=-9, z=2377}
+[26Jun2025 18:42:32.817] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2634, y=-22, z=2369}
+[26Jun2025 18:42:32.945] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2635, y=-22, z=2364}
+[26Jun2025 18:42:32.946] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2626, y=-9, z=2377}
+[26Jun2025 18:42:32.946] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2618, y=-23, z=2353}
+[26Jun2025 18:42:32.947] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2626, y=-22, z=2363}
+[26Jun2025 18:42:33.894] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2661, y=-9, z=2383}
+[26Jun2025 18:42:33.974] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2643, y=-9, z=2378}
+[26Jun2025 18:42:33.974] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2661, y=-9, z=2378}
+[26Jun2025 18:42:33.975] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2661, y=-9, z=2383}
+[26Jun2025 18:42:33.975] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2653, y=-11, z=2377}
+[26Jun2025 18:42:33.999] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2653, y=-11, z=2377}
+[26Jun2025 18:42:35.144] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2661, y=-9, z=2383}
+[26Jun2025 18:42:35.266] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2661, y=-9, z=2378}
+[26Jun2025 18:42:35.266] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2661, y=-9, z=2383}
+[26Jun2025 18:42:35.266] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2653, y=-11, z=2377}
+[26Jun2025 18:42:35.323] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2653, y=-11, z=2377}
+[26Jun2025 18:42:36.971] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2653, y=-11, z=2377}
+[26Jun2025 18:42:36.978] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2653, y=-11, z=2377}
+[26Jun2025 18:42:38.532] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2576, y=-22, z=2384}
+[26Jun2025 18:43:55.096] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jun2025 18:43:55.116] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

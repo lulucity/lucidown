@@ -1767,6 +1767,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-06-25 22:01:19 +0000",
+      "apple": "2025-06-26 18:21:28 +0000",
       "bread": "2025-06-26 18:10:44 +0000"
     },
     "done": false
@@ -2533,9 +2534,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 18:40:48 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_great_hammer_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 18:40:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-06-26 17:32:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 18:40:48 +0000"
     },
     "done": true
   },
@@ -2581,6 +2600,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 18:40:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 18:40:48 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/lunar_scrap_smelting": {
+    "criteria": {
+      "has_item": "2025-06-26 18:20:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-06-26 17:51:21 +0000"
@@ -2611,9 +2648,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 18:40:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-06-26 17:47:36 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/backpack_medium": {
+    "criteria": {
+      "has_small_backpack": "2025-06-26 18:42:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 18:40:48 +0000"
     },
     "done": true
   },
@@ -2632,6 +2687,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2025-06-26 17:00:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 18:23:25 +0000"
     },
     "done": true
   },
@@ -2717,6 +2778,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-06-26 17:58:21 +0000",
       "minecraft:spider": "2025-06-26 17:47:29 +0000",
+      "minecraft:cave_spider": "2025-06-26 18:19:29 +0000",
       "minecraft:zombie": "2025-06-26 17:03:22 +0000"
     },
     "done": false
@@ -2724,6 +2786,30 @@
   "expanded_combat:recipes/combat/diamond_battle_staff_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 17:51:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 18:23:25 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/filter_item": {
+    "criteria": {
+      "has_small_backpack": "2025-06-26 18:42:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 18:23:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 18:40:48 +0000"
     },
     "done": true
   },
@@ -2748,6 +2834,12 @@
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2025-06-26 16:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-06-26 18:19:33 +0000"
     },
     "done": true
   },
@@ -2787,9 +2879,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 18:40:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-06-26 18:19:33 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/username_logger": {
     "criteria": {
       "has_redstone": "2025-06-26 18:13:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 18:23:25 +0000"
     },
     "done": true
   },
@@ -2805,6 +2915,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/gold_stick_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 18:40:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-06-26 16:50:24 +0000"
@@ -2817,6 +2933,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-06-26 18:20:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-06-26 17:51:21 +0000"
@@ -2826,6 +2948,12 @@
   "expanded_combat:recipes/combat/diamond_cutlass_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 17:51:21 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_broad_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 18:40:48 +0000"
     },
     "done": true
   },
@@ -2844,6 +2972,12 @@
   "expanded_combat:recipes/combat/spruce_plank_dancer_s_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 16:50:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 18:40:48 +0000"
     },
     "done": true
   },
@@ -2901,6 +3035,18 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/gold_katana_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 18:40:48 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_sickle_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 18:40:48 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/diamond_spear_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 17:51:21 +0000"
@@ -2955,9 +3101,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-06-26 18:30:57 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/spruce_plank_mace_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 16:50:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 18:23:25 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_bow_conditional_120_smithing": {
+    "criteria": {
+      "has_item": "2025-06-26 18:40:48 +0000"
     },
     "done": true
   },
@@ -2970,6 +3134,12 @@
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-06-26 17:47:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 18:23:25 +0000"
     },
     "done": true
   },
@@ -2991,9 +3161,21 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/gold_bow_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 18:40:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-26 18:11:51 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/food/golden_apple_from_green_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 18:40:48 +0000"
     },
     "done": true
   },
@@ -3027,6 +3209,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/gold_glaive_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 18:40:48 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/spruce_plank_glaive_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 16:50:24 +0000"
@@ -3057,9 +3245,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 18:23:25 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2025-06-26 17:26:24 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/lunar_stone_helmet": {
+    "criteria": {
+      "has_item": "2025-06-26 18:20:03 +0000"
     },
     "done": true
   },
@@ -3069,9 +3269,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 18:23:25 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/baobab_boat": {
     "criteria": {
       "in_water": "2025-06-26 17:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 18:40:48 +0000"
     },
     "done": true
   },
@@ -3105,6 +3317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 18:40:48 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/taser": {
     "criteria": {
       "has_redstone": "2025-06-26 18:13:36 +0000"
@@ -3129,6 +3347,18 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/gold_gauntlet_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 18:40:48 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_mace_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 18:40:48 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/decorations/foragers_table": {
     "criteria": {
       "has_mushrooms": "2025-06-26 17:55:16 +0000"
@@ -3147,6 +3377,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/gold_flail_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 18:40:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-06-26 16:51:00 +0000"
@@ -3162,6 +3398,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-06-26 17:29:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-06-26 18:30:57 +0000"
     },
     "done": true
   },
@@ -3255,6 +3497,12 @@
     },
     "done": true
   },
+  "usefulbackpacks:recipes/filter_tag": {
+    "criteria": {
+      "has_small_backpack": "2025-06-26 18:42:17 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_dropper": {
     "criteria": {
       "has_redstone": "2025-06-26 18:13:36 +0000"
@@ -3318,6 +3566,12 @@
   "expanded_combat:recipes/combat/diamond_crossbow_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 17:51:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-06-26 18:20:32 +0000"
     },
     "done": true
   },
@@ -3399,9 +3653,27 @@
     },
     "done": true
   },
+  "celestisynth:recipes/combat/lunar_stone_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-26 18:20:03 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_quiver_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 18:40:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-06-26 16:52:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 18:23:25 +0000"
     },
     "done": true
   },
@@ -3453,15 +3725,33 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/gold_spear_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 18:40:48 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2025-06-26 16:51:00 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-06-26 18:19:33 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/iron_stick_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 16:51:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-06-26 18:20:04 +0000"
     },
     "done": true
   },
@@ -3498,6 +3788,12 @@
   "biomeswevegone:recipes/transportation/maple_boat": {
     "criteria": {
       "in_water": "2025-06-26 17:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 18:40:48 +0000"
     },
     "done": true
   },
@@ -3543,9 +3839,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-06-26 18:19:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-06-26 17:19:05 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_dancer_s_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 18:40:48 +0000"
     },
     "done": true
   },
@@ -3609,6 +3917,12 @@
     },
     "done": true
   },
+  "ec_es_plugin:recipes/combat/gold_ninja_gauntlet_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 18:40:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-06-26 17:32:25 +0000"
@@ -3633,6 +3947,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/gold_battle_staff_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 18:40:48 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/florus_boat": {
     "criteria": {
       "in_water": "2025-06-26 17:26:24 +0000"
@@ -3642,6 +3962,12 @@
   "expanded_combat:recipes/combat/oak_plank_battle_staff_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 17:32:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-06-26 18:32:13 +0000"
     },
     "done": true
   },
@@ -3672,6 +3998,12 @@
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2025-06-26 17:00:28 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_claymore_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 18:40:48 +0000"
     },
     "done": true
   },
@@ -3711,6 +4043,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/gold_bow_conditional_shaped_skip": {
+    "criteria": {
+      "has_item": "2025-06-26 18:40:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-26 18:11:51 +0000"
@@ -3747,6 +4085,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/half_gold_bow_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 18:40:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-26 17:05:08 +0000"
@@ -3756,6 +4100,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-06-26 16:50:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 18:23:25 +0000"
     },
     "done": true
   },
@@ -3786,6 +4136,12 @@
   "expanded_combat:recipes/combat/diamond_great_hammer_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 17:51:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 18:23:25 +0000"
     },
     "done": true
   },
@@ -3837,6 +4193,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-06-26 18:20:32 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/spruce_plank_katana_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 16:50:24 +0000"
@@ -3885,6 +4247,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 18:23:25 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/oak_plank_great_hammer_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 17:32:25 +0000"
@@ -3918,6 +4286,18 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-26 17:00:28 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/lunar_stone_leggings": {
+    "criteria": {
+      "has_item": "2025-06-26 18:20:03 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_dagger_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 18:40:48 +0000"
     },
     "done": true
   },
@@ -3957,15 +4337,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 18:23:25 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/sakura_wood": {
     "criteria": {
       "has_log": "2025-06-26 17:10:26 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-06-26 18:32:13 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/green_enchanted_boat": {
     "criteria": {
       "in_water": "2025-06-26 17:26:24 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_cutlass_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 18:40:48 +0000"
     },
     "done": true
   },
@@ -4059,6 +4457,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 18:23:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-06-26 18:19:33 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_scythe_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 18:40:48 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-06-26 16:54:39 +0000"
@@ -4071,9 +4487,27 @@
     },
     "done": true
   },
+  "celestisynth:recipes/combat/lunar_stone_boots": {
+    "criteria": {
+      "has_item": "2025-06-26 18:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 18:23:25 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/diamond_katana_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 17:51:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-06-26 18:30:57 +0000"
     },
     "done": true
   },
@@ -4125,6 +4559,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 18:40:48 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
       "has_stick": "2025-06-26 16:51:00 +0000"
@@ -4149,6 +4589,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/gold_crossbow_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 18:40:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-06-26 16:52:45 +0000"
@@ -4164,6 +4610,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-06-26 16:50:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-06-26 18:19:33 +0000"
     },
     "done": true
   },
@@ -4191,15 +4643,39 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/half_gold_bow_conditional_120_smithing": {
+    "criteria": {
+      "has_item": "2025-06-26 18:40:48 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/oak_plank_dancer_s_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 17:32:25 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 18:23:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-06-26 17:26:24 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/lunar_scrap_blasting": {
+    "criteria": {
+      "has_item": "2025-06-26 18:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-26 18:40:48 +0000"
     },
     "done": true
   },
