@@ -6725,6 +6725,12 @@
     },
     "done": true
   },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_pearl": "2025-06-26 15:37:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-06-26 15:41:21 +0000"
@@ -6734,12 +6740,6 @@
   "securitycraft:recipes/misc/username_logger": {
     "criteria": {
       "has_redstone": "2025-06-26 15:41:21 +0000"
-    },
-    "done": true
-  },
-  "mythicmounts:summoning_staff": {
-    "criteria": {
-      "has_pearl": "2025-06-26 15:37:11 +0000"
     },
     "done": true
   },
@@ -6761,12 +6761,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2025-06-26 15:48:32 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/tools/taser": {
     "criteria": {
       "has_redstone": "2025-06-26 15:41:21 +0000"
@@ -6776,18 +6770,6 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-06-26 15:41:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2025-06-26 15:48:32 +0000"
-    },
-    "done": true
-  },
-  "ec_es_plugin:recipes/combat/silver_gauntlet_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-06-26 15:55:18 +0000"
     },
     "done": true
   },
@@ -6845,21 +6827,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2025-06-26 15:48:32 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
     "criteria": {
       "has_redstone": "2025-06-26 15:41:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2025-06-26 15:48:32 +0000"
     },
     "done": true
   },
@@ -6902,6 +6872,162 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-06-26 15:41:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-06-26 15:48:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-06-26 15:48:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-06-26 15:48:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-06-26 15:48:32 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/silver_gauntlet_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 15:55:18 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_ninja_gauntlet_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 15:58:00 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_glaive_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 15:58:00 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_great_hammer_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 15:58:00 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_sickle_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 15:58:00 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_arrow_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 15:58:00 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_quiver_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 15:58:00 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_bow_conditional_shaped_skip": {
+    "criteria": {
+      "has_item": "2025-06-26 15:58:00 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_bow_conditional_120_smithing": {
+    "criteria": {
+      "has_item": "2025-06-26 15:58:00 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_mace_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 15:58:00 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_crossbow_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 15:58:00 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_dancer_s_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 15:58:00 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_claymore_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 15:58:00 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_dagger_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 15:58:00 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_flail_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 15:58:00 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_scythe_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 15:58:00 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_katana_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 15:58:00 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_broad_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 15:58:00 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_gauntlet_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 15:58:00 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_spear_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 15:58:00 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_battle_staff_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 15:58:00 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_cutlass_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 15:58:00 +0000"
     },
     "done": true
   },
