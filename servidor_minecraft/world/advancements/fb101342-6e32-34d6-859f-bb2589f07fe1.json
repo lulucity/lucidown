@@ -6681,5 +6681,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-26 21:10:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-06-26 21:10:57 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

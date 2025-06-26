@@ -1726,6 +1726,7 @@
       "biomeswevegone:aspen_boreal": "2025-06-26 02:31:20 +0000",
       "biomeswevegone:dacite_ridges": "2025-06-25 22:55:38 +0000",
       "biomeswevegone:skyrise_vale": "2025-06-25 21:55:52 +0000",
+      "biomeswevegone:dead_sea": "2025-06-26 21:16:17 +0000",
       "biomeswevegone:allium_shrubland": "2025-06-25 23:47:49 +0000",
       "biomeswevegone:pumpkin_valley": "2025-06-25 23:06:23 +0000",
       "biomeswevegone:tropical_rainforest": "2025-06-26 13:14:50 +0000",
@@ -7766,6 +7767,36 @@
   "farmersdelight:recipes/food/onion": {
     "criteria": {
       "has_onion_crate": "2025-06-26 20:41:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-06-26 21:10:36 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/cut_windswept_sandstone_slab": {
+    "criteria": {
+      "has_cut_windswept_sandstone": "2025-06-26 21:27:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-06-26 21:16:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-26 21:16:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_windswept_sandstone_slab_from_cut_windswept_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_windswept_sandstone": "2025-06-26 21:27:16 +0000"
     },
     "done": true
   },
