@@ -564,3 +564,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [26Jun2025 18:01:19.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of luciaypec8) moved wrongly! 0.2638194965131788
 [26Jun2025 18:01:19.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of luciaypec8) moved wrongly! 0.41929022710701247
 [26Jun2025 18:01:48.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mikel17pro has made the advancement [Sweet Dreams]
+[26Jun2025 18:05:59.606] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of luciaypec8) moved wrongly! 0.2944367906556522
+[26Jun2025 18:05:59.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of luciaypec8) moved wrongly! 0.514973330209159
+[26Jun2025 18:08:27.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved too quickly! 6.796785183824028,-5.464159374955443,-5.141512530193722
+[26Jun2025 18:08:29.595] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of luciaypec8) moved wrongly! 0.38674916138020876
+[26Jun2025 18:08:29.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of luciaypec8) moved wrongly! 0.6074343894304377
+[26Jun2025 18:08:30.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of luciaypec8) moved wrongly! 0.3893013762252906
+[26Jun2025 18:08:30.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of luciaypec8) moved wrongly! 0.7883132264832682
+[26Jun2025 18:08:30.549] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of luciaypec8) moved wrongly! 1.364069999570063
+[26Jun2025 18:08:30.598] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of luciaypec8) moved wrongly! 1.8920639642686865
+[26Jun2025 18:09:41.869] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved too quickly! 5.459235038107266,0.0,8.555380568900091
+[26Jun2025 18:10:07.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of luciaypec8) moved wrongly! 0.2772063231670927
+[26Jun2025 18:10:07.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of luciaypec8) moved wrongly! 0.6047575496256457
+[26Jun2025 18:10:07.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of luciaypec8) moved wrongly! 0.8954479514633533
+[26Jun2025 18:10:07.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giant Nudibranch (vehicle of luciaypec8) moved wrongly! 1.1572318872219398
+[26Jun2025 18:10:19.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mikel17pro has made the advancement [Not Today, Thank You]
+[26Jun2025 18:12:13.210] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotceh9889 moved wrongly!
+[26Jun2025 18:14:30.145] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 lost connection: Timed out
+[26Jun2025 18:14:30.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 left the game
+[26Jun2025 18:14:30.146] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Ruben17[38de0807-4de7-3327-9c3b-72f51d8c540b]
+[26Jun2025 18:14:30.146] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ruben17
+[26Jun2025 18:15:05.286] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@af48188[id=<null>,name=Ruben17,properties={},legacy=false] (/127.242.85.59:42459) lost connection: Disconnected

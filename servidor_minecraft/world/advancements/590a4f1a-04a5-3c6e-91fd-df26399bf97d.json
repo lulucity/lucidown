@@ -1766,7 +1766,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_porkchop": "2025-06-25 22:01:19 +0000"
+      "cooked_porkchop": "2025-06-25 22:01:19 +0000",
+      "bread": "2025-06-26 18:10:44 +0000"
     },
     "done": false
   },
@@ -2460,6 +2461,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-26 18:11:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/mushroom_rice": {
     "criteria": {
       "has_any_ingredient": "2025-06-26 17:55:16 +0000"
@@ -2469,6 +2476,12 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-06-26 16:51:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-26 18:11:51 +0000"
     },
     "done": true
   },
@@ -2511,6 +2524,12 @@
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2025-06-26 17:55:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-26 18:10:19 +0000"
     },
     "done": true
   },
@@ -2586,6 +2605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-06-26 18:13:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-06-26 17:47:36 +0000"
@@ -2637,6 +2662,12 @@
   "biomeswevegone:recipes/transportation/pine_boat": {
     "criteria": {
       "in_water": "2025-06-26 17:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-26 18:11:51 +0000"
     },
     "done": true
   },
@@ -2756,6 +2787,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/username_logger": {
+    "criteria": {
+      "has_redstone": "2025-06-26 18:13:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-06-26 18:13:36 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2025-06-26 17:28:16 +0000"
@@ -2804,6 +2847,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-26 18:11:51 +0000"
+    },
+    "done": true
+  },
   "mythicmounts:summoning_staff": {
     "criteria": {
       "has_pearl": "2025-06-26 17:28:42 +0000"
@@ -2816,6 +2865,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-06-26 18:13:36 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/spruce_plank_flail_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 16:50:24 +0000"
@@ -2825,6 +2880,12 @@
   "biomeswevegone:recipes/transportation/rainbow_eucalyptus_boat": {
     "criteria": {
       "in_water": "2025-06-26 17:26:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2025-06-26 18:13:36 +0000"
     },
     "done": true
   },
@@ -2858,6 +2919,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-26 18:11:51 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
     "criteria": {
       "has_stick": "2025-06-26 16:51:00 +0000"
@@ -2867,6 +2934,12 @@
   "expanded_combat:recipes/combat/spruce_plank_sickle_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 16:50:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-26 18:11:51 +0000"
     },
     "done": true
   },
@@ -2912,6 +2985,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-26 18:11:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-26 18:11:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-06-26 16:51:00 +0000"
@@ -2921,6 +3006,12 @@
   "expanded_combat:recipes/combat/spruce_plank_dagger_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 16:50:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/portable_radar": {
+    "criteria": {
+      "has_redstone": "2025-06-26 18:13:36 +0000"
     },
     "done": true
   },
@@ -3014,9 +3105,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/taser": {
+    "criteria": {
+      "has_redstone": "2025-06-26 18:13:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-06-26 18:09:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-06-26 17:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-06-26 18:13:36 +0000"
     },
     "done": true
   },
@@ -3029,6 +3138,12 @@
   "biomeswevegone:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2025-06-26 17:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-26 18:11:51 +0000"
     },
     "done": true
   },
@@ -3137,6 +3252,12 @@
   "expanded_combat:recipes/combat/spruce_plank_cutlass_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 16:50:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dropper": {
+    "criteria": {
+      "has_redstone": "2025-06-26 18:13:36 +0000"
     },
     "done": true
   },
@@ -3272,6 +3393,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2025-06-26 18:13:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-06-26 16:52:17 +0000"
@@ -3290,6 +3417,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-26 18:11:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-06-26 16:52:45 +0000"
@@ -3299,6 +3432,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-06-26 16:52:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/alarm": {
+    "criteria": {
+      "has_redstone": "2025-06-26 18:13:36 +0000"
     },
     "done": true
   },
@@ -3329,6 +3468,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2025-06-26 17:55:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-06-26 18:13:36 +0000"
     },
     "done": true
   },
@@ -3368,6 +3513,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-06-26 18:10:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-26 17:05:08 +0000"
@@ -3398,6 +3549,30 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2025-06-26 18:13:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-26 18:11:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2025-06-26 18:13:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2025-06-26 18:13:36 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/half_diamond_bow_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 17:51:21 +0000"
@@ -3407,6 +3582,12 @@
   "expanded_combat:recipes/combat/oak_plank_cutlass_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 17:32:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-26 18:11:51 +0000"
     },
     "done": true
   },
@@ -3464,11 +3645,29 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-26 18:11:51 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:biomeswevegone/adventure/little_house_on_the_prairie": {
     "criteria": {
       "prairie_house": "2025-06-26 18:00:51 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-26 18:11:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_piston": {
+    "criteria": {
+      "has_redstone": "2025-06-26 18:13:36 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
@@ -3494,6 +3693,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-06-26 18:13:36 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/diamond_claymore_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 17:51:21 +0000"
@@ -3506,9 +3711,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-26 18:11:51 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/oak_plank_claymore_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 17:32:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-26 18:11:51 +0000"
     },
     "done": true
   },
@@ -3590,6 +3807,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2025-06-26 18:13:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-06-26 17:26:24 +0000"
@@ -3650,6 +3873,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-26 18:11:51 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_warped_fence_gate": {
     "criteria": {
       "has_stick": "2025-06-26 16:51:00 +0000"
@@ -3674,6 +3903,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-26 18:11:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2025-06-26 18:13:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-26 17:00:28 +0000"
@@ -3683,6 +3924,12 @@
   "expanded_combat:recipes/combat/diamond_quiver_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 17:51:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/claymore": {
+    "criteria": {
+      "has_redstone": "2025-06-26 18:13:36 +0000"
     },
     "done": true
   },
@@ -3701,6 +3948,12 @@
   "expanded_combat:recipes/combat/oak_plank_scythe_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 17:32:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-26 18:11:51 +0000"
     },
     "done": true
   },
@@ -3728,6 +3981,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-06-26 18:13:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-06-26 17:05:08 +0000"
@@ -3737,6 +3996,12 @@
   "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
     "criteria": {
       "has_stick": "2025-06-26 16:51:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/panic_button": {
+    "criteria": {
+      "has_redstone": "2025-06-26 18:13:36 +0000"
     },
     "done": true
   },
@@ -3818,6 +4083,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-26 18:11:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2025-06-26 18:13:36 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/spruce_plank_great_hammer_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 16:50:24 +0000"
@@ -3866,6 +4143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-26 18:11:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-06-26 16:52:45 +0000"
@@ -3902,6 +4185,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/cage_trap": {
+    "criteria": {
+      "has_redstone": "2025-06-26 18:13:36 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/oak_plank_dancer_s_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 17:32:25 +0000"
@@ -3911,6 +4200,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-06-26 17:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-06-26 18:13:36 +0000"
     },
     "done": true
   },
