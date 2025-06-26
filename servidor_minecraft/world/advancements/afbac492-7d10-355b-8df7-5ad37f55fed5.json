@@ -1908,6 +1908,7 @@
       "cooked_porkchop": "2025-06-25 22:00:06 +0000",
       "sweet_berries": "2025-06-25 22:34:50 +0000",
       "cooked_beef": "2025-06-26 11:26:04 +0000",
+      "baked_potato": "2025-06-26 17:08:51 +0000",
       "apple": "2025-06-26 10:54:15 +0000",
       "potato": "2025-06-26 14:34:34 +0000",
       "cooked_cod": "2025-06-26 11:35:19 +0000",
@@ -7028,6 +7029,90 @@
   "ec_es_plugin:recipes/combat/steel_cutlass_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 15:58:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-06-26 17:06:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_salmon_slice_from_campfire_cooking": {
+    "criteria": {
+      "cooked_salmon_slice": "2025-06-26 17:02:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_salmon_slice": {
+    "criteria": {
+      "cooked_salmon_slice": "2025-06-26 17:02:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-06-26 17:06:47 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/white_dacite": {
+    "criteria": {
+      "has_white_dacite_cobblestone": "2025-06-26 17:07:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_dacite_cobblestone_wall_from_white_dacite_cobblestone_stonecutting": {
+    "criteria": {
+      "has_white_dacite_cobblestone": "2025-06-26 17:07:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-06-26 17:06:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_salmon_slice_from_smoking": {
+    "criteria": {
+      "cooked_salmon_slice": "2025-06-26 17:02:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/salmon_roll": {
+    "criteria": {
+      "has_salmon_slice": "2025-06-26 17:02:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_dacite_cobblestone_stairs_from_white_dacite_cobblestone_stonecutting": {
+    "criteria": {
+      "has_white_dacite_cobblestone": "2025-06-26 17:07:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_dacite_cobblestone_slab_from_white_dacite_cobblestone_stonecutting": {
+    "criteria": {
+      "has_white_dacite_cobblestone": "2025-06-26 17:07:08 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/white_dacite_cobblestone_slab": {
+    "criteria": {
+      "has_white_dacite_cobblestone": "2025-06-26 17:07:08 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/white_dacite_cobblestone_wall": {
+    "criteria": {
+      "has_white_dacite_cobblestone": "2025-06-26 17:07:08 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/white_dacite_cobblestone_stairs": {
+    "criteria": {
+      "has_white_dacite_cobblestone": "2025-06-26 17:07:08 +0000"
     },
     "done": true
   },
