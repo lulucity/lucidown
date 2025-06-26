@@ -645,3 +645,36 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [26Jun2025 21:27:38.121] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [26Jun2025 21:33:00.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotceh9889 moved wrongly!
 [26Jun2025 21:33:10.601] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: estrems moved wrongly!
+[26Jun2025 21:33:49.157] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[26Jun2025 21:34:09.257] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5116ms or 102 ticks behind
+[26Jun2025 21:34:16.323] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 lost connection: Timed out
+[26Jun2025 21:34:16.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 left the game
+[26Jun2025 21:34:16.323] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Ruben17[38de0807-4de7-3327-9c3b-72f51d8c540b]
+[26Jun2025 21:34:16.324] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ruben17
+[26Jun2025 21:34:27.492] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ruben17[/127.242.85.59:43025] logged in with entity id 39918 at (-2234.617378167743, 68.0, -2276.2363449386685)
+[26Jun2025 21:34:27.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 joined the game
+[26Jun2025 21:34:27.512] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Ruben17 just logged in with id 38de0807-4de7-3327-9c3b-72f51d8c540b
+[26Jun2025 21:34:27.534] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ruben17[38de0807-4de7-3327-9c3b-72f51d8c540b]
+[26Jun2025 21:34:27.612] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ruben17 downloaded
+[26Jun2025 21:34:28.043] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ruben17 (18)
+[26Jun2025 21:34:28.044] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ruben17
+[26Jun2025 21:34:40.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotceh9889 moved wrongly!
+[26Jun2025 21:34:59.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: estrems moved wrongly!
+[26Jun2025 21:35:58.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems has made the advancement [What a Deal!]
+[26Jun2025 21:38:26.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems has made the advancement [Eye of The Storm]
+[26Jun2025 21:40:20.109] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[26Jun2025 21:40:25.084] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/40885, l='ServerLevel[world]', x=5406.94, y=68.00, z=195.88] died, message: 'Armorer hit the ground too hard'
+[26Jun2025 21:40:50.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pikachu1572 moved wrongly!
+[26Jun2025 21:43:18.625] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotceh9889 lost connection: Disconnected
+[26Jun2025 21:43:18.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 left the game
+[26Jun2025 21:43:18.627] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client rotceh9889
+[26Jun2025 21:43:28.719] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rotceh9889[/127.242.85.59:33299] logged in with entity id 55715 at (2464.0877977273058, 122.61165618896484, 123.5086712710477)
+[26Jun2025 21:43:28.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 joined the game
+[26Jun2025 21:43:29.209] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player rotceh9889 just logged in with id 8dca058e-0d7b-3303-89c7-a42b715ea559
+[26Jun2025 21:43:29.216] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of rotceh9889 (18)
+[26Jun2025 21:43:29.217] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to rotceh9889
+[26Jun2025 21:43:29.548] [ForkJoinPool-3-worker-4/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/rotceh9889
+[26Jun2025 21:43:29.646] [ForkJoinPool-3-worker-4/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/rotceh9889
+[26Jun2025 21:43:29.734] [ForkJoinPool-3-worker-4/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/rotceh9889
+[26Jun2025 21:43:47.414] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotceh9889 moved wrongly!
+[26Jun2025 21:44:06.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pikachu1572 moved wrongly!

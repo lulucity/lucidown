@@ -6265,6 +6265,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2025-06-26 21:38:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-26 21:27:58 +0000"
@@ -6376,6 +6382,12 @@
   "biomeswevegone:recipes/building_blocks/purple_sand": {
     "criteria": {
       "has_sand": "2025-06-26 21:22:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-06-26 21:35:58 +0000"
     },
     "done": true
   },
