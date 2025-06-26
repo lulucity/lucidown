@@ -485,3 +485,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [26Jun2025 15:00:48.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pikachu1572 has made the advancement [Cover Me with Diamonds]
 [26Jun2025 15:01:30.404] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
 [26Jun2025 15:01:34.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 has made the advancement [Cover Me with Diamonds]
+[26Jun2025 15:07:45.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 has made the advancement [No Longer Short-Staffed]
+[26Jun2025 15:16:59.873] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luciaypec8 lost connection: Disconnected
+[26Jun2025 15:16:59.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 left the game
+[26Jun2025 15:16:59.876] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client luciaypec8
+[26Jun2025 15:18:58.947] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: luciaypec8[/127.31.76.185:48987] logged in with entity id 14057 at (-364.51508771926206, 69.0, 115.42768374263763)
+[26Jun2025 15:18:58.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 joined the game
+[26Jun2025 15:18:59.008] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player luciaypec8 just logged in with id afbac492-7d10-355b-8df7-5ad37f55fed5
+[26Jun2025 15:18:59.341] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/luciaypec8
+[26Jun2025 15:18:59.468] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/luciaypec8
+[26Jun2025 15:18:59.553] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/luciaypec8
+[26Jun2025 15:19:00.163] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of luciaypec8 (18)
+[26Jun2025 15:19:00.163] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to luciaypec8
+[26Jun2025 15:21:45.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pikachu1572 suffocated in a wall

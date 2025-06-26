@@ -6578,9 +6578,27 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-06-26 15:00:48 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/steel_sword": {
+    "criteria": {
+      "has_items": "2025-06-26 15:10:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mud_bricks": {
     "criteria": {
       "has_packed_mud": "2025-06-26 14:57:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2025-06-26 15:00:45 +0000"
     },
     "done": true
   },

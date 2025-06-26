@@ -6471,6 +6471,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-06-26 15:16:14 +0000"
+    },
+    "done": true
+  },
   "celestisynth:recipes/combat/lunar_stone_boots": {
     "criteria": {
       "has_item": "2025-06-26 14:54:24 +0000"
