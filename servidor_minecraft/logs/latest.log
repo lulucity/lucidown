@@ -410,3 +410,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [26Jun2025 11:05:56.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [estrems: Gamerule playersSleepingPercentage is now set to: 50]
 [26Jun2025 11:08:07.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems was slain by Vindicator
 [26Jun2025 11:08:57.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems has made the advancement [The Parrots and the Bats]
+[26Jun2025 11:16:21.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems has completed the challenge [Free Willy]
+[26Jun2025 11:26:06.143] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [corgilib:network,azurelib:main,azurelib:network_channel,usefulbackpacks:slot_mod,cataclysm:main_channel,lionfishapi:main_channel,forge:tier_sorting,alexsmobs:main_channel,playerrevive:main,mowziesmobs:net,creativecore:main,caelus:main,geckolib:main,carryon:carryonpackets,citadel:main_channel,ic_air:main,rpg_companions_tiny_dragons:rpg_companions_tiny_dragons,securitycraft:securitycraft,uteamcore:network_forge,curios:main,expanded_combat:main,patchouli:main,uteamcore:network,waystones:network] rejected vanilla connections
+[26Jun2025 11:26:06.143] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.177.221.184:40553] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[26Jun2025 11:26:19.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 has made the advancement [Magery]
+[26Jun2025 11:30:38.921] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rotceh9889[/127.242.85.59:50741] logged in with entity id 12482 at (56.50107267064484, 109.0, -213.63615687746446)
+[26Jun2025 11:30:38.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 joined the game
+[26Jun2025 11:30:38.946] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player rotceh9889 just logged in with id 8dca058e-0d7b-3303-89c7-a42b715ea559
+[26Jun2025 11:30:39.281] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/rotceh9889
+[26Jun2025 11:30:39.383] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/rotceh9889
+[26Jun2025 11:30:39.460] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/rotceh9889
+[26Jun2025 11:30:39.590] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of rotceh9889 (18)
+[26Jun2025 11:30:39.591] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to rotceh9889

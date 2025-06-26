@@ -1898,6 +1898,7 @@
     "criteria": {
       "cooked_porkchop": "2025-06-25 22:00:06 +0000",
       "sweet_berries": "2025-06-25 22:34:50 +0000",
+      "cooked_beef": "2025-06-26 11:26:04 +0000",
       "apple": "2025-06-26 10:54:15 +0000",
       "pumpkin_pie": "2025-06-25 23:07:30 +0000",
       "bread": "2025-06-25 23:15:40 +0000",
@@ -3646,6 +3647,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-06-26 00:39:15 +0000",
       "minecraft:spider": "2025-06-26 00:34:04 +0000",
+      "minecraft:creeper": "2025-06-26 11:13:09 +0000",
       "minecraft:zombie": "2025-06-25 23:38:35 +0000",
       "minecraft:drowned": "2025-06-25 23:24:55 +0000"
     },
@@ -5236,6 +5238,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-06-26 11:13:12 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-06-26 10:55:10 +0000"
@@ -5380,6 +5388,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-06-26 11:26:19 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-06-26 10:55:10 +0000"
@@ -5407,6 +5421,12 @@
   "securitycraft:recipes/decorations/reinforced_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-06-26 10:55:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-06-26 11:13:12 +0000"
     },
     "done": true
   },
