@@ -6517,36 +6517,6 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/redstone/holly_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-06-26 18:24:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2025-06-26 17:03:07 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/holly_sign": {
-    "criteria": {
-      "has_planks": "2025-06-26 18:24:29 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/steak_and_potatoes": {
-    "criteria": {
-      "has_baked_potato": "2025-06-26 17:01:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
-    "criteria": {
-      "has_sentry_armor_trim_smithing_template": "2025-06-26 18:58:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-26 17:00:56 +0000"
@@ -6565,12 +6535,6 @@
     },
     "done": true
   },
-  "ars_nouveau:warp_scroll": {
-    "criteria": {
-      "has_warp_scroll": "2025-06-26 18:56:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-06-26 17:00:56 +0000"
@@ -6583,99 +6547,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/squid_ink_pasta": {
-    "criteria": {
-      "has_any_ingredient": "2025-06-26 17:54:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye": {
-    "criteria": {
-      "has_ink_sac": "2025-06-26 17:54:42 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/holly_slab": {
-    "criteria": {
-      "has_planks": "2025-06-26 18:24:29 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/sakura_fence": {
-    "criteria": {
-      "has_planks": "2025-06-26 17:11:22 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/holly_stairs": {
-    "criteria": {
-      "has_planks": "2025-06-26 18:24:29 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/sakura_stairs": {
-    "criteria": {
-      "has_planks": "2025-06-26 17:11:22 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/holly_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-06-26 18:24:29 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/sakura_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-06-26 17:11:22 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/onion": {
-    "criteria": {
-      "has_onion_crate": "2025-06-26 19:01:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-06-26 17:00:56 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/white_dacite": {
-    "criteria": {
-      "has_white_dacite_cobblestone": "2025-06-26 17:16:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_dacite_cobblestone_wall_from_white_dacite_cobblestone_stonecutting": {
-    "criteria": {
-      "has_white_dacite_cobblestone": "2025-06-26 17:16:12 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/sakura_crafting_table": {
-    "criteria": {
-      "has_sakura_planks": "2025-06-26 17:11:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_bwg_dye_tag": {
-    "criteria": {
-      "has_dye_tag": "2025-06-26 17:32:34 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/sakura_bookshelf": {
-    "criteria": {
-      "has_sakura_planks": "2025-06-26 17:11:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_dacite_cobblestone_stairs_from_white_dacite_cobblestone_stonecutting": {
-    "criteria": {
-      "has_white_dacite_cobblestone": "2025-06-26 17:16:12 +0000"
     },
     "done": true
   },
@@ -6691,15 +6565,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-26 17:00:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-26 17:00:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-26 17:00:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-26 17:00:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-26 17:00:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-06-26 17:01:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-06-26 17:01:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-06-26 17:03:07 +0000"
     },
     "done": true
   },
-  "biomeswevegone:recipes/redstone/holly_button": {
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
-      "has_planks": "2025-06-26 18:24:29 +0000"
+      "has_smooth_stone": "2025-06-26 17:03:07 +0000"
     },
     "done": true
   },
@@ -6715,15 +6631,45 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/redstone/sakura_door": {
+  "biomeswevegone:recipes/building_blocks/sakura_wood": {
+    "criteria": {
+      "has_log": "2025-06-26 17:10:20 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/sakura_fence": {
     "criteria": {
       "has_planks": "2025-06-26 17:11:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+  "biomeswevegone:recipes/building_blocks/sakura_stairs": {
     "criteria": {
-      "has_stone": "2025-06-26 17:00:56 +0000"
+      "has_planks": "2025-06-26 17:11:22 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/sakura_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-26 17:11:22 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/sakura_crafting_table": {
+    "criteria": {
+      "has_sakura_planks": "2025-06-26 17:11:22 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/sakura_bookshelf": {
+    "criteria": {
+      "has_sakura_planks": "2025-06-26 17:11:22 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/sakura_door": {
+    "criteria": {
+      "has_planks": "2025-06-26 17:11:22 +0000"
     },
     "done": true
   },
@@ -6733,27 +6679,9 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/decorations/holly_crafting_table": {
-    "criteria": {
-      "has_holly_planks": "2025-06-26 18:24:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-06-26 17:00:56 +0000"
-    },
-    "done": true
-  },
   "biomeswevegone:recipes/redstone/sakura_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-26 17:11:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-06-26 17:00:56 +0000"
     },
     "done": true
   },
@@ -6763,87 +6691,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/white_dacite_cobblestone_slab_from_white_dacite_cobblestone_stonecutting": {
-    "criteria": {
-      "has_white_dacite_cobblestone": "2025-06-26 17:16:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-06-26 17:00:56 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/sakura_wood": {
-    "criteria": {
-      "has_log": "2025-06-26 17:10:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-06-26 18:58:30 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/holly_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-06-26 18:24:29 +0000"
-    },
-    "done": true
-  },
   "biomeswevegone:recipes/building_blocks/sakura_slab": {
     "criteria": {
       "has_planks": "2025-06-26 17:11:22 +0000"
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+  "biomeswevegone:recipes/redstone/sakura_button": {
     "criteria": {
-      "requirement": "2025-06-26 19:10:16 +0000"
+      "has_planks": "2025-06-26 17:11:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+  "biomeswevegone:recipes/building_blocks/white_dacite": {
     "criteria": {
-      "has_stone": "2025-06-26 17:00:56 +0000"
+      "has_white_dacite_cobblestone": "2025-06-26 17:16:12 +0000"
     },
     "done": true
   },
-  "biomeswevegone:recipes/redstone/holly_door": {
+  "minecraft:recipes/decorations/white_dacite_cobblestone_wall_from_white_dacite_cobblestone_stonecutting": {
     "criteria": {
-      "has_planks": "2025-06-26 18:24:29 +0000"
+      "has_white_dacite_cobblestone": "2025-06-26 17:16:12 +0000"
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+  "minecraft:recipes/building_blocks/white_dacite_cobblestone_stairs_from_white_dacite_cobblestone_stonecutting": {
     "criteria": {
-      "requirement": "2025-06-26 19:04:59 +0000"
+      "has_white_dacite_cobblestone": "2025-06-26 17:16:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_dacite_cobblestone_slab_from_white_dacite_cobblestone_stonecutting": {
+    "criteria": {
+      "has_white_dacite_cobblestone": "2025-06-26 17:16:12 +0000"
     },
     "done": true
   },
   "biomeswevegone:recipes/building_blocks/white_dacite_cobblestone_slab": {
     "criteria": {
       "has_white_dacite_cobblestone": "2025-06-26 17:16:12 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/stuffed_potato": {
-    "criteria": {
-      "has_baked_potato": "2025-06-26 17:01:32 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/holly_fence": {
-    "criteria": {
-      "has_planks": "2025-06-26 18:24:29 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/sakura_button": {
-    "criteria": {
-      "has_planks": "2025-06-26 17:11:22 +0000"
     },
     "done": true
   },
@@ -6859,9 +6745,141 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-06-26 17:32:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-26 17:54:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-06-26 17:54:42 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/holly_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-26 18:24:29 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/holly_sign": {
+    "criteria": {
+      "has_planks": "2025-06-26 18:24:29 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/holly_slab": {
+    "criteria": {
+      "has_planks": "2025-06-26 18:24:29 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/holly_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-26 18:24:29 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/holly_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-26 18:24:29 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/holly_button": {
+    "criteria": {
+      "has_planks": "2025-06-26 18:24:29 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/holly_crafting_table": {
+    "criteria": {
+      "has_holly_planks": "2025-06-26 18:24:29 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/holly_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-26 18:24:29 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/holly_door": {
+    "criteria": {
+      "has_planks": "2025-06-26 18:24:29 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/holly_fence": {
+    "criteria": {
+      "has_planks": "2025-06-26 18:24:29 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/holly_bookshelf": {
     "criteria": {
       "has_holly_planks": "2025-06-26 18:24:29 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-06-26 18:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-06-26 18:58:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-26 18:58:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/onion": {
+    "criteria": {
+      "has_onion_crate": "2025-06-26 19:01:24 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2025-06-26 19:04:59 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-06-26 19:10:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-26 19:36:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-06-26 19:36:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-06-26 19:52:53 +0000"
     },
     "done": true
   },

@@ -1700,11 +1700,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-06-26 19:18:33 +0000",
+      "minecraft:birch_forest": "2025-06-26 19:55:15 +0000",
       "minecraft:beach": "2025-06-26 19:16:20 +0000",
       "minecraft:river": "2025-06-26 17:15:13 +0000",
       "minecraft:cold_ocean": "2025-06-26 19:24:57 +0000",
       "minecraft:forest": "2025-06-26 17:15:42 +0000",
       "minecraft:ocean": "2025-06-26 19:16:24 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-06-26 19:35:18 +0000",
       "minecraft:meadow": "2025-06-25 21:56:19 +0000"
     },
     "done": false
@@ -1719,6 +1721,7 @@
     "criteria": {
       "biomeswevegone:temperate_grove": "2025-06-26 17:56:30 +0000",
       "biomeswevegone:forgotten_forest": "2025-06-26 17:14:56 +0000",
+      "biomeswevegone:coconino_meadow": "2025-06-26 19:56:10 +0000",
       "biomeswevegone:maple_taiga": "2025-06-26 17:56:09 +0000",
       "biomeswevegone:prairie": "2025-06-26 17:58:00 +0000",
       "biomeswevegone:basalt_barrera": "2025-06-26 19:16:45 +0000",
@@ -2583,6 +2586,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-26 19:48:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_crimson_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-26 19:48:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-06-26 18:40:48 +0000"
@@ -2886,9 +2901,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-26 19:48:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_dark_oak_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-26 19:48:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-06-26 17:00:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_mangrove_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-26 19:48:18 +0000"
     },
     "done": true
   },
@@ -3012,6 +3045,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-26 19:48:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_cherry_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-26 19:48:18 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/diamond_flail_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 17:51:21 +0000"
@@ -3021,6 +3066,12 @@
   "expanded_combat:recipes/combat/spruce_plank_dancer_s_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 16:50:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_dark_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-26 19:48:18 +0000"
     },
     "done": true
   },
@@ -3342,6 +3393,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_jungle_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-26 19:48:18 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/baobab_boat": {
     "criteria": {
       "in_water": "2025-06-26 17:26:24 +0000"
@@ -3375,6 +3432,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-06-26 16:52:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_acacia_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-26 19:48:18 +0000"
     },
     "done": true
   },
@@ -3684,6 +3747,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-26 19:48:18 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_smoking": {
     "criteria": {
       "fried_egg": "2025-06-26 17:06:38 +0000"
@@ -3705,6 +3774,12 @@
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2025-06-26 16:54:35 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-26 19:48:18 +0000"
     },
     "done": true
   },
@@ -3804,9 +3879,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-26 19:48:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-06-26 16:52:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-06-26 20:00:14 +0000"
     },
     "done": true
   },
@@ -3861,6 +3948,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-06-26 16:50:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_spruce_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-26 19:48:18 +0000"
     },
     "done": true
   },
@@ -3921,6 +4014,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-26 17:05:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_birch_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-26 19:48:18 +0000"
     },
     "done": true
   },
@@ -3993,6 +4092,12 @@
   "expanded_combat:recipes/combat/oak_plank_cutlass_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 17:32:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_mangrove_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-26 19:48:18 +0000"
     },
     "done": true
   },
@@ -4332,6 +4437,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_bamboo_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-26 19:48:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_cherry_fence": {
     "criteria": {
       "has_stick": "2025-06-26 16:51:00 +0000"
@@ -4443,6 +4554,18 @@
   "biomeswevegone:recipes/transportation/zelkova_boat": {
     "criteria": {
       "in_water": "2025-06-26 17:26:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_bamboo_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-26 19:48:18 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-06-26 19:54:22 +0000"
     },
     "done": true
   },
@@ -4566,6 +4689,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_cherry_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-26 19:48:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_mangrove_fence": {
     "criteria": {
       "has_stick": "2025-06-26 16:51:00 +0000"
@@ -4581,6 +4710,12 @@
   "expanded_combat:recipes/combat/diamond_sickle_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 17:51:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_warped_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-26 19:48:18 +0000"
     },
     "done": true
   },
@@ -4626,6 +4761,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-06-26 20:00:14 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/diamond_katana_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 17:51:21 +0000"
@@ -4653,6 +4794,12 @@
   "securitycraft:recipes/tools/universal_block_modifier": {
     "criteria": {
       "has_redstone": "2025-06-26 18:13:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-26 19:48:18 +0000"
     },
     "done": true
   },
@@ -4713,6 +4860,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-26 18:11:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-26 19:48:18 +0000"
     },
     "done": true
   },

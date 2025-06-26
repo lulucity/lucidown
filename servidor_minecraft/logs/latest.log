@@ -1020,3 +1020,111 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [26Jun2025 19:20:23.491] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Pikachu1572
 [26Jun2025 19:22:38.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 has made the advancement [How long's this been here?]
 [26Jun2025 19:26:36.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
+[26Jun2025 19:38:58.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotceh9889 was kicked for floating too long!
+[26Jun2025 19:38:58.483] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotceh9889 lost connection: Flying is not enabled on this server
+[26Jun2025 19:38:58.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 left the game
+[26Jun2025 19:38:58.484] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client rotceh9889
+[26Jun2025 19:39:13.542] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rotceh9889[/127.242.85.59:40209] logged in with entity id 123186 at (-425.90387902105243, 84.2016874614205, -3.903763437178568)
+[26Jun2025 19:39:13.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 joined the game
+[26Jun2025 19:39:13.591] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player rotceh9889 just logged in with id 8dca058e-0d7b-3303-89c7-a42b715ea559
+[26Jun2025 19:39:13.666] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of rotceh9889 (18)
+[26Jun2025 19:39:13.667] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to rotceh9889
+[26Jun2025 19:39:13.897] [ForkJoinPool-3-worker-10/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/rotceh9889
+[26Jun2025 19:39:13.986] [ForkJoinPool-3-worker-10/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/rotceh9889
+[26Jun2025 19:39:14.071] [ForkJoinPool-3-worker-10/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/rotceh9889
+[26Jun2025 19:39:28.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotceh9889 was kicked for floating too long!
+[26Jun2025 19:39:28.180] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotceh9889 lost connection: Flying is not enabled on this server
+[26Jun2025 19:39:28.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 left the game
+[26Jun2025 19:39:28.180] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client rotceh9889
+[26Jun2025 19:39:43.732] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3370ea26[id=<null>,name=rotceh9889,properties={},legacy=false] (/127.242.85.59:46363) lost connection: Disconnected
+[26Jun2025 19:39:51.847] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rotceh9889[/127.242.85.59:44299] logged in with entity id 123292 at (-484.5376460703779, 73.64365928105619, 25.468556562211603)
+[26Jun2025 19:39:51.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 joined the game
+[26Jun2025 19:39:51.890] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player rotceh9889 just logged in with id 8dca058e-0d7b-3303-89c7-a42b715ea559
+[26Jun2025 19:39:51.984] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of rotceh9889 (18)
+[26Jun2025 19:39:51.984] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to rotceh9889
+[26Jun2025 19:39:51.990] [ForkJoinPool-3-worker-10/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/rotceh9889
+[26Jun2025 19:39:52.083] [ForkJoinPool-3-worker-10/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/rotceh9889
+[26Jun2025 19:39:52.154] [ForkJoinPool-3-worker-10/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/rotceh9889
+[26Jun2025 19:40:45.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotceh9889 was kicked for floating too long!
+[26Jun2025 19:40:45.631] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotceh9889 lost connection: Flying is not enabled on this server
+[26Jun2025 19:40:45.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 left the game
+[26Jun2025 19:40:45.631] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client rotceh9889
+[26Jun2025 19:41:09.133] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@21f0b29d[id=<null>,name=rotceh9889,properties={},legacy=false] (/127.242.85.59:41931) lost connection: Disconnected
+[26Jun2025 19:41:25.931] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7493ed23[id=<null>,name=rotceh9889,properties={},legacy=false] (/127.242.85.59:40543) lost connection: Disconnected
+[26Jun2025 19:41:50.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 was kicked for floating too long!
+[26Jun2025 19:41:50.283] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 lost connection: Flying is not enabled on this server
+[26Jun2025 19:41:50.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 left the game
+[26Jun2025 19:41:50.283] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Ruben17[38de0807-4de7-3327-9c3b-72f51d8c540b]
+[26Jun2025 19:41:50.283] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ruben17
+[26Jun2025 19:41:53.733] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6405331[id=<null>,name=rotceh9889,properties={},legacy=false] (/127.242.85.59:53705) lost connection: Disconnected
+[26Jun2025 19:42:02.951] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rotceh9889[/127.242.85.59:33079] logged in with entity id 123739 at (-497.4259098025553, 81.14867474168265, 39.530048339793346)
+[26Jun2025 19:42:02.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 joined the game
+[26Jun2025 19:42:03.008] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player rotceh9889 just logged in with id 8dca058e-0d7b-3303-89c7-a42b715ea559
+[26Jun2025 19:42:03.079] [ForkJoinPool-3-worker-11/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/rotceh9889
+[26Jun2025 19:42:03.083] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of rotceh9889 (18)
+[26Jun2025 19:42:03.083] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to rotceh9889
+[26Jun2025 19:42:03.165] [ForkJoinPool-3-worker-11/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/rotceh9889
+[26Jun2025 19:42:03.242] [ForkJoinPool-3-worker-11/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/rotceh9889
+[26Jun2025 19:42:05.145] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ruben17[/127.242.85.59:42561] logged in with entity id 123749 at (-468.20436372219456, 67.7531999805212, 32.528293387742515)
+[26Jun2025 19:42:05.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 joined the game
+[26Jun2025 19:42:05.212] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Ruben17 just logged in with id 38de0807-4de7-3327-9c3b-72f51d8c540b
+[26Jun2025 19:42:05.218] [ForkJoinPool-3-worker-11/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ruben17[38de0807-4de7-3327-9c3b-72f51d8c540b]
+[26Jun2025 19:42:05.277] [ForkJoinPool-3-worker-11/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ruben17 downloaded
+[26Jun2025 19:42:05.292] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ruben17 (18)
+[26Jun2025 19:42:05.293] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ruben17
+[26Jun2025 19:42:23.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotceh9889 was kicked for floating too long!
+[26Jun2025 19:42:23.334] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotceh9889 lost connection: Flying is not enabled on this server
+[26Jun2025 19:42:23.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 left the game
+[26Jun2025 19:42:23.334] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client rotceh9889
+[26Jun2025 19:42:41.785] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5f82e562[id=<null>,name=rotceh9889,properties={},legacy=false] (/127.242.85.59:43269) lost connection: Disconnected
+[26Jun2025 19:42:51.944] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rotceh9889[/127.242.85.59:55371] logged in with entity id 123953 at (-453.1548153083023, 75.81395746807644, 25.456409184612287)
+[26Jun2025 19:42:51.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 joined the game
+[26Jun2025 19:42:51.988] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player rotceh9889 just logged in with id 8dca058e-0d7b-3303-89c7-a42b715ea559
+[26Jun2025 19:42:52.074] [ForkJoinPool-3-worker-11/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/rotceh9889
+[26Jun2025 19:42:52.089] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of rotceh9889 (18)
+[26Jun2025 19:42:52.089] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to rotceh9889
+[26Jun2025 19:42:52.193] [ForkJoinPool-3-worker-11/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/rotceh9889
+[26Jun2025 19:42:52.282] [ForkJoinPool-3-worker-11/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/rotceh9889
+[26Jun2025 19:43:09.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotceh9889 was kicked for floating too long!
+[26Jun2025 19:43:09.637] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotceh9889 lost connection: Flying is not enabled on this server
+[26Jun2025 19:43:09.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 left the game
+[26Jun2025 19:43:09.637] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client rotceh9889
+[26Jun2025 19:43:25.434] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6daa5117[id=<null>,name=rotceh9889,properties={},legacy=false] (/127.242.85.59:56461) lost connection: Disconnected
+[26Jun2025 19:43:33.295] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rotceh9889[/127.242.85.59:55785] logged in with entity id 124072 at (-453.4302924120772, 72.55108517533307, 30.01385340259537)
+[26Jun2025 19:43:33.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 joined the game
+[26Jun2025 19:43:33.347] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player rotceh9889 just logged in with id 8dca058e-0d7b-3303-89c7-a42b715ea559
+[26Jun2025 19:43:33.428] [ForkJoinPool-3-worker-11/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/rotceh9889
+[26Jun2025 19:43:33.461] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of rotceh9889 (18)
+[26Jun2025 19:43:33.461] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to rotceh9889
+[26Jun2025 19:43:33.508] [ForkJoinPool-3-worker-11/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/rotceh9889
+[26Jun2025 19:43:33.620] [ForkJoinPool-3-worker-11/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/rotceh9889
+[26Jun2025 19:45:54.100] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: estrems[/127.17.131.178:35077] logged in with entity id 124714 at (2958.616587506418, 68.0, -2198.3416179289234)
+[26Jun2025 19:45:54.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems joined the game
+[26Jun2025 19:45:54.122] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player estrems just logged in with id 002593b6-47c6-3516-a440-6abefab6faf4
+[26Jun2025 19:45:54.136] [ForkJoinPool-3-worker-12/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player estrems[002593b6-47c6-3516-a440-6abefab6faf4]
+[26Jun2025 19:45:54.194] [ForkJoinPool-3-worker-12/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/estrems downloaded
+[26Jun2025 19:45:55.308] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of estrems (18)
+[26Jun2025 19:45:55.308] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to estrems
+[26Jun2025 19:49:28.903] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pikachu1572[/127.142.165.218:36451] logged in with entity id 126875 at (-487.5163079950143, 57.0, 1172.300000011921)
+[26Jun2025 19:49:28.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pikachu1572 joined the game
+[26Jun2025 19:49:28.920] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Pikachu1572 just logged in with id fb101342-6e32-34d6-859f-bb2589f07fe1
+[26Jun2025 19:49:28.925] [ForkJoinPool-3-worker-13/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Pikachu1572[fb101342-6e32-34d6-859f-bb2589f07fe1]
+[26Jun2025 19:49:28.930] [ForkJoinPool-3-worker-13/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player Pikachu1572[fb101342-6e32-34d6-859f-bb2589f07fe1]
+[26Jun2025 19:49:30.409] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Pikachu1572 (18)
+[26Jun2025 19:49:30.409] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Pikachu1572
+[26Jun2025 19:52:53.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 has made the advancement [The Cutest Predator]
+[26Jun2025 19:54:22.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mikel17pro has made the advancement [Pic-A-Nic Basket?]
+[26Jun2025 19:54:57.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
+[26Jun2025 19:56:04.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotceh9889 moved wrongly!
+[26Jun2025 19:56:21.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotceh9889 moved wrongly!
+[26Jun2025 19:56:58.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mikel17pro moved wrongly!
+[26Jun2025 19:57:37.113] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
+[26Jun2025 19:58:55.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of rotceh9889) moved too quickly! -1.6499171799638628,0.202923500245916,10.259402470504938
+[26Jun2025 19:58:55.869] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of rotceh9889) moved too quickly! -1.762699910681878,0.21782481718042845,10.900428060760532
+[26Jun2025 19:58:55.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of rotceh9889) moved too quickly! -1.876017024893347,0.23292954258418774,11.541518146444105
+[26Jun2025 19:58:55.873] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of rotceh9889) moved too quickly! -1.9898059643602792,0.24821342916960987,12.182692865079389
+[26Jun2025 19:59:08.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems was slain by Wilden Hunter
+[26Jun2025 20:03:34.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 was eviscerated by Archevoker's vexes
+[26Jun2025 20:04:12.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotceh9889 moved wrongly!
+[26Jun2025 20:05:30.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 was eviscerated by Archevoker's vexes
+[26Jun2025 20:06:38.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 was eviscerated by Archevoker's vexes

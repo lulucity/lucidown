@@ -5968,5 +5968,17 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/leather_stick_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 19:49:22 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/little_house_on_the_prairie": {
+    "criteria": {
+      "abondoned_prairie_house": "2025-06-26 19:47:19 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }

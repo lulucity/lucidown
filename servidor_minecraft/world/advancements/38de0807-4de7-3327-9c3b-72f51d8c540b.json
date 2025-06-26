@@ -1709,6 +1709,7 @@
       "minecraft:snowy_taiga": "2025-06-26 13:24:22 +0000",
       "minecraft:cold_ocean": "2025-06-26 13:33:05 +0000",
       "minecraft:forest": "2025-06-26 13:03:07 +0000",
+      "minecraft:ocean": "2025-06-26 19:55:55 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-26 14:42:07 +0000",
       "minecraft:meadow": "2025-06-26 11:41:48 +0000",
       "minecraft:plains": "2025-06-26 13:29:16 +0000"
@@ -5425,6 +5426,132 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-06-26 18:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 18:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 18:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 18:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 18:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 18:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 18:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 18:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 18:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 18:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 18:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 18:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 18:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 18:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 18:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 18:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-26 18:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-06-26 18:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-06-26 18:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-06-26 18:22:54 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-06-26 18:23:40 +0000"
+    },
+    "done": true
+  },
   "ec_es_plugin:recipes/combat/steel_ninja_gauntlet_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 19:04:53 +0000"
@@ -5449,39 +5576,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blackstone_wall": {
-    "criteria": {
-      "has_blackstone": "2025-06-26 18:21:09 +0000"
-    },
-    "done": true
-  },
   "ec_es_plugin:recipes/combat/steel_arrow_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 19:04:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-06-26 18:21:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-06-26 18:21:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-06-26 18:21:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-06-26 18:22:54 +0000"
     },
     "done": true
   },
@@ -5497,33 +5594,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blackstone_stairs": {
-    "criteria": {
-      "has_blackstone": "2025-06-26 18:21:09 +0000"
-    },
-    "done": true
-  },
   "ec_es_plugin:recipes/combat/steel_bow_conditional_120_smithing": {
     "criteria": {
       "has_item": "2025-06-26 19:04:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-06-26 18:21:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blackstone_slab": {
-    "criteria": {
-      "has_blackstone": "2025-06-26 18:21:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-06-26 18:21:09 +0000"
     },
     "done": true
   },
@@ -5545,27 +5618,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2025-06-26 18:22:54 +0000"
-    },
-    "done": true
-  },
   "ec_es_plugin:recipes/combat/steel_claymore_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 19:04:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-06-26 18:21:09 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/ink_root": {
-    "criteria": {
-      "requirement": "2025-06-26 18:23:40 +0000"
     },
     "done": true
   },
@@ -5587,33 +5642,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-06-26 18:21:09 +0000"
-    },
-    "done": true
-  },
   "ec_es_plugin:recipes/combat/steel_katana_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 19:04:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-06-26 18:21:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2025-06-26 18:22:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-06-26 18:21:09 +0000"
     },
     "done": true
   },
@@ -5626,30 +5657,6 @@
   "ec_es_plugin:recipes/combat/steel_gauntlet_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 19:04:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone": {
-    "criteria": {
-      "has_blackstone": "2025-06-26 18:21:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-06-26 18:21:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-06-26 18:21:09 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/universal_owner_changer": {
-    "criteria": {
-      "has_name_tag": "2025-06-26 18:20:05 +0000"
     },
     "done": true
   },
@@ -5671,9 +5678,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+  "celestisynth:recipes/misc/lunar_scrap_smelting": {
     "criteria": {
-      "has_blackstone": "2025-06-26 18:21:09 +0000"
+      "has_item": "2025-06-26 20:03:32 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/lunar_stone_helmet": {
+    "criteria": {
+      "has_item": "2025-06-26 20:03:32 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/lunar_stone_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-26 20:03:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-06-26 20:02:38 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/lunar_stone_leggings": {
+    "criteria": {
+      "has_item": "2025-06-26 20:03:32 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/lunar_stone_boots": {
+    "criteria": {
+      "has_item": "2025-06-26 20:03:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-06-26 20:02:38 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/lunar_scrap_blasting": {
+    "criteria": {
+      "has_item": "2025-06-26 20:03:32 +0000"
     },
     "done": true
   },
