@@ -1909,6 +1909,7 @@
       "sweet_berries": "2025-06-25 22:34:50 +0000",
       "cooked_beef": "2025-06-26 11:26:04 +0000",
       "apple": "2025-06-26 10:54:15 +0000",
+      "potato": "2025-06-26 14:34:34 +0000",
       "cooked_cod": "2025-06-26 11:35:19 +0000",
       "pumpkin_pie": "2025-06-25 23:07:30 +0000",
       "bread": "2025-06-25 23:15:40 +0000",
@@ -3660,6 +3661,7 @@
       "minecraft:vindicator": "2025-06-26 13:43:35 +0000",
       "minecraft:spider": "2025-06-26 00:34:04 +0000",
       "minecraft:creeper": "2025-06-26 11:13:09 +0000",
+      "minecraft:cave_spider": "2025-06-26 14:38:44 +0000",
       "minecraft:zombie": "2025-06-25 23:38:35 +0000",
       "minecraft:drowned": "2025-06-25 23:24:55 +0000"
     },
@@ -6592,6 +6594,72 @@
   "minecraft:adventure/whos_the_pillager_now": {
     "criteria": {
       "kill_pillager": "2025-06-26 13:46:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-06-26 14:37:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-06-26 14:37:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-06-26 14:44:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-06-26 14:44:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-06-26 14:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-06-26 14:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-06-26 14:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-06-26 14:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-06-26 14:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-06-26 14:46:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-06-26 14:49:55 +0000"
     },
     "done": true
   },

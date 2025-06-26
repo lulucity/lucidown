@@ -1700,13 +1700,17 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-06-26 01:43:17 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-06-26 14:55:39 +0000",
       "minecraft:taiga": "2025-06-26 01:58:41 +0000",
       "minecraft:deep_ocean": "2025-06-25 23:26:03 +0000",
       "minecraft:frozen_river": "2025-06-26 01:45:27 +0000",
       "minecraft:cherry_grove": "2025-06-26 13:50:49 +0000",
       "minecraft:birch_forest": "2025-06-25 23:17:07 +0000",
+      "minecraft:savanna_plateau": "2025-06-26 14:44:08 +0000",
       "minecraft:beach": "2025-06-25 23:19:56 +0000",
+      "minecraft:stony_peaks": "2025-06-26 14:44:46 +0000",
       "minecraft:river": "2025-06-25 23:05:25 +0000",
+      "minecraft:lukewarm_ocean": "2025-06-26 14:44:29 +0000",
       "minecraft:stony_shore": "2025-06-26 01:43:21 +0000",
       "minecraft:dripstone_caves": "2025-06-25 22:50:31 +0000",
       "minecraft:snowy_taiga": "2025-06-26 13:24:19 +0000",
@@ -1715,6 +1719,7 @@
       "minecraft:frozen_ocean": "2025-06-26 01:43:33 +0000",
       "minecraft:ocean": "2025-06-25 23:22:14 +0000",
       "minecraft:frozen_peaks": "2025-06-26 13:47:46 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-26 14:45:28 +0000",
       "minecraft:meadow": "2025-06-25 22:21:13 +0000",
       "minecraft:savanna": "2025-06-26 00:49:28 +0000",
       "minecraft:plains": "2025-06-25 23:26:33 +0000"
@@ -1771,10 +1776,12 @@
       "biomeswevegone:maple_taiga": "2025-06-26 01:12:34 +0000",
       "biomeswevegone:ironwood_gour": "2025-06-25 23:39:11 +0000",
       "biomeswevegone:orchard": "2025-06-25 23:57:23 +0000",
+      "biomeswevegone:amaranth_grassland": "2025-06-26 14:45:52 +0000",
       "biomeswevegone:prairie": "2025-06-25 23:38:01 +0000",
       "biomeswevegone:basalt_barrera": "2025-06-25 23:42:19 +0000",
       "biomeswevegone:aspen_boreal": "2025-06-26 01:56:37 +0000",
       "biomeswevegone:dacite_ridges": "2025-06-26 13:24:45 +0000",
+      "biomeswevegone:dacite_shore": "2025-06-26 14:55:41 +0000",
       "biomeswevegone:skyrise_vale": "2025-06-25 22:27:29 +0000",
       "biomeswevegone:allium_shrubland": "2025-06-25 23:35:58 +0000",
       "biomeswevegone:pumpkin_valley": "2025-06-26 01:36:06 +0000",
@@ -6246,11 +6253,84 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/rocky_stone_stairs_from_rocky_stone_stonecutting": {
+    "criteria": {
+      "has_rocky_stone": "2025-06-26 13:16:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/rocky_stone_wall_from_rocky_stone_stonecutting": {
+    "criteria": {
+      "has_rocky_stone": "2025-06-26 13:16:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/rocky_stone_slab_from_rocky_stone_stonecutting": {
+    "criteria": {
+      "has_rocky_stone": "2025-06-26 13:16:15 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/rocky_stone_stairs": {
+    "criteria": {
+      "has_rocky_stone": "2025-06-26 13:16:15 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/rocky_stone_slab": {
+    "criteria": {
+      "has_rocky_stone": "2025-06-26 13:16:15 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/rocky_stone_wall": {
+    "criteria": {
+      "has_rocky_stone": "2025-06-26 13:16:15 +0000"
+    },
+    "done": true
+  },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_pearl": "2025-06-26 13:17:13 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:eat_bombegranate": {
+    "criteria": {
+      "eat_bombegranate": "2025-06-26 13:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-26 13:24:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-06-26 13:28:59 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-06-26 13:28:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-06-26 13:28:59 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/true_traveler": {
+    "criteria": {
+      "skyris_village": "2025-06-26 14:47:14 +0000",
+      "pumpkin_patch_village": "2025-06-26 13:29:27 +0000"
+    },
+    "done": false
   },
   "securitycraft:recipes/decorations/secret_birch_sign_item": {
     "criteria": {
@@ -6261,24 +6341,6 @@
   "securitycraft:recipes/decorations/secret_crimson_hanging_sign": {
     "criteria": {
       "has_sign": "2025-06-26 13:33:40 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:biomeswevegone/adventure/true_traveler": {
-    "criteria": {
-      "pumpkin_patch_village": "2025-06-26 13:29:27 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/decorations/mangrove_cabinet": {
-    "criteria": {
-      "has_mangrove_trapdoor": "2025-06-26 13:42:00 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roast_chicken_block": {
-    "criteria": {
-      "has_cooked_chicken": "2025-06-26 13:34:02 +0000"
     },
     "done": true
   },
@@ -6318,30 +6380,6 @@
     },
     "done": true
   },
-  "mythicmounts:summoning_staff": {
-    "criteria": {
-      "has_pearl": "2025-06-26 13:17:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-06-26 13:24:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2025-06-26 13:28:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/rocky_stone_stairs_from_rocky_stone_stonecutting": {
-    "criteria": {
-      "has_rocky_stone": "2025-06-26 13:16:15 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_jungle_hanging_sign": {
     "criteria": {
       "has_sign": "2025-06-26 13:33:40 +0000"
@@ -6354,21 +6392,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2025-06-26 13:42:45 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_crimson_sign_item": {
     "criteria": {
       "has_sign": "2025-06-26 13:33:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/rocky_stone_wall_from_rocky_stone_stonecutting": {
-    "criteria": {
-      "has_rocky_stone": "2025-06-26 13:16:15 +0000"
     },
     "done": true
   },
@@ -6378,21 +6404,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/rocky_stone_slab_from_rocky_stone_stonecutting": {
-    "criteria": {
-      "has_rocky_stone": "2025-06-26 13:16:15 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_jungle_sign_item": {
     "criteria": {
       "has_sign": "2025-06-26 13:33:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2025-06-26 13:28:59 +0000"
     },
     "done": true
   },
@@ -6402,21 +6416,9 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/building_blocks/rocky_stone_stairs": {
-    "criteria": {
-      "has_rocky_stone": "2025-06-26 13:16:15 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_birch_hanging_sign": {
     "criteria": {
       "has_sign": "2025-06-26 13:33:40 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:eat_bombegranate": {
-    "criteria": {
-      "eat_bombegranate": "2025-06-26 13:21:52 +0000"
     },
     "done": true
   },
@@ -6426,21 +6428,9 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/building_blocks/rocky_stone_slab": {
-    "criteria": {
-      "has_rocky_stone": "2025-06-26 13:16:15 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_bamboo_hanging_sign": {
     "criteria": {
       "has_sign": "2025-06-26 13:33:40 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/rocky_stone_wall": {
-    "criteria": {
-      "has_rocky_stone": "2025-06-26 13:16:15 +0000"
     },
     "done": true
   },
@@ -6462,33 +6452,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2025-06-26 13:42:45 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_acacia_sign_item": {
     "criteria": {
       "has_sign": "2025-06-26 13:33:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
-    "criteria": {
-      "has_bamboo": "2025-06-26 13:50:57 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/chicken_sandwich": {
-    "criteria": {
-      "has_cooked_chicken": "2025-06-26 13:34:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_block": {
-    "criteria": {
-      "has_bamboo": "2025-06-26 13:50:57 +0000"
     },
     "done": true
   },
@@ -6498,9 +6464,123 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-06-26 13:34:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-06-26 13:34:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/mangrove_cabinet": {
+    "criteria": {
+      "has_mangrove_trapdoor": "2025-06-26 13:42:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-26 13:42:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-26 13:42:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-06-26 13:50:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-06-26 13:50:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-06-26 13:50:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2025-06-26 14:36:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-06-26 14:40:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-06-26 14:47:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye_from_bwg_2_dye_tag": {
+    "criteria": {
+      "has_2_dye_tag": "2025-06-26 14:48:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-06-26 14:48:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-06-26 14:49:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-06-26 14:49:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-26 14:49:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-06-26 14:49:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-26 14:49:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-06-26 14:57:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-06-26 14:57:32 +0000"
     },
     "done": true
   },
