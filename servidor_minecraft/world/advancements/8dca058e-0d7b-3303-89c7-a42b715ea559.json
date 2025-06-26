@@ -5355,6 +5355,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-06-26 03:18:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-26 02:40:39 +0000"
@@ -5406,6 +5412,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_slab_from_mossy_stone_stonecutting": {
     "criteria": {
       "has_mossy_stone": "2025-06-26 02:57:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-06-26 03:00:16 +0000"
     },
     "done": true
   },
