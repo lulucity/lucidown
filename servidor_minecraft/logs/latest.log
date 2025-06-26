@@ -422,3 +422,53 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [26Jun2025 11:30:39.460] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/rotceh9889
 [26Jun2025 11:30:39.590] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of rotceh9889 (18)
 [26Jun2025 11:30:39.591] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to rotceh9889
+[26Jun2025 11:34:30.555] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@16cdb542[id=<null>,name=Ruben17,properties={},legacy=false] (/127.242.85.59:50095) lost connection: Disconnected
+[26Jun2025 11:35:40.056] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@18b490db[id=<null>,name=Ruben17,properties={},legacy=false] (/127.242.85.59:41541) lost connection: Disconnected
+[26Jun2025 11:36:56.016] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [playerrevive:main,creativecore:main] rejected their client side version number
+[26Jun2025 11:36:56.016] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[26Jun2025 11:36:56.059] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1306bbfd[id=<null>,name=Ruben17,properties={},legacy=false] (/127.242.85.59:50237) lost connection: Connection closed - mismatched mod channel list
+[26Jun2025 11:38:57.352] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@52f8a0a3[id=<null>,name=Ruben17,properties={},legacy=false] (/127.242.85.59:57913) lost connection: Disconnected
+[26Jun2025 11:39:03.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems has made the advancement [Crops of the Wild]
+[26Jun2025 11:39:34.413] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [playerrevive:main] rejected their client side version number
+[26Jun2025 11:39:34.413] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[26Jun2025 11:39:34.454] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@43f90362[id=<null>,name=Ruben17,properties={},legacy=false] (/127.242.85.59:51977) lost connection: Connection closed - mismatched mod channel list
+[26Jun2025 11:40:59.406] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [playerrevive:main] rejected their client side version number
+[26Jun2025 11:40:59.407] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[26Jun2025 11:40:59.456] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@22e1fd85[id=<null>,name=Ruben17,properties={},legacy=false] (/127.242.85.59:46363) lost connection: Connection closed - mismatched mod channel list
+[26Jun2025 11:41:47.517] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ruben17[/127.242.85.59:43685] logged in with entity id 16792 at (-154.5, 111.0, 130.5)
+[26Jun2025 11:41:47.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 joined the game
+[26Jun2025 11:41:47.585] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Ruben17 just logged in with id 38de0807-4de7-3327-9c3b-72f51d8c540b
+[26Jun2025 11:41:47.832] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ruben17 downloaded
+[26Jun2025 11:41:48.123] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://crafatar.com/skins/a2028595-f959-423e-9f8d-58742532159a downloaded
+[26Jun2025 11:41:48.126] [ForkJoinPool-3-worker-4/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Caching file world/skin_changer/skins/38de0807-4de7-3327-9c3b-72f51d8c540b
+[26Jun2025 11:41:48.126] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loaded skin for player Ruben17[38de0807-4de7-3327-9c3b-72f51d8c540b]
+[26Jun2025 11:41:48.128] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ruben17 (18)
+[26Jun2025 11:41:48.128] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ruben17
+[26Jun2025 11:41:48.162] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ruben17 downloaded
+[26Jun2025 11:43:13.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved too quickly! -9.187443716069453,-3.0,3.0108277974654243
+[26Jun2025 11:47:46.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 has made the advancement [Stone Age]
+[26Jun2025 11:47:56.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 has made the advancement [Getting an Upgrade]
+[26Jun2025 11:49:41.603] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pikachu1572[/127.142.165.218:51379] logged in with entity id 23774 at (-393.54103255642104, 63.5625, 87.69999998807907)
+[26Jun2025 11:49:41.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pikachu1572 joined the game
+[26Jun2025 11:49:41.671] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Pikachu1572 just logged in with id fb101342-6e32-34d6-859f-bb2589f07fe1
+[26Jun2025 11:49:41.676] [ForkJoinPool-3-worker-5/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Pikachu1572[fb101342-6e32-34d6-859f-bb2589f07fe1]
+[26Jun2025 11:49:41.680] [ForkJoinPool-3-worker-5/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player Pikachu1572[fb101342-6e32-34d6-859f-bb2589f07fe1]
+[26Jun2025 11:49:42.729] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Pikachu1572 (18)
+[26Jun2025 11:49:42.729] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Pikachu1572
+[26Jun2025 11:50:35.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 has made the advancement [Best Friends Forever]
+[26Jun2025 11:51:05.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 has made the advancement [Monster Hunter]
+[26Jun2025 11:51:16.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of rotceh9889) moved wrongly! 0.283562674406852
+[26Jun2025 11:51:16.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of rotceh9889) moved wrongly! 0.6698031159691453
+[26Jun2025 11:51:19.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 has made the advancement [To Die For]
+[26Jun2025 11:52:15.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 blew up
+[26Jun2025 11:52:41.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved too quickly! -0.0230487907503516,2.252203340253729,10.046308451483043
+[26Jun2025 11:53:50.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pikachu1572 moved wrongly!
+[26Jun2025 11:54:31.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 was shot by Skeleton
+[26Jun2025 11:56:55.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pikachu1572 moved wrongly!
+[26Jun2025 11:57:19.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 was pierced by Necromancer's icicle
+[26Jun2025 11:57:34.400] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[26Jun2025 11:57:34.403] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[26Jun2025 11:57:58.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pikachu1572 was doomed to fall
+[26Jun2025 12:00:06.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 was killed by Necromancer's magic missile
+[26Jun2025 12:01:08.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 has made the advancement [Crops of the Wild]
+[26Jun2025 12:02:54.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 was caught by Necromancer's fangs
