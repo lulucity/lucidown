@@ -1707,13 +1707,17 @@
     "criteria": {
       "biomeswevegone:araucaria_savanna": "2025-06-26 02:22:43 +0000",
       "biomeswevegone:sakura_grove": "2025-06-26 00:10:15 +0000",
+      "biomeswevegone:enchanted_tangle": "2025-06-26 02:31:14 +0000",
       "biomeswevegone:forgotten_forest": "2025-06-25 21:51:21 +0000",
       "biomeswevegone:coconino_meadow": "2025-06-25 23:05:55 +0000",
       "biomeswevegone:lush_stacks": "2025-06-26 02:22:06 +0000",
       "biomeswevegone:maple_taiga": "2025-06-25 22:54:55 +0000",
+      "biomeswevegone:ironwood_gour": "2025-06-26 02:29:03 +0000",
       "biomeswevegone:orchard": "2025-06-26 02:27:45 +0000",
+      "biomeswevegone:amaranth_grassland": "2025-06-26 02:31:15 +0000",
       "biomeswevegone:prairie": "2025-06-25 23:47:02 +0000",
       "biomeswevegone:basalt_barrera": "2025-06-26 02:22:24 +0000",
+      "biomeswevegone:aspen_boreal": "2025-06-26 02:31:20 +0000",
       "biomeswevegone:dacite_ridges": "2025-06-25 22:55:38 +0000",
       "biomeswevegone:skyrise_vale": "2025-06-25 21:55:52 +0000",
       "biomeswevegone:allium_shrubland": "2025-06-25 23:47:49 +0000",
@@ -1896,6 +1900,7 @@
       "sweet_berries": "2025-06-25 22:34:50 +0000",
       "pumpkin_pie": "2025-06-25 23:07:30 +0000",
       "bread": "2025-06-25 23:15:40 +0000",
+      "golden_apple": "2025-06-26 02:42:36 +0000",
       "glow_berries": "2025-06-25 21:57:21 +0000"
     },
     "done": false
@@ -4516,6 +4521,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/fletched_sticks_conditional_fletching": {
+    "criteria": {
+      "has_item": "2025-06-26 02:40:50 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/palm_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-26 02:18:32 +0000"
@@ -4606,6 +4617,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2025-06-26 02:40:14 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/birch_plank_scythe_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 02:18:23 +0000"
@@ -4690,6 +4707,12 @@
     },
     "done": true
   },
+  "mowziesmobs:sneak_grove": {
+    "criteria": {
+      "sneak_grove": "2025-06-26 02:41:01 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/blue_stained_glass_from_blue_sand": {
     "criteria": {
       "has_blue_sand": "2025-06-26 02:22:38 +0000"
@@ -4723,6 +4746,18 @@
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2025-06-26 02:10:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-06-26 02:40:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-06-26 02:40:14 +0000"
     },
     "done": true
   },
@@ -4813,6 +4848,12 @@
   "expanded_combat:recipes/combat/birch_plank_cutlass_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 02:18:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-06-26 02:44:51 +0000"
     },
     "done": true
   },

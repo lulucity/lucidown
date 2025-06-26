@@ -588,3 +588,21 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [26Jun2025 02:27:36.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems left the game
 [26Jun2025 02:27:36.776] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player estrems[002593b6-47c6-3516-a440-6abefab6faf4]
 [26Jun2025 02:27:36.776] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client estrems
+[26Jun2025 02:39:17.534] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: estrems[/127.17.131.178:37143] logged in with entity id 108236 at (-72.04135183213411, 79.0, -291.91511091521704)
+[26Jun2025 02:39:17.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems joined the game
+[26Jun2025 02:39:17.560] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player estrems just logged in with id 002593b6-47c6-3516-a440-6abefab6faf4
+[26Jun2025 02:39:17.566] [ForkJoinPool-3-worker-6/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player estrems[002593b6-47c6-3516-a440-6abefab6faf4]
+[26Jun2025 02:39:17.610] [ForkJoinPool-3-worker-6/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/estrems downloaded
+[26Jun2025 02:39:18.166] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of estrems (18)
+[26Jun2025 02:39:18.167] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to estrems
+[26Jun2025 02:39:33.524] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/108410, l='ServerLevel[world]', x=33.30, y=77.75, z=-394.06] died, message: 'Farmer was slain by Vindicator'
+[26Jun2025 02:39:54.075] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/108409, l='ServerLevel[world]', x=40.42, y=79.00, z=-405.53] died, message: 'Farmer was slain by Vindicator'
+[26Jun2025 02:39:58.225] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/108408, l='ServerLevel[world]', x=44.29, y=79.00, z=-399.38] died, message: 'Farmer was slain by Vindicator'
+[26Jun2025 02:40:03.577] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/108412, l='ServerLevel[world]', x=53.50, y=74.00, z=-386.16] died, message: 'Villager was slain by Vindicator'
+[26Jun2025 02:40:13.218] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/108411, l='ServerLevel[world]', x=40.40, y=83.00, z=-405.96] died, message: 'Farmer was slain by Vindicator'
+[26Jun2025 02:41:01.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 has made the advancement [Birds of a Feather]
+[26Jun2025 02:46:58.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 burned to death
+[26Jun2025 02:47:16.569] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luciaypec8 lost connection: Disconnected
+[26Jun2025 02:47:16.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 left the game
+[26Jun2025 02:47:16.570] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client luciaypec8
+[26Jun2025 02:47:18.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pikachu1572 moved wrongly!
