@@ -1700,6 +1700,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-06-26 14:45:29 +0000",
+      "minecraft:mushroom_fields": "2025-06-26 22:03:20 +0000",
       "minecraft:taiga": "2025-06-26 11:43:54 +0000",
       "minecraft:deep_ocean": "2025-06-26 20:25:04 +0000",
       "minecraft:sunflower_plains": "2025-06-26 20:46:14 +0000",
@@ -3231,7 +3232,9 @@
       "cooked_porkchop": "2025-06-26 18:45:41 +0000",
       "cooked_mutton": "2025-06-26 12:06:42 +0000",
       "cooked_beef": "2025-06-26 12:05:39 +0000",
+      "beef": "2025-06-26 22:07:48 +0000",
       "bread": "2025-06-26 12:46:06 +0000",
+      "golden_apple": "2025-06-26 22:09:37 +0000",
       "suspicious_stew": "2025-06-26 21:09:59 +0000"
     },
     "done": false
@@ -5921,9 +5924,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-06-26 22:01:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-06-26 22:12:00 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-06-26 22:06:40 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/rabbit_leather_gauntlet_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 22:12:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-06-26 22:01:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-06-26 22:01:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2025-06-26 21:37:01 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/rabbit_leather_quiver_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-26 22:12:00 +0000"
     },
     "done": true
   },

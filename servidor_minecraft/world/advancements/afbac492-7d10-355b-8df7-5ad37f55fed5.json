@@ -7776,12 +7776,6 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/building_blocks/cut_windswept_sandstone_slab": {
-    "criteria": {
-      "has_cut_windswept_sandstone": "2025-06-26 21:27:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
     "criteria": {
       "has_coast_armor_trim_smithing_template": "2025-06-26 21:16:57 +0000"
@@ -7794,9 +7788,21 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/cut_windswept_sandstone_slab": {
+    "criteria": {
+      "has_cut_windswept_sandstone": "2025-06-26 21:27:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_windswept_sandstone_slab_from_cut_windswept_sandstone_stonecutting": {
     "criteria": {
       "has_cut_windswept_sandstone": "2025-06-26 21:27:16 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:imbuement_chamber": {
+    "criteria": {
+      "has_imbuement_chamber": "2025-06-26 22:02:52 +0000"
     },
     "done": true
   },

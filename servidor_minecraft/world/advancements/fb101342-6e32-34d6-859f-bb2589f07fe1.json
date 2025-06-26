@@ -1706,6 +1706,7 @@
       "minecraft:frozen_river": "2025-06-26 01:45:27 +0000",
       "minecraft:cherry_grove": "2025-06-26 13:50:49 +0000",
       "minecraft:birch_forest": "2025-06-25 23:17:07 +0000",
+      "minecraft:badlands": "2025-06-26 22:03:12 +0000",
       "minecraft:savanna_plateau": "2025-06-26 14:44:08 +0000",
       "minecraft:beach": "2025-06-25 23:19:56 +0000",
       "minecraft:stony_peaks": "2025-06-26 14:44:46 +0000",
@@ -1717,7 +1718,10 @@
       "minecraft:cold_ocean": "2025-06-26 01:35:18 +0000",
       "minecraft:forest": "2025-06-25 23:17:22 +0000",
       "minecraft:frozen_ocean": "2025-06-26 01:43:33 +0000",
+      "minecraft:desert": "2025-06-26 21:43:45 +0000",
       "minecraft:ocean": "2025-06-25 23:22:14 +0000",
+      "minecraft:jungle": "2025-06-26 21:43:43 +0000",
+      "minecraft:warm_ocean": "2025-06-26 22:03:25 +0000",
       "minecraft:frozen_peaks": "2025-06-26 13:47:46 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-26 14:45:28 +0000",
       "minecraft:meadow": "2025-06-25 22:21:13 +0000",
@@ -1768,11 +1772,13 @@
     "criteria": {
       "biomeswevegone:cika_woods": "2025-06-26 01:28:44 +0000",
       "biomeswevegone:araucaria_savanna": "2025-06-26 00:09:21 +0000",
+      "biomeswevegone:sakura_grove": "2025-06-26 22:10:59 +0000",
       "biomeswevegone:temperate_grove": "2025-06-26 01:08:59 +0000",
       "biomeswevegone:zelkova_forest": "2025-06-26 01:25:36 +0000",
       "biomeswevegone:forgotten_forest": "2025-06-25 22:49:07 +0000",
       "biomeswevegone:firecracker_chaparral": "2025-06-25 23:59:34 +0000",
       "biomeswevegone:coconino_meadow": "2025-06-26 01:42:57 +0000",
+      "biomeswevegone:lush_stacks": "2025-06-26 22:03:35 +0000",
       "biomeswevegone:maple_taiga": "2025-06-26 01:12:34 +0000",
       "biomeswevegone:ironwood_gour": "2025-06-25 23:39:11 +0000",
       "biomeswevegone:orchard": "2025-06-25 23:57:23 +0000",
@@ -1783,6 +1789,7 @@
       "biomeswevegone:dacite_ridges": "2025-06-26 13:24:45 +0000",
       "biomeswevegone:dacite_shore": "2025-06-26 14:55:41 +0000",
       "biomeswevegone:skyrise_vale": "2025-06-25 22:27:29 +0000",
+      "biomeswevegone:dead_sea": "2025-06-26 22:04:12 +0000",
       "biomeswevegone:allium_shrubland": "2025-06-25 23:35:58 +0000",
       "biomeswevegone:pumpkin_valley": "2025-06-26 01:36:06 +0000",
       "biomeswevegone:baobab_savanna": "2025-06-25 23:58:00 +0000",
@@ -3145,8 +3152,10 @@
     "criteria": {
       "minecraft:pillager": "2025-06-26 00:15:48 +0000",
       "minecraft:skeleton": "2025-06-25 23:00:07 +0000",
+      "minecraft:ravager": "2025-06-26 21:49:50 +0000",
       "minecraft:vindicator": "2025-06-26 00:16:42 +0000",
       "minecraft:spider": "2025-06-25 23:21:19 +0000",
+      "minecraft:creeper": "2025-06-26 21:45:05 +0000",
       "minecraft:phantom": "2025-06-26 20:14:22 +0000",
       "minecraft:husk": "2025-06-26 00:32:58 +0000",
       "minecraft:cave_spider": "2025-06-25 23:04:57 +0000",
@@ -6690,6 +6699,180 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-06-26 21:10:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-26 21:56:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/white_sand": {
+    "criteria": {
+      "has_sand": "2025-06-26 21:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-06-26 21:57:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 21:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_sandstone_slab": "2025-06-26 21:45:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 21:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-26 21:56:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/sandy_dirt": {
+    "criteria": {
+      "has_sand": "2025-06-26 21:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 21:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 21:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 21:45:19 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2025-06-26 21:54:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 21:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 21:45:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/protecto": {
+    "criteria": {
+      "has_ender_eye": "2025-06-26 21:57:23 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/black_sand": {
+    "criteria": {
+      "has_sand": "2025-06-26 21:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-26 21:56:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-06-26 21:57:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 21:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-06-26 21:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 21:45:19 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/eyebomination": {
+    "criteria": {
+      "has_item": "2025-06-26 21:57:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 21:45:19 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/purple_sand": {
+    "criteria": {
+      "has_sand": "2025-06-26 21:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-06-26 21:44:21 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/blue_sand": {
+    "criteria": {
+      "has_sand": "2025-06-26 21:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-06-26 21:56:19 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/pink_sand": {
+    "criteria": {
+      "has_sand": "2025-06-26 21:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 21:45:19 +0000"
     },
     "done": true
   },
