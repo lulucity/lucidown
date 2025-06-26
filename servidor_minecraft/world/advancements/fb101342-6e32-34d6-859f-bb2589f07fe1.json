@@ -1699,12 +1699,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-06-26 01:43:17 +0000",
+      "minecraft:taiga": "2025-06-26 01:58:41 +0000",
       "minecraft:deep_ocean": "2025-06-25 23:26:03 +0000",
+      "minecraft:frozen_river": "2025-06-26 01:45:27 +0000",
       "minecraft:birch_forest": "2025-06-25 23:17:07 +0000",
       "minecraft:beach": "2025-06-25 23:19:56 +0000",
       "minecraft:river": "2025-06-25 23:05:25 +0000",
+      "minecraft:stony_shore": "2025-06-26 01:43:21 +0000",
       "minecraft:dripstone_caves": "2025-06-25 22:50:31 +0000",
+      "minecraft:cold_ocean": "2025-06-26 01:35:18 +0000",
       "minecraft:forest": "2025-06-25 23:17:22 +0000",
+      "minecraft:frozen_ocean": "2025-06-26 01:43:33 +0000",
       "minecraft:ocean": "2025-06-25 23:22:14 +0000",
       "minecraft:meadow": "2025-06-25 22:21:13 +0000",
       "minecraft:savanna": "2025-06-26 00:49:28 +0000",
@@ -1750,19 +1756,24 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:cika_woods": "2025-06-26 01:28:44 +0000",
       "biomeswevegone:araucaria_savanna": "2025-06-26 00:09:21 +0000",
       "biomeswevegone:temperate_grove": "2025-06-26 01:08:59 +0000",
       "biomeswevegone:zelkova_forest": "2025-06-26 01:25:36 +0000",
       "biomeswevegone:forgotten_forest": "2025-06-25 22:49:07 +0000",
       "biomeswevegone:firecracker_chaparral": "2025-06-25 23:59:34 +0000",
+      "biomeswevegone:coconino_meadow": "2025-06-26 01:42:57 +0000",
       "biomeswevegone:maple_taiga": "2025-06-26 01:12:34 +0000",
       "biomeswevegone:ironwood_gour": "2025-06-25 23:39:11 +0000",
       "biomeswevegone:orchard": "2025-06-25 23:57:23 +0000",
       "biomeswevegone:prairie": "2025-06-25 23:38:01 +0000",
       "biomeswevegone:basalt_barrera": "2025-06-25 23:42:19 +0000",
+      "biomeswevegone:aspen_boreal": "2025-06-26 01:56:37 +0000",
       "biomeswevegone:skyrise_vale": "2025-06-25 22:27:29 +0000",
       "biomeswevegone:allium_shrubland": "2025-06-25 23:35:58 +0000",
-      "biomeswevegone:baobab_savanna": "2025-06-25 23:58:00 +0000"
+      "biomeswevegone:pumpkin_valley": "2025-06-26 01:36:06 +0000",
+      "biomeswevegone:baobab_savanna": "2025-06-25 23:58:00 +0000",
+      "biomeswevegone:crimson_tundra": "2025-06-26 01:44:52 +0000"
     },
     "done": false
   },
@@ -3125,7 +3136,8 @@
       "minecraft:husk": "2025-06-26 00:32:58 +0000",
       "minecraft:cave_spider": "2025-06-25 23:04:57 +0000",
       "minecraft:enderman": "2025-06-25 23:06:08 +0000",
-      "minecraft:zombie": "2025-06-25 22:58:25 +0000"
+      "minecraft:zombie": "2025-06-25 22:58:25 +0000",
+      "minecraft:zombie_villager": "2025-06-26 02:14:02 +0000"
     },
     "done": false
   },
@@ -3996,9 +4008,10 @@
   "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
     "criteria": {
       "apple": "2025-06-25 23:10:19 +0000",
-      "golden_apple": "2025-06-25 23:27:31 +0000"
+      "golden_apple": "2025-06-25 23:27:31 +0000",
+      "green_apple": "2025-06-26 01:58:52 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
@@ -5026,6 +5039,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-26 02:10:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-06-26 01:18:07 +0000"
@@ -5086,6 +5105,12 @@
     },
     "done": true
   },
+  "biomeswevegone:biomeswevegone/husbandry/granny_smith": {
+    "criteria": {
+      "green_apple": "2025-06-26 01:58:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-06-26 01:01:00 +0000"
@@ -5095,6 +5120,12 @@
   "expanded_combat:recipes/combat/spruce_plank_flail_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 01:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-26 02:10:40 +0000"
     },
     "done": true
   },
@@ -5137,6 +5168,12 @@
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-06-26 00:43:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-26 02:10:40 +0000"
     },
     "done": true
   },
@@ -5239,6 +5276,12 @@
   "expanded_combat:recipes/combat/warped_plank_battle_staff_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-26 00:56:18 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/food/green_apple_pie": {
+    "criteria": {
+      "has_green_apple": "2025-06-26 01:58:52 +0000"
     },
     "done": true
   },
