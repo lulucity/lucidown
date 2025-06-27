@@ -8338,9 +8338,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/egg_sandwich": {
+  "securitycraft:recipes/misc/reinforced_lectern": {
     "criteria": {
-      "has_fried_egg": "2025-06-27 18:07:13 +0000"
+      "has_bookshelf": "2025-06-27 17:13:10 +0000"
     },
     "done": true
   },
@@ -8350,27 +8350,21 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+  "minecraft:recipes/misc/purple_dye_from_bwg_2_dye_tag": {
     "criteria": {
-      "fried_egg": "2025-06-27 17:36:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2025-06-27 17:47:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-06-27 18:10:36 +0000"
+      "has_2_dye_tag": "2025-06-27 17:34:41 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/purple_dye_from_bwg_dye_tag": {
     "criteria": {
       "has_dye_tag": "2025-06-27 17:35:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-06-27 17:36:42 +0000"
     },
     "done": true
   },
@@ -8386,7 +8380,43 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-06-27 17:36:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-06-27 17:47:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/egg_sandwich": {
+    "criteria": {
+      "has_fried_egg": "2025-06-27 18:07:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-27 18:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-06-27 18:13:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-06-27 18:20:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-06-27 18:20:48 +0000"
     },
@@ -8398,33 +8428,9 @@
     },
     "done": false
   },
-  "securitycraft:recipes/misc/reinforced_lectern": {
+  "minecraft:husbandry/axolotl_in_a_bucket": {
     "criteria": {
-      "has_bookshelf": "2025-06-27 17:13:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2025-06-27 18:20:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_deepslate": {
-    "criteria": {
-      "has_cobbled_deepslate_slab": "2025-06-27 18:13:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/purple_dye_from_bwg_2_dye_tag": {
-    "criteria": {
-      "has_2_dye_tag": "2025-06-27 17:34:41 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/fried_egg": {
-    "criteria": {
-      "fried_egg": "2025-06-27 17:36:42 +0000"
+      "axolotl_bucket": "2025-06-27 19:10:01 +0000"
     },
     "done": true
   },

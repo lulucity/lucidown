@@ -1704,7 +1704,9 @@
       "minecraft:deep_ocean": "2025-06-26 20:27:00 +0000",
       "minecraft:frozen_river": "2025-06-27 16:43:46 +0000",
       "minecraft:cherry_grove": "2025-06-27 00:01:27 +0000",
+      "minecraft:sunflower_plains": "2025-06-27 18:43:24 +0000",
       "minecraft:birch_forest": "2025-06-26 19:55:15 +0000",
+      "minecraft:windswept_hills": "2025-06-27 18:54:51 +0000",
       "minecraft:savanna_plateau": "2025-06-26 23:50:37 +0000",
       "minecraft:beach": "2025-06-26 19:16:20 +0000",
       "minecraft:river": "2025-06-26 17:15:13 +0000",
@@ -1720,6 +1722,7 @@
       "minecraft:ocean": "2025-06-26 19:16:24 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-26 19:35:18 +0000",
       "minecraft:snowy_beach": "2025-06-27 17:50:20 +0000",
+      "minecraft:windswept_savanna": "2025-06-27 18:54:58 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-26 23:29:17 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-27 00:02:24 +0000",
       "minecraft:meadow": "2025-06-25 21:56:19 +0000",
@@ -1738,10 +1741,12 @@
       "biomeswevegone:araucaria_savanna": "2025-06-26 23:50:27 +0000",
       "biomeswevegone:crag_gardens": "2025-06-27 16:34:41 +0000",
       "biomeswevegone:temperate_grove": "2025-06-26 17:56:30 +0000",
+      "biomeswevegone:zelkova_forest": "2025-06-27 18:47:32 +0000",
       "biomeswevegone:forgotten_forest": "2025-06-26 17:14:56 +0000",
       "biomeswevegone:coconino_meadow": "2025-06-26 19:56:10 +0000",
       "biomeswevegone:lush_stacks": "2025-06-26 23:29:20 +0000",
       "biomeswevegone:maple_taiga": "2025-06-26 17:56:09 +0000",
+      "biomeswevegone:cypress_swamplands": "2025-06-27 18:47:34 +0000",
       "biomeswevegone:frosted_taiga": "2025-06-27 18:15:09 +0000",
       "biomeswevegone:orchard": "2025-06-27 00:01:29 +0000",
       "biomeswevegone:amaranth_grassland": "2025-06-27 15:50:55 +0000",
@@ -1757,6 +1762,7 @@
       "biomeswevegone:baobab_savanna": "2025-06-26 23:37:37 +0000",
       "biomeswevegone:crimson_tundra": "2025-06-27 16:43:48 +0000",
       "biomeswevegone:coniferous_forest": "2025-06-27 18:15:14 +0000",
+      "biomeswevegone:bayou": "2025-06-27 18:55:57 +0000",
       "biomeswevegone:rainbow_beach": "2025-06-27 16:34:34 +0000"
     },
     "done": false
@@ -3120,8 +3126,10 @@
       "minecraft:skeleton": "2025-06-26 17:58:21 +0000",
       "minecraft:ravager": "2025-06-27 14:46:42 +0000",
       "minecraft:spider": "2025-06-26 17:47:29 +0000",
+      "minecraft:evoker": "2025-06-27 19:02:51 +0000",
       "minecraft:witch": "2025-06-26 20:32:22 +0000",
       "minecraft:cave_spider": "2025-06-26 18:19:29 +0000",
+      "minecraft:vex": "2025-06-27 19:03:00 +0000",
       "minecraft:zombie": "2025-06-26 17:03:22 +0000"
     },
     "done": false
@@ -5847,9 +5855,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-06-27 19:11:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-06-27 17:01:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-06-27 19:11:51 +0000"
     },
     "done": true
   },
@@ -5871,6 +5891,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-06-27 19:01:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-06-27 16:38:21 +0000"
@@ -5889,15 +5915,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-27 18:37:17 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_frosted_prison": {
     "criteria": {
       "prison": "2025-06-27 17:55:34 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-27 18:57:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-06-27 16:38:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-06-27 19:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-06-27 19:11:51 +0000"
     },
     "done": true
   },
@@ -5910,6 +5960,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-06-27 16:38:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-06-27 19:14:07 +0000"
     },
     "done": true
   },
@@ -5949,6 +6005,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-27 18:37:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-06-27 16:38:21 +0000"
@@ -5961,6 +6023,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-06-27 19:14:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-06-27 16:38:23 +0000"
@@ -5970,6 +6038,12 @@
   "securitycraft:recipes/misc/reinforced_lectern": {
     "criteria": {
       "has_bookshelf": "2025-06-27 16:55:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-27 18:57:42 +0000"
     },
     "done": true
   },

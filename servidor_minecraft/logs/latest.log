@@ -589,3 +589,79 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [27Jun2025 18:35:26.883] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Pikachu1572
 [27Jun2025 18:35:30.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mikel17pro moved wrongly!
 [27Jun2025 18:36:37.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pikachu1572 was slain by Aptrgangr
+[27Jun2025 18:37:32.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pikachu1572 was cursed by Aptrgangr
+[27Jun2025 18:37:36.839] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pikachu1572 lost connection: Disconnected
+[27Jun2025 18:37:36.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pikachu1572 left the game
+[27Jun2025 18:37:36.840] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Pikachu1572[fb101342-6e32-34d6-859f-bb2589f07fe1]
+[27Jun2025 18:37:36.840] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Pikachu1572
+[27Jun2025 18:44:07.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mikel17pro moved wrongly!
+[27Jun2025 18:47:59.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mikel17pro moved wrongly!
+[27Jun2025 18:53:58.429] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=226, y=-7, z=321}
+[27Jun2025 18:53:58.431] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=225, y=-7, z=328}
+[27Jun2025 18:54:15.679] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luciaypec8 lost connection: Timed out
+[27Jun2025 18:54:15.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 left the game
+[27Jun2025 18:54:15.680] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client luciaypec8
+[27Jun2025 18:55:03.393] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: luciaypec8[/127.31.76.185:41807] logged in with entity id 89798 at (-381.00984183769873, 68.0, 107.61122970214724)
+[27Jun2025 18:55:03.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 joined the game
+[27Jun2025 18:55:03.431] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player luciaypec8 just logged in with id afbac492-7d10-355b-8df7-5ad37f55fed5
+[27Jun2025 18:55:03.870] [ForkJoinPool-3-worker-6/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/luciaypec8
+[27Jun2025 18:55:03.958] [ForkJoinPool-3-worker-6/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/luciaypec8
+[27Jun2025 18:55:04.065] [ForkJoinPool-3-worker-6/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/luciaypec8
+[27Jun2025 18:55:04.299] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of luciaypec8 (18)
+[27Jun2025 18:55:04.299] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to luciaypec8
+[27Jun2025 18:56:08.965] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=226, y=-7, z=321}
+[27Jun2025 18:56:08.965] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=225, y=-7, z=328}
+[27Jun2025 18:56:28.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mikel17pro moved wrongly!
+[27Jun2025 19:09:22.319] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[27Jun2025 19:09:22.320] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[27Jun2025 19:10:01.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 has made the advancement [The Cutest Predator]
+[27Jun2025 19:10:16.183] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Jun2025 19:10:16.184] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Jun2025 19:10:16.185] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Jun2025 19:10:16.185] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Jun2025 19:10:16.186] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Jun2025 19:10:16.186] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Jun2025 19:10:16.186] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Jun2025 19:10:16.186] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Jun2025 19:10:16.187] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Jun2025 19:10:16.187] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Jun2025 19:10:16.187] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Jun2025 19:10:16.188] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Jun2025 19:10:16.188] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Jun2025 19:10:16.189] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Jun2025 19:10:16.189] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Jun2025 19:10:21.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mikel17pro moved wrongly!
+[27Jun2025 19:15:50.212] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rotceh9889[/127.242.85.59:52455] logged in with entity id 98711 at (3892.679694863652, 68.0, 6541.018071812997)
+[27Jun2025 19:15:50.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 joined the game
+[27Jun2025 19:15:50.233] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player rotceh9889 just logged in with id 8dca058e-0d7b-3303-89c7-a42b715ea559
+[27Jun2025 19:15:50.565] [ForkJoinPool-3-worker-7/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/rotceh9889
+[27Jun2025 19:15:50.646] [ForkJoinPool-3-worker-7/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/rotceh9889
+[27Jun2025 19:15:50.730] [ForkJoinPool-3-worker-7/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/rotceh9889
+[27Jun2025 19:15:50.991] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of rotceh9889 (18)
+[27Jun2025 19:15:50.992] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to rotceh9889
+[27Jun2025 19:16:20.904] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ruben17[/127.242.85.59:47403] logged in with entity id 99061 at (-459.5537778223227, 68.0, 21.411881679812176)
+[27Jun2025 19:16:20.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 joined the game
+[27Jun2025 19:16:20.969] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Ruben17 just logged in with id 38de0807-4de7-3327-9c3b-72f51d8c540b
+[27Jun2025 19:16:21.003] [ForkJoinPool-3-worker-7/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ruben17[38de0807-4de7-3327-9c3b-72f51d8c540b]
+[27Jun2025 19:16:21.078] [ForkJoinPool-3-worker-7/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ruben17 downloaded
+[27Jun2025 19:16:21.441] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ruben17 (18)
+[27Jun2025 19:16:21.442] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ruben17
+[27Jun2025 19:17:14.210] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pikachu1572[/127.142.165.218:45697] logged in with entity id 99475 at (3791.5, 65.0, 6377.5)
+[27Jun2025 19:17:14.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pikachu1572 joined the game
+[27Jun2025 19:17:14.256] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Pikachu1572 just logged in with id fb101342-6e32-34d6-859f-bb2589f07fe1
+[27Jun2025 19:17:14.267] [ForkJoinPool-3-worker-7/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Pikachu1572[fb101342-6e32-34d6-859f-bb2589f07fe1]
+[27Jun2025 19:17:14.276] [ForkJoinPool-3-worker-7/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player Pikachu1572[fb101342-6e32-34d6-859f-bb2589f07fe1]
+[27Jun2025 19:17:16.548] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Pikachu1572 (18)
+[27Jun2025 19:17:16.549] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Pikachu1572
+[27Jun2025 19:26:16.810] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: estrems[/127.17.131.178:58379] logged in with entity id 104328 at (-44.47280489051555, 118.0, -277.026135808458)
+[27Jun2025 19:26:16.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems joined the game
+[27Jun2025 19:26:16.832] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player estrems just logged in with id 002593b6-47c6-3516-a440-6abefab6faf4
+[27Jun2025 19:26:16.839] [ForkJoinPool-3-worker-8/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player estrems[002593b6-47c6-3516-a440-6abefab6faf4]
+[27Jun2025 19:26:16.913] [ForkJoinPool-3-worker-8/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/estrems downloaded
+[27Jun2025 19:26:18.632] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of estrems (18)
+[27Jun2025 19:26:18.633] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to estrems
+[27Jun2025 19:26:18.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mikel17pro moved too quickly! 0.5848196572278539,1.3403014432108478,-10.060038621073545
+[27Jun2025 19:27:31.654] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luciaypec8 lost connection: Disconnected
+[27Jun2025 19:27:31.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 left the game
+[27Jun2025 19:27:31.655] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client luciaypec8
+[27Jun2025 19:28:20.252] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved too quickly! -2.722088965829357,0.5800000131130219,-9.852692926108272
