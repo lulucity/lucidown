@@ -4293,9 +4293,10 @@
   "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
     "criteria": {
       "apple": "2025-06-25 23:29:14 +0000",
-      "golden_apple": "2025-06-26 12:19:32 +0000"
+      "golden_apple": "2025-06-26 12:19:32 +0000",
+      "green_apple": "2025-06-27 19:39:13 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
@@ -6821,6 +6822,18 @@
   "biomeswevegone:recipes/decorations/rocky_stone_wall": {
     "criteria": {
       "has_rocky_stone": "2025-06-27 17:50:51 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/granny_smith": {
+    "criteria": {
+      "green_apple": "2025-06-27 19:39:13 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/food/green_apple_pie": {
+    "criteria": {
+      "has_green_apple": "2025-06-27 19:39:13 +0000"
     },
     "done": true
   },

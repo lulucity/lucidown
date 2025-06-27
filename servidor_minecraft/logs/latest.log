@@ -690,3 +690,31 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [27Jun2025 19:38:30.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pikachu1572 was cursed by Maledictus 's Magic
 [27Jun2025 19:38:39.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: estrems moved wrongly!
 [27Jun2025 19:39:01.128] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=110, z=-260} BlockPos{x=-73, y=109, z=-261}
+[27Jun2025 19:39:08.970] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[27Jun2025 19:39:13.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems has made the advancement [Johnny Appleseed]
+[27Jun2025 19:39:13.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems has made the advancement [Granny Smith?]
+[27Jun2025 19:39:28.344] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4385ms or 87 ticks behind
+[27Jun2025 19:39:46.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pikachu1572 has completed the challenge [Crusade Against Curse]
+[27Jun2025 19:39:54.974] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: estrems moved wrongly!
+[27Jun2025 19:40:21.825] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-100, y=94, z=-247} BlockPos{x=-102, y=94, z=-247}
+[27Jun2025 19:40:24.890] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
+[27Jun2025 19:40:36.839] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2129ms or 42 ticks behind
+[27Jun2025 19:41:56.282] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
+[27Jun2025 19:42:13.947] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2688ms or 53 ticks behind
+[27Jun2025 19:42:59.862] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[27Jun2025 19:43:24.862] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[27Jun2025 19:43:35.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: estrems moved wrongly!
+[27Jun2025 19:43:47.882] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[27Jun2025 19:45:11.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pikachu1572 was slain by Maledictus
+[27Jun2025 19:45:16.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pikachu1572 has made the advancement [Spooky Scary Skeleton]
+[27Jun2025 19:45:24.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mikel17pro moved wrongly!
+[27Jun2025 19:46:50.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pikachu1572 was slain by Maledictus
+[27Jun2025 19:47:32.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pikachu1572 was slain by Maledictus
+[27Jun2025 19:47:46.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: estrems moved wrongly!
+[27Jun2025 19:47:48.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pikachu1572 was slain by Maledictus
+[27Jun2025 19:48:07.670] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: estrems moved wrongly!
+[27Jun2025 19:48:11.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pikachu1572 was cursed by Maledictus
+[27Jun2025 19:48:23.418] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
+[27Jun2025 19:48:34.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pikachu1572 was cursed by Maledictus
+[27Jun2025 19:48:43.598] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
+[27Jun2025 19:49:08.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
