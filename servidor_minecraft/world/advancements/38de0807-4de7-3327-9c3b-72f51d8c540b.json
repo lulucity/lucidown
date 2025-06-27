@@ -1703,21 +1703,30 @@
       "minecraft:mushroom_fields": "2025-06-26 22:03:20 +0000",
       "minecraft:taiga": "2025-06-26 11:43:54 +0000",
       "minecraft:deep_ocean": "2025-06-26 20:25:04 +0000",
+      "minecraft:frozen_river": "2025-06-27 20:23:59 +0000",
       "minecraft:sunflower_plains": "2025-06-26 20:46:14 +0000",
       "minecraft:birch_forest": "2025-06-26 13:02:53 +0000",
+      "minecraft:wooded_badlands": "2025-06-27 20:19:06 +0000",
       "minecraft:savanna_plateau": "2025-06-26 20:46:28 +0000",
       "minecraft:beach": "2025-06-26 13:23:04 +0000",
       "minecraft:dark_forest": "2025-06-26 21:06:51 +0000",
+      "minecraft:sparse_jungle": "2025-06-27 20:18:50 +0000",
       "minecraft:river": "2025-06-26 11:44:56 +0000",
       "minecraft:lukewarm_ocean": "2025-06-26 20:51:39 +0000",
       "minecraft:stony_shore": "2025-06-26 13:30:32 +0000",
+      "minecraft:snowy_plains": "2025-06-27 20:23:52 +0000",
       "minecraft:dripstone_caves": "2025-06-26 12:11:14 +0000",
       "minecraft:snowy_taiga": "2025-06-26 13:24:22 +0000",
       "minecraft:cold_ocean": "2025-06-26 13:33:05 +0000",
       "minecraft:forest": "2025-06-26 13:03:07 +0000",
       "minecraft:deep_cold_ocean": "2025-06-27 19:38:25 +0000",
+      "minecraft:frozen_ocean": "2025-06-27 20:12:49 +0000",
+      "minecraft:deep_frozen_ocean": "2025-06-27 20:23:31 +0000",
       "minecraft:ocean": "2025-06-26 19:55:55 +0000",
+      "minecraft:jungle": "2025-06-27 20:19:21 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-26 14:42:07 +0000",
+      "minecraft:snowy_beach": "2025-06-27 20:23:51 +0000",
+      "minecraft:warm_ocean": "2025-06-27 20:19:13 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-26 20:51:44 +0000",
       "minecraft:flower_forest": "2025-06-26 22:49:37 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-26 21:41:02 +0000",
@@ -2571,11 +2580,14 @@
       "biomeswevegone:basalt_barrera": "2025-06-26 19:16:49 +0000",
       "biomeswevegone:aspen_boreal": "2025-06-26 21:03:26 +0000",
       "biomeswevegone:dacite_ridges": "2025-06-26 13:25:31 +0000",
+      "biomeswevegone:frosted_coniferous_forest": "2025-06-27 20:43:21 +0000",
+      "biomeswevegone:shattered_glacier": "2025-06-27 20:38:44 +0000",
       "biomeswevegone:dacite_shore": "2025-06-26 14:43:43 +0000",
       "biomeswevegone:skyrise_vale": "2025-06-26 12:00:18 +0000",
       "biomeswevegone:allium_shrubland": "2025-06-26 13:42:32 +0000",
       "biomeswevegone:pumpkin_valley": "2025-06-26 13:29:33 +0000",
       "biomeswevegone:baobab_savanna": "2025-06-26 20:46:45 +0000",
+      "biomeswevegone:crimson_tundra": "2025-06-27 20:44:00 +0000",
       "biomeswevegone:overgrowth_woodlands": "2025-06-26 12:08:23 +0000"
     },
     "done": false
@@ -6115,6 +6127,72 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-06-27 15:46:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-06-27 20:36:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-06-27 20:36:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-06-27 20:49:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-06-27 20:48:17 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_frosted_prison": {
+    "criteria": {
+      "prison": "2025-06-27 20:44:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2025-06-27 20:36:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-06-27 20:36:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2025-06-27 20:36:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-06-27 20:49:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2025-06-27 20:50:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2025-06-27 20:36:17 +0000"
     },
     "done": true
   },

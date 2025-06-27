@@ -1707,8 +1707,10 @@
       "minecraft:sunflower_plains": "2025-06-27 18:43:24 +0000",
       "minecraft:birch_forest": "2025-06-26 19:55:15 +0000",
       "minecraft:windswept_hills": "2025-06-27 18:54:51 +0000",
+      "minecraft:wooded_badlands": "2025-06-27 20:19:02 +0000",
       "minecraft:savanna_plateau": "2025-06-26 23:50:37 +0000",
       "minecraft:beach": "2025-06-26 19:16:20 +0000",
+      "minecraft:sparse_jungle": "2025-06-27 20:18:45 +0000",
       "minecraft:river": "2025-06-26 17:15:13 +0000",
       "minecraft:lukewarm_ocean": "2025-06-26 23:37:12 +0000",
       "minecraft:snowy_plains": "2025-06-27 17:55:20 +0000",
@@ -1719,10 +1721,12 @@
       "minecraft:deep_cold_ocean": "2025-06-27 14:22:36 +0000",
       "minecraft:ice_spikes": "2025-06-27 17:49:06 +0000",
       "minecraft:frozen_ocean": "2025-06-27 17:50:15 +0000",
+      "minecraft:deep_frozen_ocean": "2025-06-27 20:23:29 +0000",
       "minecraft:ocean": "2025-06-26 19:16:24 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-26 19:35:18 +0000",
       "minecraft:snowy_beach": "2025-06-27 17:50:20 +0000",
       "minecraft:windswept_savanna": "2025-06-27 18:54:58 +0000",
+      "minecraft:warm_ocean": "2025-06-27 20:19:09 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-26 23:29:17 +0000",
       "minecraft:flower_forest": "2025-06-27 19:30:49 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-27 00:02:24 +0000",
@@ -1739,6 +1743,7 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:redwood_thicket": "2025-06-27 20:20:19 +0000",
       "biomeswevegone:araucaria_savanna": "2025-06-26 23:50:27 +0000",
       "biomeswevegone:crag_gardens": "2025-06-27 16:34:41 +0000",
       "biomeswevegone:temperate_grove": "2025-06-26 17:56:30 +0000",
@@ -1755,6 +1760,7 @@
       "biomeswevegone:ebony_woods": "2025-06-27 16:34:16 +0000",
       "biomeswevegone:basalt_barrera": "2025-06-26 19:16:45 +0000",
       "biomeswevegone:aspen_boreal": "2025-06-27 00:03:50 +0000",
+      "biomeswevegone:dacite_ridges": "2025-06-27 20:08:05 +0000",
       "biomeswevegone:frosted_coniferous_forest": "2025-06-27 18:14:40 +0000",
       "biomeswevegone:shattered_glacier": "2025-06-27 17:49:50 +0000",
       "biomeswevegone:skyrise_vale": "2025-06-25 21:58:48 +0000",
@@ -5850,51 +5856,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blast_furnace": {
+  "minecraft:recipes/decorations/composter": {
     "criteria": {
-      "has_smooth_stone": "2025-06-27 16:42:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_banner": {
-    "criteria": {
-      "has_brown_wool": "2025-06-27 19:11:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2025-06-27 17:01:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_bed": {
-    "criteria": {
-      "has_brown_wool": "2025-06-27 19:11:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2025-06-27 18:05:53 +0000"
+      "has_wood_slab": "2025-06-27 16:30:13 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-06-27 16:38:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2025-06-27 16:38:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
-    "criteria": {
-      "has_blue_orchid": "2025-06-27 19:01:07 +0000"
     },
     "done": true
   },
@@ -5910,51 +5880,9 @@
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-06-27 17:08:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-06-27 18:37:17 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_frosted_prison": {
-    "criteria": {
-      "prison": "2025-06-27 17:55:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2025-06-27 18:57:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
-    "criteria": {
-      "has_pink_petals": "2025-06-27 19:45:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-06-27 16:38:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2025-06-27 19:14:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_carpet": {
-    "criteria": {
-      "has_brown_wool": "2025-06-27 19:11:51 +0000"
     },
     "done": true
   },
@@ -5970,27 +5898,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2025-06-27 19:14:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-06-27 16:30:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-06-27 16:38:21 +0000"
     },
     "done": true
   },
-  "minecraft:story/enchant_item": {
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
-      "enchanted_item": "2025-06-27 17:15:55 +0000"
+      "has_stone_bricks": "2025-06-27 16:38:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-27 16:38:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-06-27 16:38:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-06-27 16:38:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-27 16:42:25 +0000"
     },
     "done": true
   },
@@ -6006,21 +5946,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+  "securitycraft:recipes/misc/reinforced_lectern": {
     "criteria": {
-      "has_stone_bricks": "2025-06-27 16:38:21 +0000"
+      "has_bookshelf": "2025-06-27 16:55:36 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_dispenser": {
+  "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
-      "has_bow": "2025-06-27 18:37:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-06-27 16:38:21 +0000"
+      "has_flint": "2025-06-27 17:01:59 +0000"
     },
     "done": true
   },
@@ -6030,27 +5964,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
+  "minecraft:story/form_obsidian": {
     "criteria": {
-      "has_potato": "2025-06-27 19:14:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-06-27 16:38:23 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_lectern": {
-    "criteria": {
-      "has_bookshelf": "2025-06-27 16:55:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2025-06-27 18:57:42 +0000"
+      "obsidian": "2025-06-27 17:08:27 +0000"
     },
     "done": true
   },
@@ -6060,9 +5976,159 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-06-27 17:15:55 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_frosted_prison": {
+    "criteria": {
+      "prison": "2025-06-27 17:55:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-06-27 18:05:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-06-27 18:05:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-27 18:37:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-27 18:37:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-27 18:57:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-27 18:57:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-06-27 19:01:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-06-27 19:11:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-06-27 19:11:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-06-27 19:11:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-06-27 19:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-06-27 19:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-06-27 19:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-06-27 19:45:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-27 19:48:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-27 19:48:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-27 19:48:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-06-27 19:48:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/protecto": {
+    "criteria": {
+      "has_ender_eye": "2025-06-27 19:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-06-27 19:48:48 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/eyebomination": {
+    "criteria": {
+      "has_item": "2025-06-27 19:48:48 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-06-27 20:41:59 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_all_bosses": {
+    "criteria": {
+      "cataclysm:maledictus": "2025-06-27 20:46:08 +0000"
+    },
+    "done": false
+  },
+  "cataclysm:kill_maledictus": {
+    "criteria": {
+      "ignis": "2025-06-27 20:46:08 +0000"
     },
     "done": true
   },
