@@ -470,3 +470,20 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [27Jun2025 16:33:00.910] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: biomeswevegone:village/pumpkin_patch/chicken
 [27Jun2025 16:33:01.375] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/pumpkin_patch/streets
 [27Jun2025 16:33:02.699] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/pumpkin_patch/streets
+[27Jun2025 16:35:30.518] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: luciaypec8[/127.31.76.185:33533] logged in with entity id 6480 at (-373.4889311764639, 69.0, 124.68657853325202)
+[27Jun2025 16:35:30.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 joined the game
+[27Jun2025 16:35:30.591] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player luciaypec8 just logged in with id afbac492-7d10-355b-8df7-5ad37f55fed5
+[27Jun2025 16:35:30.881] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/luciaypec8
+[27Jun2025 16:35:30.992] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/luciaypec8
+[27Jun2025 16:35:31.113] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/luciaypec8
+[27Jun2025 16:35:31.739] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of luciaypec8 (18)
+[27Jun2025 16:35:31.740] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to luciaypec8
+[27Jun2025 16:37:52.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mikel17pro moved wrongly!
+[27Jun2025 16:40:10.453] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: estrems[/127.17.131.178:57461] logged in with entity id 10359 at (-67.39019803340457, 83.0, -272.00935166038494)
+[27Jun2025 16:40:10.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems joined the game
+[27Jun2025 16:40:10.483] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player estrems just logged in with id 002593b6-47c6-3516-a440-6abefab6faf4
+[27Jun2025 16:40:10.486] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player estrems[002593b6-47c6-3516-a440-6abefab6faf4]
+[27Jun2025 16:40:10.548] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/estrems downloaded
+[27Jun2025 16:40:11.020] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of estrems (18)
+[27Jun2025 16:40:11.020] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to estrems
+[27Jun2025 16:42:09.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: estrems moved wrongly!
