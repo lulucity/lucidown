@@ -6752,15 +6752,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
-      "has_sentry_armor_trim_smithing_template": "2025-06-27 17:01:29 +0000"
+      "has_sunflower": "2025-06-27 16:52:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-06-27 16:58:23 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/pink_dye_from_bwg_2_dye_tag": {
     "criteria": {
       "has_2_dye_tag": "2025-06-27 17:00:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-06-27 17:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-27 17:01:29 +0000"
     },
     "done": true
   },
@@ -6773,18 +6791,6 @@
   "minecraft:recipes/building_blocks/rocky_stone_stairs_from_rocky_stone_stonecutting": {
     "criteria": {
       "has_rocky_stone": "2025-06-27 17:50:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
-    "criteria": {
-      "has_sunflower": "2025-06-27 16:52:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/purple_dye_from_bwg_dye_tag": {
-    "criteria": {
-      "has_dye_tag": "2025-06-27 16:58:23 +0000"
     },
     "done": true
   },
@@ -6815,12 +6821,6 @@
   "biomeswevegone:recipes/decorations/rocky_stone_wall": {
     "criteria": {
       "has_rocky_stone": "2025-06-27 17:50:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-06-27 17:01:29 +0000"
     },
     "done": true
   },

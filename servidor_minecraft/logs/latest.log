@@ -665,3 +665,28 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [27Jun2025 19:27:31.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 left the game
 [27Jun2025 19:27:31.655] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client luciaypec8
 [27Jun2025 19:28:20.252] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved too quickly! -2.722088965829357,0.5800000131130219,-9.852692926108272
+[27Jun2025 19:29:58.259] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: luciaypec8[/127.31.76.185:58897] logged in with entity id 106550 at (-377.3321153013641, 68.0, 112.04285437644147)
+[27Jun2025 19:29:58.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 joined the game
+[27Jun2025 19:29:58.328] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player luciaypec8 just logged in with id afbac492-7d10-355b-8df7-5ad37f55fed5
+[27Jun2025 19:29:58.588] [ForkJoinPool-3-worker-9/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/luciaypec8
+[27Jun2025 19:29:58.683] [ForkJoinPool-3-worker-9/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/luciaypec8
+[27Jun2025 19:29:58.779] [ForkJoinPool-3-worker-9/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/luciaypec8
+[27Jun2025 19:29:59.554] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of luciaypec8 (18)
+[27Jun2025 19:29:59.554] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to luciaypec8
+[27Jun2025 19:31:18.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
+[27Jun2025 19:31:29.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
+[27Jun2025 19:31:37.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
+[27Jun2025 19:31:49.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
+[27Jun2025 19:32:09.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
+[27Jun2025 19:32:49.890] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/106197, l='ServerLevel[world]', x=-2868.12, y=88.00, z=-13591.85] died, message: 'Villager was slain by Zombie'
+[27Jun2025 19:32:58.488] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/106196, l='ServerLevel[world]', x=-2869.49, y=88.00, z=-13591.70] died, message: 'Leatherworker was slain by Zombie'
+[27Jun2025 19:34:32.026] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
+[27Jun2025 19:35:47.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
+[27Jun2025 19:36:48.723] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[27Jun2025 19:37:06.507] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2798ms or 55 ticks behind
+[27Jun2025 19:37:25.168] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[27Jun2025 19:37:59.834] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[27Jun2025 19:38:17.875] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3066ms or 61 ticks behind
+[27Jun2025 19:38:30.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pikachu1572 was cursed by Maledictus 's Magic
+[27Jun2025 19:38:39.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: estrems moved wrongly!
+[27Jun2025 19:39:01.128] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=110, z=-260} BlockPos{x=-73, y=109, z=-261}
