@@ -1707,6 +1707,7 @@
     "criteria": {
       "biomeswevegone:cika_woods": "2025-06-26 11:57:59 +0000",
       "biomeswevegone:araucaria_savanna": "2025-06-26 19:07:50 +0000",
+      "biomeswevegone:crag_gardens": "2025-06-27 00:23:15 +0000",
       "biomeswevegone:sakura_grove": "2025-06-26 14:26:20 +0000",
       "biomeswevegone:enchanted_tangle": "2025-06-26 17:51:07 +0000",
       "biomeswevegone:temperate_grove": "2025-06-26 11:57:05 +0000",
@@ -1724,15 +1725,19 @@
       "biomeswevegone:amaranth_grassland": "2025-06-26 17:48:18 +0000",
       "biomeswevegone:weeping_witch_forest": "2025-06-26 12:02:09 +0000",
       "biomeswevegone:prairie": "2025-06-26 01:17:13 +0000",
+      "biomeswevegone:ebony_woods": "2025-06-27 00:18:50 +0000",
+      "biomeswevegone:rose_fields": "2025-06-27 00:17:06 +0000",
       "biomeswevegone:basalt_barrera": "2025-06-26 01:25:46 +0000",
       "biomeswevegone:aspen_boreal": "2025-06-26 01:05:00 +0000",
       "biomeswevegone:dacite_ridges": "2025-06-25 22:59:43 +0000",
+      "biomeswevegone:frosted_coniferous_forest": "2025-06-27 01:21:24 +0000",
       "biomeswevegone:dacite_shore": "2025-06-26 13:07:43 +0000",
       "biomeswevegone:skyrise_vale": "2025-06-25 21:58:23 +0000",
       "biomeswevegone:dead_sea": "2025-06-26 17:51:35 +0000",
       "biomeswevegone:allium_shrubland": "2025-06-26 00:23:42 +0000",
       "biomeswevegone:pumpkin_valley": "2025-06-25 23:20:48 +0000",
       "biomeswevegone:baobab_savanna": "2025-06-26 17:46:15 +0000",
+      "biomeswevegone:crimson_tundra": "2025-06-27 01:23:33 +0000",
       "biomeswevegone:overgrowth_woodlands": "2025-06-25 21:50:42 +0000",
       "biomeswevegone:coniferous_forest": "2025-06-26 12:27:37 +0000",
       "biomeswevegone:bayou": "2025-06-26 12:28:42 +0000",
@@ -2718,6 +2723,7 @@
       "minecraft:birch_forest": "2025-06-26 11:41:15 +0000",
       "minecraft:windswept_hills": "2025-06-26 12:13:51 +0000",
       "minecraft:wooded_badlands": "2025-06-26 17:51:26 +0000",
+      "minecraft:bamboo_jungle": "2025-06-27 00:24:26 +0000",
       "minecraft:badlands": "2025-06-26 22:02:59 +0000",
       "minecraft:savanna_plateau": "2025-06-26 17:31:56 +0000",
       "minecraft:beach": "2025-06-25 23:05:55 +0000",
@@ -2727,13 +2733,16 @@
       "minecraft:river": "2025-06-25 23:00:30 +0000",
       "minecraft:lukewarm_ocean": "2025-06-26 17:46:08 +0000",
       "minecraft:stony_shore": "2025-06-25 23:01:46 +0000",
+      "minecraft:snowy_plains": "2025-06-27 01:23:25 +0000",
       "minecraft:snowy_taiga": "2025-06-25 23:10:21 +0000",
       "minecraft:swamp": "2025-06-26 12:05:02 +0000",
+      "minecraft:grove": "2025-06-27 01:12:39 +0000",
       "minecraft:jagged_peaks": "2025-06-26 18:50:25 +0000",
       "minecraft:cold_ocean": "2025-06-25 23:03:20 +0000",
       "minecraft:forest": "2025-06-25 23:03:18 +0000",
       "minecraft:lush_caves": "2025-06-26 12:11:39 +0000",
       "minecraft:deep_cold_ocean": "2025-06-26 17:29:44 +0000",
+      "minecraft:ice_spikes": "2025-06-27 01:25:01 +0000",
       "minecraft:frozen_ocean": "2025-06-25 23:58:23 +0000",
       "minecraft:desert": "2025-06-26 21:45:56 +0000",
       "minecraft:windswept_forest": "2025-06-26 12:24:24 +0000",
@@ -2809,6 +2818,7 @@
       "apple": "2025-06-25 23:15:22 +0000",
       "pumpkin_pie": "2025-06-25 23:46:25 +0000",
       "bread": "2025-06-25 23:20:30 +0000",
+      "golden_apple": "2025-06-26 22:46:18 +0000",
       "rotten_flesh": "2025-06-25 23:05:38 +0000",
       "cooked_chicken": "2025-06-25 23:25:29 +0000"
     },
@@ -6888,12 +6898,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/guster": {
-    "criteria": {
-      "killed_by": "2025-06-26 21:54:47 +0000"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/rattlesnake": {
     "criteria": {
       "killed_by": "2025-06-26 21:46:36 +0000"
@@ -6906,9 +6910,267 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2025-06-26 21:54:47 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/maraca": {
     "criteria": {
       "maraca": "2025-06-26 21:58:53 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2025-06-26 22:26:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-06-26 22:43:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-06-26 22:43:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-06-26 22:43:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-06-26 22:43:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-26 22:59:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-06-26 22:59:06 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_all_bosses": {
+    "criteria": {
+      "cataclysm:ancient_remnant": "2025-06-26 23:33:51 +0000"
+    },
+    "done": false
+  },
+  "cataclysm:kill_remnant": {
+    "criteria": {
+      "ignis": "2025-06-26 23:33:51 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-06-27 00:53:08 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_battle_staff_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-27 01:13:12 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/cika_wood": {
+    "criteria": {
+      "has_log": "2025-06-27 01:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-06-27 01:12:39 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_glaive_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-27 01:13:12 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_claymore_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-27 01:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-06-27 01:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-27 01:13:12 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_sickle_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-27 01:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-06-27 01:13:12 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_katana_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-27 01:13:12 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_cutlass_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-27 01:13:12 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_dancer_s_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-27 01:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-06-27 01:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-06-27 01:16:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-27 01:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-27 01:13:12 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_scythe_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-27 01:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-06-27 01:13:12 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_great_hammer_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-27 01:13:12 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-06-27 01:32:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-27 01:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-06-27 01:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-06-27 01:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-06-27 01:10:05 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_broad_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-27 01:13:12 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/cika_planks": {
+    "criteria": {
+      "has_log": "2025-06-27 01:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-27 01:10:05 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_mace_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-27 01:13:12 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_spear_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-27 01:13:12 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_dagger_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-27 01:13:12 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_flail_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-27 01:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-06-27 01:12:39 +0000"
     },
     "done": true
   },

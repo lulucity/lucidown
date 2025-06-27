@@ -1705,6 +1705,7 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:cika_woods": "2025-06-27 01:15:41 +0000",
       "biomeswevegone:araucaria_savanna": "2025-06-26 02:22:43 +0000",
       "biomeswevegone:windswept_desert": "2025-06-26 13:25:18 +0000",
       "biomeswevegone:crag_gardens": "2025-06-26 13:08:53 +0000",
@@ -1712,11 +1713,14 @@
       "biomeswevegone:sakura_grove": "2025-06-26 00:10:15 +0000",
       "biomeswevegone:enchanted_tangle": "2025-06-26 02:31:14 +0000",
       "biomeswevegone:temperate_grove": "2025-06-26 17:59:14 +0000",
+      "biomeswevegone:zelkova_forest": "2025-06-27 01:15:57 +0000",
       "biomeswevegone:forgotten_forest": "2025-06-25 21:51:21 +0000",
       "biomeswevegone:firecracker_chaparral": "2025-06-26 17:30:42 +0000",
       "biomeswevegone:coconino_meadow": "2025-06-25 23:05:55 +0000",
       "biomeswevegone:lush_stacks": "2025-06-26 02:22:06 +0000",
+      "biomeswevegone:black_forest": "2025-06-27 01:06:55 +0000",
       "biomeswevegone:maple_taiga": "2025-06-25 22:54:55 +0000",
+      "biomeswevegone:frosted_taiga": "2025-06-27 01:21:10 +0000",
       "biomeswevegone:ironwood_gour": "2025-06-26 02:29:03 +0000",
       "biomeswevegone:orchard": "2025-06-26 02:27:45 +0000",
       "biomeswevegone:amaranth_grassland": "2025-06-26 02:31:15 +0000",
@@ -1725,6 +1729,7 @@
       "biomeswevegone:basalt_barrera": "2025-06-26 02:22:24 +0000",
       "biomeswevegone:aspen_boreal": "2025-06-26 02:31:20 +0000",
       "biomeswevegone:dacite_ridges": "2025-06-25 22:55:38 +0000",
+      "biomeswevegone:frosted_coniferous_forest": "2025-06-27 01:22:27 +0000",
       "biomeswevegone:skyrise_vale": "2025-06-25 21:55:52 +0000",
       "biomeswevegone:dead_sea": "2025-06-26 21:16:17 +0000",
       "biomeswevegone:allium_shrubland": "2025-06-25 23:47:49 +0000",
@@ -1732,6 +1737,7 @@
       "biomeswevegone:tropical_rainforest": "2025-06-26 13:14:50 +0000",
       "biomeswevegone:baobab_savanna": "2025-06-26 02:25:55 +0000",
       "biomeswevegone:overgrowth_woodlands": "2025-06-25 21:54:06 +0000",
+      "biomeswevegone:coniferous_forest": "2025-06-27 01:19:06 +0000",
       "biomeswevegone:rainbow_beach": "2025-06-26 02:22:37 +0000"
     },
     "done": false
@@ -1745,6 +1751,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-06-25 23:33:50 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-06-27 01:05:35 +0000",
       "minecraft:taiga": "2025-06-25 22:53:09 +0000",
       "minecraft:deep_ocean": "2025-06-26 02:19:42 +0000",
       "minecraft:frozen_river": "2025-06-26 18:00:38 +0000",
@@ -1760,8 +1767,11 @@
       "minecraft:river": "2025-06-25 22:56:09 +0000",
       "minecraft:lukewarm_ocean": "2025-06-26 17:49:00 +0000",
       "minecraft:stony_shore": "2025-06-25 22:59:46 +0000",
+      "minecraft:snowy_plains": "2025-06-27 01:23:25 +0000",
       "minecraft:snowy_taiga": "2025-06-26 18:01:34 +0000",
       "minecraft:dripstone_caves": "2025-06-26 22:17:53 +0000",
+      "minecraft:grove": "2025-06-27 01:12:27 +0000",
+      "minecraft:jagged_peaks": "2025-06-27 01:11:54 +0000",
       "minecraft:cold_ocean": "2025-06-25 23:03:39 +0000",
       "minecraft:forest": "2025-06-26 02:10:24 +0000",
       "minecraft:deep_cold_ocean": "2025-06-26 02:19:45 +0000",
@@ -1774,6 +1784,7 @@
       "minecraft:deep_lukewarm_ocean": "2025-06-26 18:29:09 +0000",
       "minecraft:flower_forest": "2025-06-25 23:44:06 +0000",
       "minecraft:frozen_peaks": "2025-06-25 23:42:21 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-27 00:58:29 +0000",
       "minecraft:meadow": "2025-06-25 21:54:08 +0000",
       "minecraft:savanna": "2025-06-26 17:39:41 +0000",
       "minecraft:plains": "2025-06-25 23:06:02 +0000"
@@ -3679,6 +3690,7 @@
       "minecraft:spider": "2025-06-26 00:34:04 +0000",
       "minecraft:creeper": "2025-06-26 11:13:09 +0000",
       "minecraft:slime": "2025-06-26 15:48:25 +0000",
+      "minecraft:phantom": "2025-06-27 00:09:32 +0000",
       "minecraft:husk": "2025-06-26 20:30:19 +0000",
       "minecraft:cave_spider": "2025-06-26 14:38:44 +0000",
       "minecraft:enderman": "2025-06-26 15:37:10 +0000",
@@ -7807,21 +7819,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/mushroom_rice": {
-    "criteria": {
-      "has_any_ingredient": "2025-06-26 22:18:30 +0000"
-    },
-    "done": true
-  },
   "celestisynth:recipes/misc/lunar_scrap_smelting": {
     "criteria": {
       "has_item": "2025-06-26 22:18:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-06-26 22:20:43 +0000"
     },
     "done": true
   },
@@ -7831,45 +7831,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2025-06-26 22:20:43 +0000"
-    },
-    "done": true
-  },
   "celestisynth:recipes/combat/lunar_stone_chestplate": {
     "criteria": {
       "has_item": "2025-06-26 22:18:23 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/cooked_rice": {
-    "criteria": {
-      "has_rice": "2025-06-26 22:18:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2025-06-26 22:20:43 +0000"
-    },
-    "done": true
-  },
   "celestisynth:recipes/combat/lunar_stone_leggings": {
     "criteria": {
       "has_item": "2025-06-26 22:18:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dripstone_block": {
-    "criteria": {
-      "has_pointed_dripstone": "2025-06-26 22:21:39 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/rice_bag": {
-    "criteria": {
-      "has_rice": "2025-06-26 22:18:30 +0000"
     },
     "done": true
   },
@@ -7882,6 +7852,240 @@
   "celestisynth:recipes/misc/lunar_scrap_blasting": {
     "criteria": {
       "has_item": "2025-06-26 22:18:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-26 22:18:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-06-26 22:18:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-06-26 22:18:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-06-26 22:20:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-06-26 22:20:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-06-26 22:20:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-06-26 22:21:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-06-27 00:03:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-06-27 00:34:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/rabbit_leather_gauntlet_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-27 00:34:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/rabbit_leather_quiver_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-27 00:34:59 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-06-27 00:42:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-06-27 00:42:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-27 00:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-27 00:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-27 00:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-27 00:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-27 00:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-27 00:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-27 00:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-27 00:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-27 00:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-27 00:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-27 00:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-27 00:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-27 00:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-27 00:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-27 00:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-27 00:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2025-06-27 00:45:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-06-27 00:45:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-06-27 00:45:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-06-27 01:27:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-06-27 01:38:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-06-27 01:38:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-06-27 01:38:30 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-06-27 01:26:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-06-27 01:19:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-06-27 01:38:09 +0000"
     },
     "done": true
   },
