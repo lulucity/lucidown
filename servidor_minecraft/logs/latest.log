@@ -452,3 +452,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [27Jun2025 11:16:35.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pikachu1572 moved wrongly!
 [27Jun2025 11:18:38.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pikachu1572 has made the advancement [Bonfire Lit]
 [27Jun2025 11:19:33.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pikachu1572 has made the advancement [Tactical Fishing]
+[27Jun2025 11:27:37.264] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pikachu1572 moved wrongly!
+[27Jun2025 11:30:26.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pikachu1572 has made the advancement [Hot Stuff]
+[27Jun2025 11:30:47.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pikachu1572 has made the advancement [Ice Bucket Challenge]
+[27Jun2025 11:34:12.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pikachu1572 moved wrongly!
