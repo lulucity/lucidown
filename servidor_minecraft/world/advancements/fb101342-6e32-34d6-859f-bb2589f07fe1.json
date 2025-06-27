@@ -1710,9 +1710,11 @@
       "minecraft:savanna_plateau": "2025-06-26 14:44:08 +0000",
       "minecraft:beach": "2025-06-25 23:19:56 +0000",
       "minecraft:stony_peaks": "2025-06-26 14:44:46 +0000",
+      "minecraft:dark_forest": "2025-06-27 15:23:49 +0000",
       "minecraft:river": "2025-06-25 23:05:25 +0000",
       "minecraft:lukewarm_ocean": "2025-06-26 14:44:29 +0000",
       "minecraft:stony_shore": "2025-06-26 01:43:21 +0000",
+      "minecraft:snowy_plains": "2025-06-27 15:37:58 +0000",
       "minecraft:dripstone_caves": "2025-06-25 22:50:31 +0000",
       "minecraft:snowy_taiga": "2025-06-26 13:24:19 +0000",
       "minecraft:cold_ocean": "2025-06-26 01:35:18 +0000",
@@ -1721,9 +1723,11 @@
       "minecraft:deep_cold_ocean": "2025-06-27 11:46:51 +0000",
       "minecraft:frozen_ocean": "2025-06-26 01:43:33 +0000",
       "minecraft:desert": "2025-06-26 21:43:45 +0000",
+      "minecraft:deep_frozen_ocean": "2025-06-27 15:59:49 +0000",
       "minecraft:ocean": "2025-06-25 23:22:14 +0000",
       "minecraft:jungle": "2025-06-26 21:43:43 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-26 22:14:58 +0000",
+      "minecraft:snowy_beach": "2025-06-27 16:00:22 +0000",
       "minecraft:warm_ocean": "2025-06-26 22:03:25 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-26 22:23:46 +0000",
       "minecraft:frozen_peaks": "2025-06-26 13:47:46 +0000",
@@ -1763,7 +1767,8 @@
       "rotten_flesh": "2025-06-25 23:00:41 +0000",
       "glow_berries": "2025-06-25 23:21:47 +0000",
       "salmon": "2025-06-27 11:30:04 +0000",
-      "cooked_chicken": "2025-06-26 13:51:09 +0000"
+      "cooked_chicken": "2025-06-26 13:51:09 +0000",
+      "carrot": "2025-06-27 16:03:03 +0000"
     },
     "done": false
   },
@@ -1775,6 +1780,7 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:redwood_thicket": "2025-06-27 15:56:26 +0000",
       "biomeswevegone:cika_woods": "2025-06-26 01:28:44 +0000",
       "biomeswevegone:araucaria_savanna": "2025-06-26 00:09:21 +0000",
       "biomeswevegone:sakura_grove": "2025-06-26 22:10:59 +0000",
@@ -1788,10 +1794,13 @@
       "biomeswevegone:ironwood_gour": "2025-06-25 23:39:11 +0000",
       "biomeswevegone:orchard": "2025-06-25 23:57:23 +0000",
       "biomeswevegone:amaranth_grassland": "2025-06-26 14:45:52 +0000",
+      "biomeswevegone:weeping_witch_forest": "2025-06-27 15:24:07 +0000",
       "biomeswevegone:prairie": "2025-06-25 23:38:01 +0000",
       "biomeswevegone:basalt_barrera": "2025-06-25 23:42:19 +0000",
       "biomeswevegone:aspen_boreal": "2025-06-26 01:56:37 +0000",
       "biomeswevegone:dacite_ridges": "2025-06-26 13:24:45 +0000",
+      "biomeswevegone:frosted_coniferous_forest": "2025-06-27 15:37:24 +0000",
+      "biomeswevegone:shattered_glacier": "2025-06-27 16:01:46 +0000",
       "biomeswevegone:dacite_shore": "2025-06-26 14:55:41 +0000",
       "biomeswevegone:howling_peaks": "2025-06-27 14:25:30 +0000",
       "biomeswevegone:skyrise_vale": "2025-06-25 22:27:29 +0000",
@@ -7147,6 +7156,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-27 15:30:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2025-06-27 15:16:30 +0000"
@@ -7201,6 +7216,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-06-27 16:04:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-06-27 15:21:24 +0000"
@@ -7216,6 +7237,18 @@
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-27 15:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-27 15:30:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-27 15:47:24 +0000"
     },
     "done": true
   },
@@ -7249,6 +7282,12 @@
     },
     "done": true
   },
+  "cataclysm:find_frosted_prison": {
+    "criteria": {
+      "prison": "2025-06-27 15:40:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/axolotl_in_a_bucket": {
     "criteria": {
       "axolotl_bucket": "2025-06-27 14:21:06 +0000"
@@ -7279,15 +7318,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-27 15:47:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-27 15:16:30 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-27 15:47:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-06-27 15:21:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-27 15:47:24 +0000"
     },
     "done": true
   },
@@ -7300,6 +7357,12 @@
   "minecraft:recipes/building_blocks/smooth_red_sandstone_slab": {
     "criteria": {
       "has_smooth_red_sandstone": "2025-06-27 15:04:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-06-27 15:30:41 +0000"
     },
     "done": true
   },
@@ -7327,6 +7390,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-27 15:47:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-27 15:16:30 +0000"
@@ -7342,6 +7411,12 @@
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-27 15:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-27 15:47:24 +0000"
     },
     "done": true
   },
