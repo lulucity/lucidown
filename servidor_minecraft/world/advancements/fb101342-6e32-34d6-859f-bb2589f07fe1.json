@@ -7540,5 +7540,125 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-06-27 21:59:51 +0000"
+    },
+    "done": false
+  },
+  "expanded_combat:recipes/combat/stone_spear_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-27 21:53:30 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_dancer_s_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-27 21:53:30 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_dagger_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-27 21:53:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2025-06-27 21:47:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-27 22:00:10 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_great_hammer_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-27 21:53:30 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_scythe_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-27 21:53:30 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_claymore_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-27 21:53:30 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_sickle_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-27 21:53:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-27 21:59:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-06-27 21:47:54 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_broad_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-27 21:53:30 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_cutlass_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-27 21:53:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-27 21:59:50 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_battle_staff_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-27 21:53:30 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_katana_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-27 21:53:30 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_glaive_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-27 21:53:30 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_flail_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-27 21:53:30 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/stone_mace_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-27 21:53:30 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
