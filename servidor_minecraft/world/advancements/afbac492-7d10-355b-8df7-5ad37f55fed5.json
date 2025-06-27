@@ -8047,6 +8047,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-06-27 01:19:30 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-06-27 01:26:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-06-27 01:27:30 +0000"
@@ -8065,27 +8077,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/packed_ice": {
-    "criteria": {
-      "has_ice": "2025-06-27 01:38:30 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_frostmaw": {
-    "criteria": {
-      "frostmaw": "2025-06-27 01:26:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye_from_bwg_dye_tag": {
-    "criteria": {
-      "has_dye_tag": "2025-06-27 01:19:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-06-27 01:38:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-06-27 01:38:30 +0000"
     },
     "done": true
   },

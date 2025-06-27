@@ -7055,9 +7055,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/grilled_salmon": {
+  "farmersdelight:recipes/decorations/stove": {
     "criteria": {
-      "has_salmon": "2025-06-27 11:26:29 +0000"
+      "has_campfire": "2025-06-27 11:18:18 +0000"
     },
     "done": true
   },
@@ -7067,21 +7067,21 @@
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
+  "minecraft:husbandry/tactical_fishing": {
     "criteria": {
-      "lava_bucket": "2025-06-27 11:30:26 +0000"
+      "salmon_bucket": "2025-06-27 11:19:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-06-27 11:26:29 +0000"
     },
     "done": true
   },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-06-27 11:26:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-06-27 11:30:47 +0000"
     },
     "done": true
   },
@@ -7103,27 +7103,27 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/stove": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "has_campfire": "2025-06-27 11:18:18 +0000"
+      "lava_bucket": "2025-06-27 11:30:26 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/tactical_fishing": {
+  "minecraft:story/form_obsidian": {
     "criteria": {
-      "salmon_bucket": "2025-06-27 11:19:33 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_lectern": {
-    "criteria": {
-      "has_bookshelf": "2025-06-27 11:38:30 +0000"
+      "obsidian": "2025-06-27 11:30:47 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-06-27 11:30:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2025-06-27 11:38:30 +0000"
     },
     "done": true
   },
