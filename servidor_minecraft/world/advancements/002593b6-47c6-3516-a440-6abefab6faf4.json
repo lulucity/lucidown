@@ -1134,6 +1134,7 @@
       "biomeswevegone:sakura_grove": "2025-06-27 00:57:01 +0000",
       "biomeswevegone:enchanted_tangle": "2025-06-26 23:42:09 +0000",
       "biomeswevegone:temperate_grove": "2025-06-26 00:59:57 +0000",
+      "biomeswevegone:zelkova_forest": "2025-06-27 17:01:49 +0000",
       "biomeswevegone:forgotten_forest": "2025-06-25 21:46:57 +0000",
       "biomeswevegone:jacaranda_jungle": "2025-06-26 22:32:56 +0000",
       "biomeswevegone:firecracker_chaparral": "2025-06-26 12:49:25 +0000",
@@ -1144,6 +1145,7 @@
       "biomeswevegone:orchard": "2025-06-26 01:09:09 +0000",
       "biomeswevegone:ironwood_gour": "2025-06-26 03:05:30 +0000",
       "biomeswevegone:amaranth_grassland": "2025-06-26 03:05:19 +0000",
+      "biomeswevegone:weeping_witch_forest": "2025-06-27 17:18:55 +0000",
       "biomeswevegone:prairie": "2025-06-26 12:15:34 +0000",
       "biomeswevegone:ebony_woods": "2025-06-26 22:32:57 +0000",
       "biomeswevegone:rose_fields": "2025-06-26 21:05:13 +0000",
@@ -1758,6 +1760,7 @@
       "minecraft:savanna_plateau": "2025-06-26 23:19:46 +0000",
       "minecraft:beach": "2025-06-26 00:30:21 +0000",
       "minecraft:stony_peaks": "2025-06-27 14:37:52 +0000",
+      "minecraft:dark_forest": "2025-06-27 17:13:11 +0000",
       "minecraft:sparse_jungle": "2025-06-26 21:54:18 +0000",
       "minecraft:river": "2025-06-25 21:48:56 +0000",
       "minecraft:lukewarm_ocean": "2025-06-26 12:47:03 +0000",
@@ -6749,9 +6752,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-06-27 17:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_bwg_2_dye_tag": {
+    "criteria": {
+      "has_2_dye_tag": "2025-06-27 17:00:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-27 17:17:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/rocky_stone_stairs_from_rocky_stone_stonecutting": {
+    "criteria": {
+      "has_rocky_stone": "2025-06-27 17:50:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_sunflower": "2025-06-27 16:52:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-06-27 16:58:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/rocky_stone_wall_from_rocky_stone_stonecutting": {
+    "criteria": {
+      "has_rocky_stone": "2025-06-27 17:50:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/rocky_stone_slab_from_rocky_stone_stonecutting": {
+    "criteria": {
+      "has_rocky_stone": "2025-06-27 17:50:51 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/rocky_stone_stairs": {
+    "criteria": {
+      "has_rocky_stone": "2025-06-27 17:50:51 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/rocky_stone_slab": {
+    "criteria": {
+      "has_rocky_stone": "2025-06-27 17:50:51 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/rocky_stone_wall": {
+    "criteria": {
+      "has_rocky_stone": "2025-06-27 17:50:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-27 17:01:29 +0000"
     },
     "done": true
   },

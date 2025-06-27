@@ -488,3 +488,104 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [27Jun2025 16:40:11.020] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to estrems
 [27Jun2025 16:42:09.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: estrems moved wrongly!
 [27Jun2025 16:52:22.211] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: estrems moved wrongly!
+[27Jun2025 17:07:27.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mikel17pro moved wrongly!
+[27Jun2025 17:08:27.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mikel17pro has made the advancement [Ice Bucket Challenge]
+[27Jun2025 17:09:46.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mikel17pro moved wrongly!
+[27Jun2025 17:15:35.215] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16656ms or 333 ticks behind
+[27Jun2025 17:15:55.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mikel17pro has made the advancement [Enchanter]
+[27Jun2025 17:16:17.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: estrems moved wrongly!
+[27Jun2025 17:17:51.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems has made the advancement [Best Friends Forever]
+[27Jun2025 17:19:04.128] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/30003, l='ServerLevel[world]', x=-271.86, y=63.00, z=-2615.14] died, message: 'Villager was poked to death by a sweet berry bush'
+[27Jun2025 17:35:38.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Żar-ptak (vehicle of estrems) moved wrongly! 0.47027690104170006
+[27Jun2025 17:35:38.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Żar-ptak (vehicle of estrems) moved wrongly! 0.5082200231954062
+[27Jun2025 17:36:09.106] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Żar-ptak (vehicle of estrems) moved wrongly! 0.4720806024566855
+[27Jun2025 17:36:09.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Żar-ptak (vehicle of estrems) moved wrongly! 0.7471129385471471
+[27Jun2025 17:37:49.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems fell from a high place
+[27Jun2025 17:39:08.436] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
+[27Jun2025 17:41:50.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: estrems moved wrongly!
+[27Jun2025 17:49:27.569] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[27Jun2025 17:49:27.569] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[27Jun2025 17:49:30.147] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[27Jun2025 17:49:30.147] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[27Jun2025 17:50:03.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: estrems moved wrongly!
+[27Jun2025 17:50:35.348] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mikel17pro moved wrongly!
+[27Jun2025 17:52:40.784] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Jun2025 17:52:40.884] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Jun2025 17:52:40.980] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Jun2025 17:55:34.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mikel17pro has made the advancement [Frosted Prison]
+[27Jun2025 17:56:59.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mikel17pro moved wrongly!
+[27Jun2025 17:57:05.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mikel17pro moved wrongly!
+[27Jun2025 17:57:07.494] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mikel17pro moved wrongly!
+[27Jun2025 17:58:39.400] [ForkJoinPool-3-worker-4/INFO] [me.edoren.skin_changer.server.ServerMessageHandler/]: Requested skin for player EoMoTTy[e2954cab-02e7-4f0f-8179-4511f282275c]
+[27Jun2025 17:58:39.463] [ForkJoinPool-3-worker-4/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/EoMoTTy downloaded
+[27Jun2025 17:58:39.887] [ForkJoinPool-3-worker-4/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://crafatar.com/skins/e2954cab-02e7-4f0f-8179-4511f282275c downloaded
+[27Jun2025 17:58:39.887] [ForkJoinPool-3-worker-4/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loaded skin for player EoMoTTy[e2954cab-02e7-4f0f-8179-4511f282275c]
+[27Jun2025 17:58:44.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: estrems moved wrongly!
+[27Jun2025 17:59:34.592] [ForkJoinPool-3-worker-4/INFO] [me.edoren.skin_changer.server.ServerMessageHandler/]: Requested skin for player HedwigOwls[b800d1e5-24a4-43fb-b146-6f449f1efb01]
+[27Jun2025 17:59:34.672] [ForkJoinPool-3-worker-4/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/HedwigOwls downloaded
+[27Jun2025 17:59:34.861] [ForkJoinPool-3-worker-4/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://crafatar.com/skins/b800d1e5-24a4-43fb-b146-6f449f1efb01 downloaded
+[27Jun2025 17:59:34.862] [ForkJoinPool-3-worker-4/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loaded skin for player HedwigOwls[b800d1e5-24a4-43fb-b146-6f449f1efb01]
+[27Jun2025 18:01:49.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <estrems> zzzz
+[27Jun2025 18:02:28.859] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: estrems moved wrongly!
+[27Jun2025 18:10:23.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mikel17pro moved wrongly!
+[27Jun2025 18:15:22.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: estrems moved wrongly!
+[27Jun2025 18:31:12.792] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[27Jun2025 18:31:12.795] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[27Jun2025 18:31:29.340] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[27Jun2025 18:32:00.406] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: estrems lost connection: Disconnected
+[27Jun2025 18:32:00.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems left the game
+[27Jun2025 18:32:00.411] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player estrems[002593b6-47c6-3516-a440-6abefab6faf4]
+[27Jun2025 18:32:00.411] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client estrems
+[27Jun2025 18:33:32.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mikel17pro moved wrongly!
+[27Jun2025 18:34:36.700] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: biomeswevegone:village/pumpkin_patch/chicken
+[27Jun2025 18:34:36.700] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: biomeswevegone:village/pumpkin_patch/chicken
+[27Jun2025 18:34:36.717] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: biomeswevegone:village/pumpkin_patch/chicken
+[27Jun2025 18:34:36.718] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: biomeswevegone:village/pumpkin_patch/chicken
+[27Jun2025 18:34:37.165] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/pumpkin_patch/streets
+[27Jun2025 18:34:38.495] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/pumpkin_patch/streets
+[27Jun2025 18:34:38.726] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/pumpkin_patch/streets
+[27Jun2025 18:34:56.083] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=356, y=-12, z=-62}
+[27Jun2025 18:34:56.084] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=356, y=-12, z=-62}
+[27Jun2025 18:34:59.147] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=336, y=-10, z=-45}
+[27Jun2025 18:34:59.148] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=262, y=-12, z=-48}
+[27Jun2025 18:35:01.151] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=356, y=-12, z=-62}
+[27Jun2025 18:35:01.554] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=262, y=-12, z=-48}
+[27Jun2025 18:35:01.587] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=356, y=-12, z=-62}
+[27Jun2025 18:35:02.800] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=356, y=-12, z=-62}
+[27Jun2025 18:35:05.575] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=356, y=-12, z=-62}
+[27Jun2025 18:35:11.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Mikel17pro) moved too quickly! -9.637982219919195,-1.3797195351264548,-3.621488897881136
+[27Jun2025 18:35:11.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Mikel17pro) moved too quickly! -10.337938830715302,-1.486959054386162,-3.8734135444847198
+[27Jun2025 18:35:11.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Mikel17pro) moved too quickly! -11.03976480752317,-1.5942264303768923,-4.124451312625752
+[27Jun2025 18:35:11.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Mikel17pro) moved too quickly! -11.74346420832535,-1.7012715010296233,-4.374632875142197
+[27Jun2025 18:35:11.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Mikel17pro) moved too quickly! -12.449025003472343,-1.8078430888906496,-4.623994152669184
+[27Jun2025 18:35:11.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Mikel17pro) moved too quickly! -13.156419173857103,-1.9136917615220597,-4.872575741055698
+[27Jun2025 18:35:11.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Mikel17pro) moved too quickly! -13.865602029037746,-2.0185725648238844,-5.12042209336505
+[27Jun2025 18:35:11.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Mikel17pro) moved too quickly! -14.576512682342127,-2.1222478981651847,-5.367580903655835
+[27Jun2025 18:35:11.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Mikel17pro) moved too quickly! -15.289074368534784,-2.224533062298093,-5.614102277793791
+[27Jun2025 18:35:11.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Mikel17pro) moved too quickly! -16.003197320766958,-2.3253690995838525,-5.860038885970425
+[27Jun2025 18:35:11.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Mikel17pro) moved too quickly! -16.718786015544993,-2.4246861472447705,-6.105447411406203
+[27Jun2025 18:35:11.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Mikel17pro) moved too quickly! -17.435737546766177,-2.522408973233439,-6.3503870895092405
+[27Jun2025 18:35:11.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Mikel17pro) moved too quickly! -18.153941249202944,-2.6184617747340013,-6.594918585262349
+[27Jun2025 18:35:11.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Mikel17pro) moved too quickly! -18.873278895782278,-2.712772254662738,-6.839103098378473
+[27Jun2025 18:35:11.426] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Mikel17pro) moved too quickly! -19.59362428714894,-2.805274923125978,-7.0830012795431685
+[27Jun2025 18:35:11.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Mikel17pro) moved too quickly! -20.314843884285438,-2.895913898348212,-7.32667262954601
+[27Jun2025 18:35:11.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Mikel17pro) moved too quickly! -21.036798026690576,-2.984645179471258,-7.570175067719902
+[27Jun2025 18:35:11.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Mikel17pro) moved too quickly! -21.759341575347662,-3.0714383108572463,-7.813564398156814
+[27Jun2025 18:35:11.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Mikel17pro) moved too quickly! -22.482324770804098,-3.1562775829833782,-8.056894016535807
+[27Jun2025 18:35:11.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Mikel17pro) moved too quickly! -23.205595254448326,-3.23916287507582,-8.300215009929161
+[27Jun2025 18:35:11.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Mikel17pro) moved too quickly! -23.928999165311325,-3.320109965949314,-8.543576054114965
+[27Jun2025 18:35:11.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Mikel17pro) moved too quickly! -24.652382609448978,-3.3991504771803704,-8.787023509088613
+[27Jun2025 18:35:11.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Mikel17pro) moved too quickly! -25.375593204824327,-3.4763314529069476,-9.03060169757373
+[27Jun2025 18:35:11.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Mikel17pro) moved too quickly! -26.09848159338435,-3.5517146046482964,-9.274353262042496
+[27Jun2025 18:35:11.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Mikel17pro) moved too quickly! -17.881027578937392,-2.3526208135025826,-6.149666993942446
+[27Jun2025 18:35:11.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Mikel17pro) moved too quickly! -18.602842509314996,-2.42464652945975,-6.393888339287514
+[27Jun2025 18:35:11.595] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7991da92[id=<null>,name=Pikachu1572,properties={},legacy=false] (/127.142.165.218:57027) lost connection: Disconnected
+[27Jun2025 18:35:25.615] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pikachu1572[/127.142.165.218:42853] logged in with entity id 78703 at (3817.949999988079, 51.0, 6429.705848762598)
+[27Jun2025 18:35:25.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pikachu1572 joined the game
+[27Jun2025 18:35:25.655] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Pikachu1572 just logged in with id fb101342-6e32-34d6-859f-bb2589f07fe1
+[27Jun2025 18:35:25.668] [ForkJoinPool-3-worker-5/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Pikachu1572[fb101342-6e32-34d6-859f-bb2589f07fe1]
+[27Jun2025 18:35:25.671] [ForkJoinPool-3-worker-5/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player Pikachu1572[fb101342-6e32-34d6-859f-bb2589f07fe1]
+[27Jun2025 18:35:26.883] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Pikachu1572 (18)
+[27Jun2025 18:35:26.883] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Pikachu1572
+[27Jun2025 18:35:30.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mikel17pro moved wrongly!
+[27Jun2025 18:36:37.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pikachu1572 was slain by Aptrgangr

@@ -1709,12 +1709,17 @@
       "minecraft:beach": "2025-06-26 19:16:20 +0000",
       "minecraft:river": "2025-06-26 17:15:13 +0000",
       "minecraft:lukewarm_ocean": "2025-06-26 23:37:12 +0000",
+      "minecraft:snowy_plains": "2025-06-27 17:55:20 +0000",
       "minecraft:stony_shore": "2025-06-27 16:36:12 +0000",
+      "minecraft:snowy_taiga": "2025-06-27 18:14:47 +0000",
       "minecraft:cold_ocean": "2025-06-26 19:24:57 +0000",
       "minecraft:forest": "2025-06-26 17:15:42 +0000",
       "minecraft:deep_cold_ocean": "2025-06-27 14:22:36 +0000",
+      "minecraft:ice_spikes": "2025-06-27 17:49:06 +0000",
+      "minecraft:frozen_ocean": "2025-06-27 17:50:15 +0000",
       "minecraft:ocean": "2025-06-26 19:16:24 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-26 19:35:18 +0000",
+      "minecraft:snowy_beach": "2025-06-27 17:50:20 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-26 23:29:17 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-27 00:02:24 +0000",
       "minecraft:meadow": "2025-06-25 21:56:19 +0000",
@@ -1737,17 +1742,21 @@
       "biomeswevegone:coconino_meadow": "2025-06-26 19:56:10 +0000",
       "biomeswevegone:lush_stacks": "2025-06-26 23:29:20 +0000",
       "biomeswevegone:maple_taiga": "2025-06-26 17:56:09 +0000",
+      "biomeswevegone:frosted_taiga": "2025-06-27 18:15:09 +0000",
       "biomeswevegone:orchard": "2025-06-27 00:01:29 +0000",
       "biomeswevegone:amaranth_grassland": "2025-06-27 15:50:55 +0000",
       "biomeswevegone:prairie": "2025-06-26 17:58:00 +0000",
       "biomeswevegone:ebony_woods": "2025-06-27 16:34:16 +0000",
       "biomeswevegone:basalt_barrera": "2025-06-26 19:16:45 +0000",
       "biomeswevegone:aspen_boreal": "2025-06-27 00:03:50 +0000",
+      "biomeswevegone:frosted_coniferous_forest": "2025-06-27 18:14:40 +0000",
+      "biomeswevegone:shattered_glacier": "2025-06-27 17:49:50 +0000",
       "biomeswevegone:skyrise_vale": "2025-06-25 21:58:48 +0000",
       "biomeswevegone:allium_shrubland": "2025-06-26 17:56:20 +0000",
       "biomeswevegone:pumpkin_valley": "2025-06-26 19:16:57 +0000",
       "biomeswevegone:baobab_savanna": "2025-06-26 23:37:37 +0000",
       "biomeswevegone:crimson_tundra": "2025-06-27 16:43:48 +0000",
+      "biomeswevegone:coniferous_forest": "2025-06-27 18:15:14 +0000",
       "biomeswevegone:rainbow_beach": "2025-06-27 16:34:34 +0000"
     },
     "done": false
@@ -5838,6 +5847,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-27 17:01:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-06-27 18:05:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-06-27 16:38:21 +0000"
@@ -5859,6 +5880,18 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-06-27 16:38:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-27 17:08:27 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_frosted_prison": {
+    "criteria": {
+      "prison": "2025-06-27 17:55:34 +0000"
     },
     "done": true
   },
@@ -5892,6 +5925,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-06-27 17:15:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2025-06-27 16:42:25 +0000"
@@ -5916,9 +5955,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-06-27 17:01:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-06-27 16:38:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2025-06-27 16:55:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-27 17:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-06-27 18:05:53 +0000"
     },
     "done": true
   },
