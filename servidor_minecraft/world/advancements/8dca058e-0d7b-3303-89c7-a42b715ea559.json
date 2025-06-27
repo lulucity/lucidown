@@ -2817,6 +2817,7 @@
       "cooked_mutton": "2025-06-25 23:31:36 +0000",
       "cooked_beef": "2025-06-26 17:42:30 +0000",
       "beef": "2025-06-25 22:00:04 +0000",
+      "baked_potato": "2025-06-27 22:56:10 +0000",
       "apple": "2025-06-25 23:15:22 +0000",
       "pumpkin_pie": "2025-06-25 23:46:25 +0000",
       "bread": "2025-06-25 23:20:30 +0000",
@@ -3522,11 +3523,14 @@
     "criteria": {
       "minecraft:pillager": "2025-06-26 18:57:04 +0000",
       "minecraft:skeleton": "2025-06-25 23:06:19 +0000",
+      "minecraft:hoglin": "2025-06-27 22:23:18 +0000",
       "minecraft:vindicator": "2025-06-27 15:28:49 +0000",
       "minecraft:spider": "2025-06-25 22:55:40 +0000",
+      "minecraft:piglin_brute": "2025-06-27 22:52:02 +0000",
       "minecraft:evoker": "2025-06-26 13:11:58 +0000",
       "minecraft:phantom": "2025-06-27 14:51:50 +0000",
       "minecraft:witch": "2025-06-26 12:29:17 +0000",
+      "minecraft:piglin": "2025-06-27 22:23:20 +0000",
       "minecraft:enderman": "2025-06-26 01:27:29 +0000",
       "minecraft:vex": "2025-06-26 12:32:58 +0000",
       "minecraft:zombie": "2025-06-25 22:58:35 +0000",
@@ -6972,6 +6976,7 @@
   "cataclysm:kill_all_bosses": {
     "criteria": {
       "cataclysm:maledictus": "2025-06-27 20:37:00 +0000",
+      "cataclysm:netherite_monstrosity": "2025-06-27 22:11:19 +0000",
       "cataclysm:ancient_remnant": "2025-06-26 23:33:51 +0000"
     },
     "done": false
@@ -7522,9 +7527,24 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-27 21:59:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-27 21:59:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-06-27 21:59:41 +0000"
+      "minecraft:crimson_forest": "2025-06-27 21:59:41 +0000",
+      "minecraft:nether_wastes": "2025-06-27 22:26:19 +0000",
+      "minecraft:soul_sand_valley": "2025-06-27 22:26:57 +0000",
+      "minecraft:basalt_deltas": "2025-06-27 22:49:12 +0000"
     },
     "done": false
   },
@@ -7558,18 +7578,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-06-27 22:00:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-06-27 21:59:40 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_observer": {
     "criteria": {
       "has_quartz": "2025-06-27 22:00:06 +0000"
@@ -7588,9 +7596,129 @@
     },
     "done": true
   },
-  "minecraft:nether/root": {
+  "minecraft:recipes/misc/nether_brick": {
     "criteria": {
-      "entered_nether": "2025-06-27 21:59:40 +0000"
+      "has_netherrack": "2025-06-27 22:00:07 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-06-27 22:00:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-27 22:01:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-27 22:01:01 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-06-27 22:03:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-06-27 22:14:56 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed": "2025-06-27 22:44:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-06-27 22:41:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-06-27 22:14:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-06-27 22:36:47 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/levitation_block": {
+    "criteria": {
+      "has_blazing_eye": "2025-06-27 22:38:28 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/solar_crystal_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-27 22:33:27 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/blast_amplifier": {
+    "criteria": {
+      "has_blazing_eye": "2025-06-27 22:38:28 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2025-06-27 22:11:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-06-27 22:36:47 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/solar_crystal_helmet": {
+    "criteria": {
+      "has_item": "2025-06-27 22:33:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-06-27 22:14:56 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/solar_crystal_leggings": {
+    "criteria": {
+      "has_item": "2025-06-27 22:33:27 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/solar_crystal_boots": {
+    "criteria": {
+      "has_item": "2025-06-27 22:33:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-06-27 22:36:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-06-27 22:28:37 +0000"
     },
     "done": true
   },

@@ -3691,13 +3691,18 @@
       "minecraft:pillager": "2025-06-26 13:31:37 +0000",
       "minecraft:skeleton": "2025-06-26 00:39:15 +0000",
       "minecraft:ravager": "2025-06-27 18:22:24 +0000",
+      "minecraft:ghast": "2025-06-27 22:13:56 +0000",
+      "minecraft:hoglin": "2025-06-27 22:27:06 +0000",
       "minecraft:vindicator": "2025-06-26 13:43:35 +0000",
+      "minecraft:magma_cube": "2025-06-27 22:19:56 +0000",
       "minecraft:spider": "2025-06-26 00:34:04 +0000",
+      "minecraft:piglin_brute": "2025-06-27 22:19:07 +0000",
       "minecraft:creeper": "2025-06-26 11:13:09 +0000",
       "minecraft:slime": "2025-06-26 15:48:25 +0000",
       "minecraft:phantom": "2025-06-27 00:09:32 +0000",
       "minecraft:husk": "2025-06-26 20:30:19 +0000",
       "minecraft:cave_spider": "2025-06-26 14:38:44 +0000",
+      "minecraft:piglin": "2025-06-27 22:19:10 +0000",
       "minecraft:enderman": "2025-06-26 15:37:10 +0000",
       "minecraft:vex": "2025-06-27 20:01:33 +0000",
       "minecraft:zombie": "2025-06-25 23:38:35 +0000",
@@ -8491,11 +8496,27 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-27 21:59:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-27 21:59:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-06-27 21:59:43 +0000"
+      "minecraft:crimson_forest": "2025-06-27 21:59:43 +0000",
+      "minecraft:nether_wastes": "2025-06-27 22:12:32 +0000",
+      "minecraft:soul_sand_valley": "2025-06-27 22:15:31 +0000",
+      "minecraft:basalt_deltas": "2025-06-27 22:31:33 +0000",
+      "minecraft:warped_forest": "2025-06-27 22:34:20 +0000"
     },
-    "done": false
+    "done": true
   },
   "securitycraft:recipes/building_blocks/reinforced_granite": {
     "criteria": {
@@ -8527,12 +8548,6 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-06-27 21:59:42 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_observer": {
     "criteria": {
       "has_quartz": "2025-06-27 22:00:20 +0000"
@@ -8551,9 +8566,351 @@
     },
     "done": true
   },
-  "minecraft:nether/root": {
+  "cataclysm:find_soul_black_smith": {
     "criteria": {
-      "entered_nether": "2025-06-27 21:59:42 +0000"
+      "blacksmith": "2025-06-27 22:00:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-06-27 22:03:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-06-27 22:03:45 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-06-27 22:04:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-06-27 22:21:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-27 22:20:11 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/netherite_dancer_s_sword_conditional_120_smithing": {
+    "criteria": {
+      "has_item": "2025-06-27 22:20:11 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/supernal_netherite_ingot_smithing": {
+    "criteria": {
+      "has_item": "2025-06-27 22:20:11 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/netherite_mace_conditional_120_smithing": {
+    "criteria": {
+      "has_item": "2025-06-27 22:20:11 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/netherite_cutlass_conditional_120_smithing": {
+    "criteria": {
+      "has_item": "2025-06-27 22:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-06-27 22:34:10 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/netherite_battle_staff_conditional_120_smithing": {
+    "criteria": {
+      "has_item": "2025-06-27 22:20:11 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/supernal_netherite_ingot_smithing_from_core": {
+    "criteria": {
+      "has_item": "2025-06-27 22:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-27 22:20:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-27 22:20:11 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/netherite_katana_conditional_120_smithing": {
+    "criteria": {
+      "has_item": "2025-06-27 22:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-27 22:20:11 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/solar_crystal_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-27 22:20:09 +0000"
+    },
+    "done": true
+  },
+  "ec_es_plugin:recipes/combat/netherite_ninja_gauntlet_conditional_120_smithing": {
+    "criteria": {
+      "has_item": "2025-06-27 22:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-06-27 22:21:55 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/netherite_dagger_conditional_120_smithing": {
+    "criteria": {
+      "has_item": "2025-06-27 22:20:11 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
+    "criteria": {
+      "requirement": "2025-06-27 23:00:44 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/netherite_great_hammer_conditional_120_smithing": {
+    "criteria": {
+      "has_item": "2025-06-27 22:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-27 22:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2025-06-27 22:20:07 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_ghast_tear": "2025-06-27 22:14:01 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/netherite_flail_conditional_120_smithing": {
+    "criteria": {
+      "has_item": "2025-06-27 22:20:11 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/netherite_spear_conditional_120_smithing": {
+    "criteria": {
+      "has_item": "2025-06-27 22:20:11 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/netherite_bow_conditional_120_smithing_singleton": {
+    "criteria": {
+      "has_item": "2025-06-27 22:20:11 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_nether_brick_fence": {
+    "criteria": {
+      "has_stick": "2025-06-27 22:36:10 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/blood_sprayer": {
+    "criteria": {
+      "blood_sprayer": "2025-06-27 22:42:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-06-27 22:20:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-27 22:20:11 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/solar_crystal_helmet": {
+    "criteria": {
+      "has_item": "2025-06-27 22:20:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-06-27 22:21:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-27 22:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-27 22:20:11 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/netherite_claymore_conditional_120_smithing": {
+    "criteria": {
+      "has_item": "2025-06-27 22:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-27 22:20:11 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/netherite_gauntlet_conditional_120_smithing": {
+    "criteria": {
+      "has_item": "2025-06-27 22:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-27 22:20:11 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/netherite_bow_conditional_shaped_skip": {
+    "criteria": {
+      "has_item": "2025-06-27 22:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-27 22:20:11 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/solar_crystal_leggings": {
+    "criteria": {
+      "has_item": "2025-06-27 22:20:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-06-27 22:36:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-06-27 22:36:03 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/netherite_scythe_conditional_120_smithing": {
+    "criteria": {
+      "has_item": "2025-06-27 22:20:11 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/netherite_quiver_conditional_120_smithing": {
+    "criteria": {
+      "has_item": "2025-06-27 22:20:11 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/netherite_sickle_conditional_120_smithing": {
+    "criteria": {
+      "has_item": "2025-06-27 22:20:11 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/netherite_crossbow_conditional_120_smithing": {
+    "criteria": {
+      "has_item": "2025-06-27 22:20:11 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/netherite_glaive_conditional_120_smithing": {
+    "criteria": {
+      "has_item": "2025-06-27 22:20:11 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/solar_crystal_boots": {
+    "criteria": {
+      "has_item": "2025-06-27 22:20:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-27 22:21:55 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/netherite_broad_sword_conditional_120_smithing": {
+    "criteria": {
+      "has_item": "2025-06-27 22:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-06-27 22:18:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-27 22:20:11 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/netherite_arrow_conditional_120_smithing": {
+    "criteria": {
+      "has_item": "2025-06-27 22:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-06-27 22:36:03 +0000"
     },
     "done": true
   },
