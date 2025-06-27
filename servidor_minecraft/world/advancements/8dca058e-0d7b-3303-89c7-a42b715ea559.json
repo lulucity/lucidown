@@ -3526,7 +3526,8 @@
       "minecraft:enderman": "2025-06-26 01:27:29 +0000",
       "minecraft:vex": "2025-06-26 12:32:58 +0000",
       "minecraft:zombie": "2025-06-25 22:58:35 +0000",
-      "minecraft:drowned": "2025-06-26 14:15:25 +0000"
+      "minecraft:drowned": "2025-06-26 14:15:25 +0000",
+      "minecraft:zombie_villager": "2025-06-27 10:49:14 +0000"
     },
     "done": false
   },
@@ -6982,21 +6983,39 @@
     },
     "done": true
   },
-  "expanded_combat:recipes/combat/dark_oak_plank_battle_staff_conditional_shaped": {
+  "minecraft:adventure/voluntary_exile": {
     "criteria": {
-      "has_item": "2025-06-27 01:13:12 +0000"
+      "voluntary_exile": "2025-06-27 01:09:10 +0000"
     },
     "done": true
   },
-  "biomeswevegone:recipes/building_blocks/cika_wood": {
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
-      "has_log": "2025-06-27 01:15:36 +0000"
+      "has_log": "2025-06-27 01:10:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-27 01:10:05 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-06-27 01:12:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-06-27 01:12:39 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_battle_staff_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-06-27 01:13:12 +0000"
     },
     "done": true
   },
@@ -7009,12 +7028,6 @@
   "expanded_combat:recipes/combat/dark_oak_plank_claymore_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-27 01:13:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-06-27 01:09:10 +0000"
     },
     "done": true
   },
@@ -7060,12 +7073,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/purple_dye_from_bwg_dye_tag": {
-    "criteria": {
-      "has_dye_tag": "2025-06-27 01:16:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-27 01:13:12 +0000"
@@ -7096,12 +7103,6 @@
     },
     "done": true
   },
-  "mowziesmobs:kill_frostmaw": {
-    "criteria": {
-      "frostmaw": "2025-06-27 01:32:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-27 01:13:12 +0000"
@@ -7120,27 +7121,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2025-06-27 01:10:05 +0000"
-    },
-    "done": true
-  },
   "expanded_combat:recipes/combat/dark_oak_plank_broad_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2025-06-27 01:13:12 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/cika_planks": {
-    "criteria": {
-      "has_log": "2025-06-27 01:15:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-06-27 01:10:05 +0000"
     },
     "done": true
   },
@@ -7168,9 +7151,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/snow_block": {
+  "biomeswevegone:recipes/building_blocks/cika_wood": {
     "criteria": {
-      "has_snowball": "2025-06-27 01:12:39 +0000"
+      "has_log": "2025-06-27 01:15:36 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/cika_planks": {
+    "criteria": {
+      "has_log": "2025-06-27 01:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-06-27 01:16:16 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-06-27 01:32:18 +0000"
     },
     "done": true
   },

@@ -6009,3 +6009,43 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [27Jun2025 10:46:45.535] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Mikel17pro
 [27Jun2025 10:46:45.535] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Mikel17pro
 [27Jun2025 10:46:45.535] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mikel17pro
+[27Jun2025 10:47:36.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pikachu1572> hola
+[27Jun2025 10:47:41.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mikel17pro> hols
+[27Jun2025 10:47:51.046] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jun2025 10:47:51.065] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jun2025 10:48:09.271] [Server thread/DEBUG] [mixin/]: Mixing boat.VanillaInventoryCodeHooksMixin from securitycraft.mixins.json into net.minecraftforge.items.VanillaInventoryCodeHooks
+[27Jun2025 10:48:09.273] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0(Lnet/geforcemods/securitycraft/entity/SecuritySeaBoat;Lnet/minecraftforge/items/IItemHandler;)Lorg/apache/commons/lang3/tuple/Pair; to md0be85d$lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0$0 in securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin
+[27Jun2025 10:48:33.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotceh9889> soy el rey hielo
+[27Jun2025 10:49:40.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotceh9889> mira
+[27Jun2025 10:50:08.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mikel17pro moved wrongly!
+[27Jun2025 10:52:42.813] [ForkJoinPool-3-worker-4/INFO] [me.edoren.skin_changer.server.ServerMessageHandler/]: Requested skin for player Dino_3737[b9c987ce-51cd-490b-91a3-225c82674c05]
+[27Jun2025 10:52:42.815] [ForkJoinPool-3-worker-4/DEBUG] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/Dino_3737
+[27Jun2025 10:52:42.919] [ForkJoinPool-3-worker-4/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Dino_3737 downloaded
+[27Jun2025 10:52:42.923] [ForkJoinPool-3-worker-4/DEBUG] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://crafatar.com/skins/b9c987ce-51cd-490b-91a3-225c82674c05
+[27Jun2025 10:52:42.933] [ForkJoinPool-3-worker-5/INFO] [me.edoren.skin_changer.server.ServerMessageHandler/]: Requested skin for player EoMoTTy[e2954cab-02e7-4f0f-8179-4511f282275c]
+[27Jun2025 10:52:42.934] [ForkJoinPool-3-worker-5/DEBUG] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/EoMoTTy
+[27Jun2025 10:52:42.965] [ForkJoinPool-3-worker-6/INFO] [me.edoren.skin_changer.server.ServerMessageHandler/]: Requested skin for player HedwigOwls[b800d1e5-24a4-43fb-b146-6f449f1efb01]
+[27Jun2025 10:52:42.966] [ForkJoinPool-3-worker-6/DEBUG] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/HedwigOwls
+[27Jun2025 10:52:43.017] [ForkJoinPool-3-worker-5/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/EoMoTTy downloaded
+[27Jun2025 10:52:43.018] [ForkJoinPool-3-worker-5/DEBUG] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://crafatar.com/skins/e2954cab-02e7-4f0f-8179-4511f282275c
+[27Jun2025 10:52:43.186] [ForkJoinPool-3-worker-6/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/HedwigOwls downloaded
+[27Jun2025 10:52:43.186] [ForkJoinPool-3-worker-6/DEBUG] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://crafatar.com/skins/b800d1e5-24a4-43fb-b146-6f449f1efb01
+[27Jun2025 10:52:43.211] [ForkJoinPool-3-worker-4/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://crafatar.com/skins/b9c987ce-51cd-490b-91a3-225c82674c05 downloaded
+[27Jun2025 10:52:43.215] [ForkJoinPool-3-worker-4/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loaded skin for player Dino_3737[b9c987ce-51cd-490b-91a3-225c82674c05]
+[27Jun2025 10:52:43.488] [ForkJoinPool-3-worker-6/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://crafatar.com/skins/b800d1e5-24a4-43fb-b146-6f449f1efb01 downloaded
+[27Jun2025 10:52:43.489] [ForkJoinPool-3-worker-6/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loaded skin for player HedwigOwls[b800d1e5-24a4-43fb-b146-6f449f1efb01]
+[27Jun2025 10:52:44.264] [ForkJoinPool-3-worker-5/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://crafatar.com/skins/e2954cab-02e7-4f0f-8179-4511f282275c downloaded
+[27Jun2025 10:52:44.270] [ForkJoinPool-3-worker-5/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loaded skin for player EoMoTTy[e2954cab-02e7-4f0f-8179-4511f282275c]
+[27Jun2025 10:52:50.762] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotceh9889 lost connection: Disconnected
+[27Jun2025 10:52:50.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 left the game
+[27Jun2025 10:52:50.766] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of rotceh9889
+[27Jun2025 10:52:50.768] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client rotceh9889
+[27Jun2025 10:52:51.079] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jun2025 10:52:51.098] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jun2025 10:55:10.750] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mikel17pro lost connection: Disconnected
+[27Jun2025 10:55:10.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mikel17pro left the game
+[27Jun2025 10:55:10.750] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Mikel17pro[590a4f1a-04a5-3c6e-91fd-df26399bf97d]
+[27Jun2025 10:55:10.751] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Mikel17pro
+[27Jun2025 10:55:10.751] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mikel17pro
+[27Jun2025 10:57:50.926] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jun2025 10:57:50.939] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
