@@ -449,3 +449,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [27Jun2025 10:55:10.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mikel17pro left the game
 [27Jun2025 10:55:10.750] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Mikel17pro[590a4f1a-04a5-3c6e-91fd-df26399bf97d]
 [27Jun2025 10:55:10.751] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mikel17pro
+[27Jun2025 11:16:35.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pikachu1572 moved wrongly!
+[27Jun2025 11:18:38.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pikachu1572 has made the advancement [Bonfire Lit]
+[27Jun2025 11:19:33.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pikachu1572 has made the advancement [Tactical Fishing]
