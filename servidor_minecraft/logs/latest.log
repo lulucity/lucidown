@@ -577,3 +577,27 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [27Jun2025 14:43:52.473] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: estrems moved wrongly!
 [27Jun2025 14:45:50.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mikel17pro has made the advancement [Voluntary Exile]
 [27Jun2025 14:47:38.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
+[27Jun2025 14:57:20.212] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/47646, l='ServerLevel[world]', x=-461.46, y=68.00, z=17.12]
+[27Jun2025 15:00:00.067] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: estrems moved wrongly!
+[27Jun2025 15:00:18.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotceh9889 moved wrongly!
+[27Jun2025 15:00:28.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pikachu1572 moved wrongly!
+[27Jun2025 15:03:11.914] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-95, y=83, z=-213} BlockPos{x=-95, y=82, z=-214}
+[27Jun2025 15:06:57.751] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/47646, l='ServerLevel[world]', x=-462.53, y=68.00, z=15.51]
+[27Jun2025 15:08:58.501] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotceh9889 moved wrongly!
+[27Jun2025 15:17:46.891] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[27Jun2025 15:17:46.894] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[27Jun2025 15:18:45.411] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pikachu1572 moved wrongly!
+[27Jun2025 15:19:34.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 has completed the challenge [It's Purple!]
+[27Jun2025 15:20:20.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 moved wrongly!
+[27Jun2025 15:21:46.156] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/75166, l='ServerLevel[world]', x=4529.53, y=70.00, z=341.22] died, message: 'Fisherman was pricked to death'
+[27Jun2025 15:23:48.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotceh9889 moved wrongly!
+[27Jun2025 15:24:16.601] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Pikachu1572) moved too quickly! 1.4150315387669252,-5.2605691570905435,9.314844832043491
+[27Jun2025 15:24:16.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Pikachu1572) moved too quickly! 1.5434598713964078,-5.752577303808522,10.170376597684935
+[27Jun2025 15:24:16.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Pikachu1572) moved too quickly! 1.6717571305362071,-6.247210059754053,11.026824282685993
+[27Jun2025 15:24:16.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Pikachu1572) moved too quickly! 1.7999211608712358,-6.744479192255369,11.884112337016631
+[27Jun2025 15:24:16.606] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Pikachu1572) moved too quickly! 1.9279545452336606,-7.244371896232025,12.742180839248704
+[27Jun2025 15:24:16.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Pikachu1572) moved too quickly! 2.055864174166345,-7.746849725763042,13.600985526968543
+[27Jun2025 15:24:16.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Pikachu1572) moved too quickly! 2.1836608335624987,-8.25184805517128,14.4604975985676
+[27Jun2025 15:24:16.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Pikachu1572) moved too quickly! 2.3113588027999867,-8.75927603705341,15.320703448642234
+[27Jun2025 15:24:16.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Pikachu1572) moved too quickly! 2.4389753809991817,-9.269016701134007,16.181603511892718
+[27Jun2025 15:24:16.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Pikachu1572) moved too quickly! 1.280064901849073,-5.0096012559494625,8.582986083202286
