@@ -613,3 +613,36 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [27Jun2025 20:52:55.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pikachu1572 left the game
 [27Jun2025 20:52:55.887] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Pikachu1572[fb101342-6e32-34d6-859f-bb2589f07fe1]
 [27Jun2025 20:52:55.887] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Pikachu1572
+[27Jun2025 21:06:31.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: estrems moved wrongly!
+[27Jun2025 21:06:32.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: estrems moved wrongly!
+[27Jun2025 21:07:26.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: estrems moved wrongly!
+[27Jun2025 21:10:13.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: estrems moved wrongly!
+[27Jun2025 21:10:28.900] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ruben17[/127.242.85.59:36815] logged in with entity id 61469 at (3805.366871978586, 76.0, 6434.699999988079)
+[27Jun2025 21:10:28.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 joined the game
+[27Jun2025 21:10:28.916] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Ruben17 just logged in with id 38de0807-4de7-3327-9c3b-72f51d8c540b
+[27Jun2025 21:10:28.940] [ForkJoinPool-3-worker-4/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ruben17[38de0807-4de7-3327-9c3b-72f51d8c540b]
+[27Jun2025 21:10:29.038] [ForkJoinPool-3-worker-4/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ruben17 downloaded
+[27Jun2025 21:10:29.860] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ruben17 (18)
+[27Jun2025 21:10:29.860] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ruben17
+[27Jun2025 21:11:44.534] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: estrems lost connection: Disconnected
+[27Jun2025 21:11:44.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems left the game
+[27Jun2025 21:11:44.535] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player estrems[002593b6-47c6-3516-a440-6abefab6faf4]
+[27Jun2025 21:11:44.535] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client estrems
+[27Jun2025 21:19:35.369] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luciaypec8 lost connection: Disconnected
+[27Jun2025 21:19:35.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luciaypec8 left the game
+[27Jun2025 21:19:35.370] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client luciaypec8
+[27Jun2025 21:19:57.667] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotceh9889 lost connection: Disconnected
+[27Jun2025 21:19:57.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotceh9889 left the game
+[27Jun2025 21:19:57.668] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client rotceh9889
+[27Jun2025 21:20:12.717] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruben17 lost connection: Disconnected
+[27Jun2025 21:20:12.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ruben17 left the game
+[27Jun2025 21:20:12.717] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Ruben17[38de0807-4de7-3327-9c3b-72f51d8c540b]
+[27Jun2025 21:20:12.718] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ruben17
+[27Jun2025 21:22:16.359] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@19d87b7f[id=<null>,name=estrems,properties={},legacy=false] (/127.17.131.178:51661) lost connection: Disconnected
+[27Jun2025 21:22:26.475] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: estrems[/127.17.131.178:51613] logged in with entity id 64415 at (-41.22201027744714, 126.0, -267.7769590189582)
+[27Jun2025 21:22:26.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: estrems joined the game
+[27Jun2025 21:22:26.505] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player estrems just logged in with id 002593b6-47c6-3516-a440-6abefab6faf4
+[27Jun2025 21:22:26.515] [ForkJoinPool-3-worker-5/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player estrems[002593b6-47c6-3516-a440-6abefab6faf4]
+[27Jun2025 21:22:26.588] [ForkJoinPool-3-worker-5/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/estrems downloaded
+[27Jun2025 21:22:26.900] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of estrems (18)
+[27Jun2025 21:22:26.902] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to estrems
