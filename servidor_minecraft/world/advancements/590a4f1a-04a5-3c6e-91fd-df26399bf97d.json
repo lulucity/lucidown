@@ -1729,6 +1729,7 @@
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:araucaria_savanna": "2025-06-26 23:50:27 +0000",
+      "biomeswevegone:crag_gardens": "2025-06-27 16:34:41 +0000",
       "biomeswevegone:temperate_grove": "2025-06-26 17:56:30 +0000",
       "biomeswevegone:forgotten_forest": "2025-06-26 17:14:56 +0000",
       "biomeswevegone:coconino_meadow": "2025-06-26 19:56:10 +0000",
@@ -1737,12 +1738,14 @@
       "biomeswevegone:orchard": "2025-06-27 00:01:29 +0000",
       "biomeswevegone:amaranth_grassland": "2025-06-27 15:50:55 +0000",
       "biomeswevegone:prairie": "2025-06-26 17:58:00 +0000",
+      "biomeswevegone:ebony_woods": "2025-06-27 16:34:16 +0000",
       "biomeswevegone:basalt_barrera": "2025-06-26 19:16:45 +0000",
       "biomeswevegone:aspen_boreal": "2025-06-27 00:03:50 +0000",
       "biomeswevegone:skyrise_vale": "2025-06-25 21:58:48 +0000",
       "biomeswevegone:allium_shrubland": "2025-06-26 17:56:20 +0000",
       "biomeswevegone:pumpkin_valley": "2025-06-26 19:16:57 +0000",
-      "biomeswevegone:baobab_savanna": "2025-06-26 23:37:37 +0000"
+      "biomeswevegone:baobab_savanna": "2025-06-26 23:37:37 +0000",
+      "biomeswevegone:rainbow_beach": "2025-06-27 16:34:34 +0000"
     },
     "done": false
   },
@@ -5823,6 +5826,12 @@
   "biomeswevegone:recipes/building_blocks/pink_sand": {
     "criteria": {
       "has_sand": "2025-06-27 15:57:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-06-27 16:30:13 +0000"
     },
     "done": true
   },
