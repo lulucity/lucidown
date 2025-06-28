@@ -6275,75 +6275,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
-    "criteria": {
-      "has_ancient_debris": "2025-06-27 22:35:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2025-06-27 22:35:55 +0000"
-    },
-    "done": true
-  },
-  "bosses_of_mass_destruction:recipes/levitation_block": {
-    "criteria": {
-      "has_blazing_eye": "2025-06-27 22:44:02 +0000"
-    },
-    "done": true
-  },
-  "celestisynth:recipes/combat/solar_crystal_chestplate": {
-    "criteria": {
-      "has_item": "2025-06-27 22:35:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
     "criteria": {
       "has_polished_blackstone_slab": "2025-06-27 22:09:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_other": "2025-06-27 22:35:45 +0000"
-    },
-    "done": true
-  },
-  "bosses_of_mass_destruction:recipes/blast_amplifier": {
-    "criteria": {
-      "has_blazing_eye": "2025-06-27 22:44:02 +0000"
-    },
-    "done": true
-  },
-  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
-    "criteria": {
-      "has_ghast_tear": "2025-06-27 22:25:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2025-06-27 22:46:54 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_nether_brick_fence": {
-    "criteria": {
-      "has_stick": "2025-06-27 22:32:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-06-27 22:16:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2025-06-27 22:35:49 +0000"
     },
     "done": true
   },
@@ -6353,9 +6287,87 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-27 22:16:21 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_ghast_tear": "2025-06-27 22:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-06-27 22:27:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_nether_brick_fence": {
+    "criteria": {
+      "has_stick": "2025-06-27 22:32:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-06-27 22:32:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-06-27 22:35:45 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/solar_crystal_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-27 22:35:47 +0000"
+    },
+    "done": true
+  },
   "celestisynth:recipes/combat/solar_crystal_helmet": {
     "criteria": {
       "has_item": "2025-06-27 22:35:47 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/solar_crystal_leggings": {
+    "criteria": {
+      "has_item": "2025-06-27 22:35:47 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/solar_crystal_boots": {
+    "criteria": {
+      "has_item": "2025-06-27 22:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-06-27 22:35:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-06-27 22:35:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-06-27 22:35:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-06-27 22:35:55 +0000"
     },
     "done": true
   },
@@ -6371,39 +6383,27 @@
     },
     "done": true
   },
-  "celestisynth:recipes/combat/solar_crystal_leggings": {
+  "bosses_of_mass_destruction:recipes/levitation_block": {
     "criteria": {
-      "has_item": "2025-06-27 22:35:47 +0000"
+      "has_blazing_eye": "2025-06-27 22:44:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_bricks": {
+  "bosses_of_mass_destruction:recipes/blast_amplifier": {
     "criteria": {
-      "has_nether_brick": "2025-06-27 22:32:14 +0000"
+      "has_blazing_eye": "2025-06-27 22:44:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/respawn_anchor": {
+  "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
-      "has_obsidian": "2025-06-27 22:35:49 +0000"
-    },
-    "done": true
-  },
-  "celestisynth:recipes/combat/solar_crystal_boots": {
-    "criteria": {
-      "has_item": "2025-06-27 22:35:47 +0000"
+      "has_glowstone_dust": "2025-06-27 22:46:54 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-06-27 22:46:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2025-06-27 22:27:45 +0000"
     },
     "done": true
   },
