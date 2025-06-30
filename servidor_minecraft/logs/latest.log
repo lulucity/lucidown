@@ -396,3 +396,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_straw_ha
 [30Jun2025 08:46:22.131] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to estrems
 [30Jun2025 08:46:22.137] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2455ms or 49 ticks behind
 [30Jun2025 08:46:22.162] [ForkJoinPool-3-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/estrems downloaded
+[30Jun2025 08:56:57.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made estrems a server operator
+[30Jun2025 08:57:09.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [estrems: Set own game mode to Creative Mode]
+[30Jun2025 08:57:24.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [estrems: Set own game mode to Survival Mode]
+[30Jun2025 09:09:34.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [estrems: Set own game mode to Creative Mode]
+[30Jun2025 09:09:56.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [estrems: Set own game mode to Survival Mode]

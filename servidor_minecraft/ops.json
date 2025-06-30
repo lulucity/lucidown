@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "002593b6-47c6-3516-a440-6abefab6faf4",
+    "name": "estrems",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
